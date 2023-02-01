@@ -1,0 +1,37 @@
+,USMV
+symbol,USMV
+price,73.2
+beta,0
+volAvg,2995450
+mktCap,0
+lastDiv,1.169
+range,64.56-79.44
+changes,0.85
+companyName,iShares MSCI USA Min Vol Factor ETF
+currency,USD
+cik,
+isin,US46429B6974
+cusip,46429B697
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index measures the performance of large and mid-capitalization equity securities listed on stock exchanges in the U.S. that, in the aggregate, have lower volatility relative to the large- and mid-cap U.S. equity market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USMV.png
+ipoDate,2011-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

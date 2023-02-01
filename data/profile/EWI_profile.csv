@@ -1,0 +1,37 @@
+,EWI
+symbol,EWI
+price,30.27
+beta,1.027747
+volAvg,576159
+mktCap,258808470
+lastDiv,1.232
+range,20.99-33.38
+changes,0.55
+companyName,iShares MSCI Italy ETF
+currency,USD
+cik,
+isin,US46434G8309
+cusip,46434G830
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large- and mid-capitalization segments of the Italian equity market. The fund is non-diversified.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EWI.png
+ipoDate,1996-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

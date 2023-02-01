@@ -1,0 +1,37 @@
+,AVUS
+symbol,AVUS
+price,72.74
+beta,0
+volAvg,299962
+mktCap,0
+lastDiv,1.085
+range,61.777-79.07
+changes,1.17
+companyName,Avantis U.S. Equity ETF
+currency,USD
+cik,0001710607
+isin,US0250728856
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests primarily in a diverse group of U.S. companies across market sectors and industry groups. It may invest in companies of all market capitalizations. Under normal market conditions, the fund will invest at least 80% of its assets in equity securities of U.S. companies. It also may invest in derivative instruments such as futures contracts, currency forwards, and swap agreements."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/AVUS.png
+ipoDate,2019-09-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,QLTA
+symbol,QLTA
+price,48.25
+beta,0
+volAvg,134527
+mktCap,0
+lastDiv,1.166
+range,43.84-54.53
+changes,0.345
+companyName,iShares Aaa - A Rated Corporate Bond ETF
+currency,USD
+cik,
+isin,US46429B2916
+cusip,46429B291
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index. The underlying index is a subset of the Bloomberg U.S. Corporate Index, which measures the performance of the Aaa - A rated range of the fixed-rate, U.S. dollar-denominated taxable, corporate bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QLTA.png
+ipoDate,2012-02-14
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

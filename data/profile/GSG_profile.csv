@@ -1,0 +1,37 @@
+,GSG
+symbol,GSG
+price,21.21
+beta,0
+volAvg,1244793
+mktCap,1326685436
+lastDiv,0
+range,19.02-26.49
+changes,0.34
+companyName,iShares S&P GSCI Commodity-Indexed Trust
+currency,USD
+cik,0001332174
+isin,US46428R1077
+cusip,46428R107
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Trust holds long positions in index futures that have settlement values at expiration based on the level of the S&P GSCI-ER at that time, and earning interest on its non-cash Collateral Assets used to satisfy applicable margin requirements on those index futures positions. The index reflects the return of the S&P GSCI-ER, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the S&P GSCI™."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,1.19494
+dcf,22.3949
+image,https://financialmodelingprep.com/image-stock/GSG.png
+ipoDate,2006-07-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

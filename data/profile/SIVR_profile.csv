@@ -1,0 +1,37 @@
+,SIVR
+symbol,SIVR
+price,22.8
+beta,0
+volAvg,683975
+mktCap,0
+lastDiv,0
+range,16.89-25.95
+changes,0.18
+companyName,abrdn Physical Silver Shares ETF
+currency,USD
+cik,0001450922
+isin,US0032641088
+cusip,003264108
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The shares are intended to constitute a simple and cost-effective means of making an investment similar to an investment in silver. An investment in physical silver requires expensive and sometimes complicated arrangements in connection with the assay, transportation, warehousing and insurance of the metal. Although the shares are not the exact equivalent of an investment in silver, they provide investors with an alternative that allows a level of participation in the silver market through the securities market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,7.62939e-07
+dcf,20.7
+image,https://financialmodelingprep.com/image-stock/SIVR.png
+ipoDate,2009-07-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

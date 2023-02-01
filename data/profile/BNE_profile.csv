@@ -1,0 +1,37 @@
+,BNE
+symbol,BNE
+price,26.63
+beta,0
+volAvg,1052
+mktCap,0
+lastDiv,0.064
+range,20.67-28.214
+changes,0.5369
+companyName,Blue Horizon BNE ETF
+currency,USD
+cik,
+isin,US26922B3033
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index seeks to track the performance of a portfolio of companies that are leaders, enablers, and beneficiaries of a transformational shift in the way energy is produced, stored, distributed, and consumed. The fund will generally use a ""replication"" strategy to achieve its investment objective, meaning it will generally invest in all of the component securities of the index in the same approximate proportions as in the index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BNE.png
+ipoDate,2020-12-09
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,BSCR
+symbol,BSCR
+price,19.3925
+beta,0
+volAvg,335027
+mktCap,6032503
+lastDiv,0.5219999999999999
+range,18.31-21.12
+changes,0.1125
+companyName,Invesco BulletShares 2027 Corporate Bond ETF
+currency,USD
+cik,
+isin,US46138J7836
+cusip,46138J783
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in securities that comprise the underlying index. The underlying index seeks to measure the performance of a portfolio of U.S. dollar-denominated investment grade corporate bonds with maturities or, in some cases, ""effective maturities"" in the year 2027 (collectively, ""2027 Bonds"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BSCR.png
+ipoDate,2017-09-27
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

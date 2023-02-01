@@ -1,0 +1,37 @@
+,TDTT
+symbol,TDTT
+price,23.75
+beta,0
+volAvg,735049
+mktCap,0
+lastDiv,1.545
+range,23.32-26.48
+changes,0.025
+companyName,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund
+currency,USD
+cik,
+isin,US33939L5066
+cusip,33939L506
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The underlying index reflects the performance of a selection of inflation protected public obligations of the U.S. treasury, commonly known as ""TIPS,"" with a targeted average modified adjusted duration, as defined by the index provider, of approximately three years. Under normal circumstances, the fund will invest at least 80% of its total assets (exclusive of collateral held from securities lending) in the securities of the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TDTT.png
+ipoDate,2011-09-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

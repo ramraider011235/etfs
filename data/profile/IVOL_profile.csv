@@ -1,0 +1,37 @@
+,IVOL
+symbol,IVOL
+price,22.03
+beta,0
+volAvg,422890
+mktCap,0
+lastDiv,0.8729999999999999
+range,21.85-27.27
+changes,0.11
+companyName,Quadratic Interest Rate Volatility and Inflation Hedge ETF New
+currency,USD
+cik,
+isin,US5007677363
+cusip,500767736
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is actively managed and seeks to achieve its investment objective primarily by investing, directly or indirectly, in a mix of U.S. Treasury Inflation-Protected Securities (""TIPS"") and long options tied to the shape of the U.S. interest rate curve. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IVOL.png
+ipoDate,2019-05-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

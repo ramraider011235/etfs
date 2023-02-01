@@ -1,0 +1,37 @@
+,TIPZ
+symbol,TIPZ
+price,54.98
+beta,0
+volAvg,33173
+mktCap,0
+lastDiv,3.43
+range,53.06-66.08
+changes,-0.07
+companyName,PIMCO Broad U.S. TIPS Index Exchange-Traded Fund
+currency,USD
+cik,
+isin,US72201R4039
+cusip,72201R403
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the ICE BofA US Inflation-Linked Treasury Index (the ""underlying index""). The underlying index is an unmanaged index comprised of Treasury Inflation-Protected Securities (""TIPS"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TIPZ.png
+ipoDate,2009-09-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

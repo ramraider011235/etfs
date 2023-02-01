@@ -1,0 +1,37 @@
+,XME
+symbol,XME
+price,57.12
+beta,0
+volAvg,3673919
+mktCap,999611424
+lastDiv,0.8180000000000001
+range,39.83-66.63
+changes,0.65
+companyName,SPDR S&P Metals and Mining ETF
+currency,USD
+cik,
+isin,US78464A7550
+cusip,78464A755
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the S&P Metals & Mining Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the metals and mining segment of the S&P Total Market Index (""S&P TMI""). The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XME.png
+ipoDate,2006-06-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

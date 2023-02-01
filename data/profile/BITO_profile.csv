@@ -1,0 +1,37 @@
+,BITO
+symbol,BITO
+price,14.63
+beta,0
+volAvg,8478468
+mktCap,0
+lastDiv,0
+range,9.48-30.295
+changes,0.26
+companyName,ProShares Bitcoin Strategy ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund adviser seeks to provide capital appreciation primarily through managed exposure to bitcoin futures contracts. The fund does not invest directly in bitcoin. The fund adviser will generally hold its bitcoin futures contracts during periods in which the value of bitcoin or bitcoin futures are flat or declining as well as during periods in which the value of bitcoin or bitcoin futures is rising. In order to maintain exposure to bitcoin futures contracts, it must sell its futures contracts as they near expiration and replace them with new futures contracts with a later expiration date. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BITO.png
+ipoDate,2021-10-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

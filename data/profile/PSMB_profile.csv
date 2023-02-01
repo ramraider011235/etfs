@@ -1,0 +1,37 @@
+,PSMB
+symbol,PSMB
+price,15.21
+beta,0
+volAvg,30540
+mktCap,0
+lastDiv,0.413
+range,13.451-16.73
+changes,0.1095
+companyName,Invesco Balanced Multi-Asset Allocation ETF
+currency,USD
+cik,
+isin,US46090A2006
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by allocating its assets using a balanced investment style that seeks to maximize the benefits of diversification, which focuses on investing portions of fund assets both in underlying ETFs that invest in fixed-income securities (""Fixed Income ETFs"") as well as in underlying ETFs that invest primarily in equity securities (""Equity ETFs""). Specifically, the fund's target allocation is to invest approximately 45%-75% of its total assets in Equity ETFs and approximately 25%-55% of its total assets in Fixed Income ETFs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PSMB.png
+ipoDate,2017-02-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,GSLC
+symbol,GSLC
+price,80.67
+beta,0
+volAvg,540542
+mktCap,0
+lastDiv,1.2249999999999999
+range,69.515-91.16
+changes,1.16
+companyName,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
+currency,USD
+cik,
+isin,US3814305039
+cusip,381430503
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is designed to deliver exposure to equity securities of large capitalization U.S. issuers. The fund seeks to achieve its investment objective by investing at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index, in depositary receipts representing securities included in its underlying index and in underlying stocks in respect of depositary receipts included in its underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GSLC.png
+ipoDate,2015-09-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

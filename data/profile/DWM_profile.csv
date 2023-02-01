@@ -1,0 +1,37 @@
+,DWM
+symbol,DWM
+price,50.72
+beta,0
+volAvg,50626
+mktCap,859838104
+lastDiv,2.052
+range,39.3-55.59
+changes,0.2425
+companyName,WisdomTree International Equity Fund
+currency,USD
+cik,
+isin,US97717W7039
+cusip,97717W703
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"At least 95% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a fundamentally weighted index that is comprised of companies in the industrialized world, excluding Canada and the United States, that pay regular cash dividends. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DWM.png
+ipoDate,2006-06-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

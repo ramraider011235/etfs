@@ -1,0 +1,37 @@
+,FREL
+symbol,FREL
+price,27.4
+beta,0
+volAvg,350577
+mktCap,0
+lastDiv,0.6559999999999999
+range,22.29-33.84
+changes,0.56
+companyName,Fidelity MSCI Real Estate Index ETF
+currency,USD
+cik,
+isin,US3160928574
+cusip,316092857
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Real Estate 25/25 Index, which represents the performance of the real estate sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Real Estate 25/25 Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FREL.png
+ipoDate,2015-02-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

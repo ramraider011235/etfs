@@ -1,0 +1,37 @@
+,CHIH
+symbol,CHIH
+price,18.28
+beta,0
+volAvg,2560
+mktCap,0
+lastDiv,0.023
+range,12.54-20.0
+changes,-0.5
+companyName,Global X MSCI China Health Care ETF
+currency,USD
+cik,
+isin,US37954Y5419
+cusip,37954Y541
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in ADRs and GDRs based on the securities in the underlying index. The underlying index tracks the performance of companies in the MSCI China Index (the ""parent index"") that are classified in the health care sector, as defined by the index provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CHIH.png
+ipoDate,2018-12-07
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

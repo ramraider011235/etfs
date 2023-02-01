@@ -1,0 +1,37 @@
+,IMCB
+symbol,IMCB
+price,63.61
+beta,0
+volAvg,28563
+mktCap,0
+lastDiv,0.9949999999999999
+range,52.68-68.97
+changes,1.15
+companyName,iShares Morningstar Mid-Cap ETF
+currency,USD
+cik,
+isin,US4642882082
+cusip,464288208
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index measures the performance of stocks issued by mid-capitalization companies that have exhibited both “growth” and “value” characteristics as determined by Morningstar, Inc.’s (“Morningstar” or the “index provider”) proprietary index methodology."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IMCB.png
+ipoDate,2004-06-28
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,RWX
+symbol,RWX
+price,28.5
+beta,0
+volAvg,177001
+mktCap,0
+lastDiv,1.083
+range,22.9-34.65
+changes,-0.12
+companyName,SPDR Dow Jones International Real Estate ETF
+currency,USD
+cik,
+isin,US78463X8636
+cusip,78463X863
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a float-adjusted market capitalization index designed to measure the performance of publicly traded real estate securities in countries excluding the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RWX.png
+ipoDate,2006-12-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,PGF
+symbol,PGF
+price,16.13
+beta,0
+volAvg,582072
+mktCap,0
+lastDiv,0.8589999999999998
+range,14.12-18.03
+changes,0.06
+companyName,Invesco Financial Preferred ETF
+currency,USD
+cik,
+isin,US46137V6213
+cusip,46137V621
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. ICE Data Indices, LLC (the “index provider”) compiles and calculates the underlying index, a market capitalization weighted index designed to track the performance of exchange-listed, fixed rate U.S. dollar denominated preferred securities, and securities that the index provider believes are functionally equivalent to preferred securities, issued in the U.S. domestic market by financial companies. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PGF.png
+ipoDate,2006-12-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

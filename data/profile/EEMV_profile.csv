@@ -1,0 +1,37 @@
+,EEMV
+symbol,EEMV
+price,54.8
+beta,0
+volAvg,2198921
+mktCap,5200520000
+lastDiv,1.026
+range,49.3-64.1
+changes,-0.49
+companyName,iShares MSCI Emerging Markets Min Vol Factor ETF
+currency,USD
+cik,
+isin,US4642865335
+cusip,464286533
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index measures the performance of equity securities in global emerging markets that, in the aggregate, have lower volatility relative to the broader large- and mid-cap global emerging market equities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EEMV.png
+ipoDate,2011-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,MOON
+symbol,MOON
+price,12.98
+beta,0
+volAvg,27378
+mktCap,0
+lastDiv,0.298
+range,9.78-22.45
+changes,0.51
+companyName,Direxion Moonshot Innovators ETF
+currency,USD
+cik,0001424958
+isin,US25460G7328
+cusip,25460G732
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund, under normal circumstances, invests at least 80% of its net assets in the securities that comprise the index or investments with economic characteristics similar to the securities included in the index. The index measures the performance of the securities of 50 U.S. companies that pursue innovative technologies that have the potential to disrupt existing technologies and/or industries (i.e., moonshot innovators). The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MOON.png
+ipoDate,2020-11-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

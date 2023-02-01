@@ -1,0 +1,37 @@
+,FXC
+symbol,FXC
+price,73.58
+beta,0
+volAvg,39401
+mktCap,126410587
+lastDiv,0.30899999999999994
+range,70.03-78.86
+changes,0.5
+companyName,Invesco CurrencyShares Canadian Dollar Trust
+currency,USD
+cik,0001353612
+isin,US46138T1043
+cusip,46138T104
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to reflect the price of the Canadian Dollar. The sponsor believes that, for many investors, the shares represent a cost-effective investment relative to traditional means of investing in the foreign exchange market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,0.802
+dcf,72.708
+image,https://financialmodelingprep.com/image-stock/FXC.png
+ipoDate,2006-06-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

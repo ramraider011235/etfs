@@ -1,0 +1,37 @@
+,HYGH
+symbol,HYGH
+price,83.94
+beta,0
+volAvg,16604
+mktCap,0
+lastDiv,4.541
+range,78.395-87.665
+changes,0.515
+companyName,iShares Interest Rate Hedged High Yield Bond ETF
+currency,USD
+cik,
+isin,US46431W6066
+cusip,46431W606
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to track the investment results of the underlying index, which is designed to minimize the interest-rate risk of a portfolio composed of U.S. dollar-denominated, high yield corporate bonds, represented in the underlying index by the underlying fund. It invests at least 80% of its net assets in component securities and instruments in the fund’s underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HYGH.png
+ipoDate,2014-05-27
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

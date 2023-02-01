@@ -1,0 +1,37 @@
+,VCIT
+symbol,VCIT
+price,80.79
+beta,0
+volAvg,6972804
+mktCap,0
+lastDiv,2.122
+range,73.37-90.6
+changes,0.59
+companyName,Vanguard Intermediate-Term Corporate Bond Index Fund
+currency,USD
+cik,
+isin,US92206C8709
+cusip,92206C870
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg U.S. 5-10 Year Corporate Bond Index. This index includes U.S. dollar-denominated, investment-grade, fixed-rate, taxable securities issued by U.S. and non-U.S. industrial, utility, and financial companies, with maturities between 5 and 10 years. Under normal circumstances, at least 80% of the fund's assets will be invested in bonds included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VCIT.png
+ipoDate,2009-11-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

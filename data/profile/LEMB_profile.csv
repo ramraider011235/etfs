@@ -1,0 +1,37 @@
+,LEMB
+symbol,LEMB
+price,35.94
+beta,0
+volAvg,139626
+mktCap,0
+lastDiv,0.3
+range,31.86-40.19
+changes,0.03
+companyName,iShares J.P. Morgan EM Local Currency Bond ETF
+currency,USD
+cik,
+isin,US4642865178
+cusip,464286517
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index. The index tracks the performance of local currency-denominated sovereign bond markets of emerging market countries. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/LEMB.png
+ipoDate,2011-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

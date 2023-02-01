@@ -1,0 +1,37 @@
+,DFAC
+symbol,DFAC
+price,25.98
+beta,0
+volAvg,1995544
+mktCap,0
+lastDiv,0.364
+range,21.99-28.315
+changes,0.46
+companyName,Dimensional U.S. Core Equity 2 ETF
+currency,USD
+cik,0001816125
+isin,
+cusip,25434V708
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is designed to purchase a broad and diverse group of securities of U.S. companies. As a non-fundamental policy, under normal circumstances, the fund will invest at least 80% of its net assets in securities of U.S. companies. The fund may purchase or sell futures contracts and options on futures contracts for U.S. equity securities and indices, to increase or decrease equity market exposure based on actual or expected cash inflows to or outflows from the Portfolio."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DFAC.png
+ipoDate,2021-06-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

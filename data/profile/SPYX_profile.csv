@@ -1,0 +1,37 @@
+,SPYX
+symbol,SPYX
+price,32.94
+beta,0
+volAvg,163180
+mktCap,0
+lastDiv,1.317
+range,28.176666-37.823334
+changes,0.49
+companyName,SPDR S&P 500 Fossil Fuel Reserves Free ETF
+currency,USD
+cik,
+isin,US78468R7961
+cusip,78468R796
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Normally, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. In addition, it may invest in equity securities that are not included in the index, cash and cash equivalents or money market instruments. The index is designed to measure the performance of companies in the S&P 500 Index that are ""fossil fuel free"", which are defined as companies that do not own fossil fuel reserves."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPYX.png
+ipoDate,2015-11-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

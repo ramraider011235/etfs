@@ -1,0 +1,37 @@
+,BTAL
+symbol,BTAL
+price,19.86
+beta,0
+volAvg,623116
+mktCap,43770447
+lastDiv,0.213
+range,17.8-22.04
+changes,-0.06
+companyName,AGFiQ U.S. Market Neutral Anti-Beta Fund
+currency,USD
+cik,0001479599
+isin,US00110G4082
+cusip,00110G408
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest primarily in long positions in low beta U.S. equities and short positions in high beta U.S. equities on a dollar neutral basis, within sectors. It will construct a dollar neutral portfolio of long and short positions of U.S. equities by investing primarily in the constituent securities of the Dow Jones U.S. Thematic Market Neutral Low Beta Index in approximately the same weight as they appear in the index. The universe for the index is comprised of the top 1,000 eligible securities by market capitalization, including REITs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BTAL.png
+ipoDate,2011-09-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

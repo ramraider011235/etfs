@@ -1,0 +1,37 @@
+,VYM
+symbol,VYM
+price,110.77
+beta,0
+volAvg,2140665
+mktCap,0
+lastDiv,3.252
+range,94.59-115.53
+changes,1.28
+companyName,Vanguard High Dividend Yield Index Fund
+currency,USD
+cik,
+isin,US9219464065
+cusip,921946406
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The manager employs an indexing investment approach designed to track the performance of the index, which consists of common stocks of companies that pay dividends that generally are higher than average. The adviser attempts to replicate the target index by investing all, or substantially all, of the fund's assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VYM.png
+ipoDate,2006-11-10
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

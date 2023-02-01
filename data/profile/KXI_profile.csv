@@ -1,0 +1,37 @@
+,KXI
+symbol,KXI
+price,60.52
+beta,0
+volAvg,186372
+mktCap,883592000
+lastDiv,1.1829999999999998
+range,52.79-64.95
+changes,0.8
+companyName,iShares Global Consumer Staples ETF
+currency,USD
+cik,
+isin,US4642887370
+cusip,464288737
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index measures the performance of global equities in the consumer staples sector."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/KXI.png
+ipoDate,2006-09-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VIG
+symbol,VIG
+price,156.26
+beta,0
+volAvg,1798355
+mktCap,0
+lastDiv,2.973
+range,132.64-165.51
+changes,2.13
+companyName,Vanguard Dividend Appreciation Index Fund
+currency,USD
+cik,
+isin,US9219088443
+cusip,921908844
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The adviser employs an indexing investment approach designed to track the performance of the index, which consists of common stocks of companies that have a record of increasing dividends over time. The adviser attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VIG.png
+ipoDate,2006-04-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

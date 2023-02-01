@@ -1,0 +1,37 @@
+,ESGE
+symbol,ESGE
+price,33.01
+beta,0
+volAvg,1442226
+mktCap,72846246800
+lastDiv,0.807
+range,26.57-40.85
+changes,-0.15
+companyName,iShares ESG Aware MSCI EM ETF
+currency,USD
+cik,
+isin,US46434G8630
+cusip,46434G863
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is an optimized equity index designed to reflect the equity performance of companies that have favorable ESG characteristics, while exhibiting risk and return characteristics similar to those of the MSCI Emerging Markets Index (the ""parent index"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ESGE.png
+ipoDate,2016-06-28
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

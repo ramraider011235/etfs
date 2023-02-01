@@ -1,0 +1,37 @@
+,SUSB
+symbol,SUSB
+price,24.14
+beta,0
+volAvg,260455
+mktCap,0
+lastDiv,0.3650000000000001
+range,23.18-25.36
+changes,0.08
+companyName,iShares ESG 1-5 Year USD Corporate Bond ETF
+currency,USD
+cik,
+isin,US46435G2434
+cusip,46435G243
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the underlying index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index has been developed by Bloomberg Finance L.P. and its affiliates with environmental, social and governance (""ESG"") rating inputs from MSCI ESG Research LLC pursuant to an agreement between MSCI ESG Research and Bloomberg Index Services Limited, a subsidiary of Bloomberg."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SUSB.png
+ipoDate,2017-07-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

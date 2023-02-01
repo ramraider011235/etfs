@@ -1,0 +1,37 @@
+,IXG
+symbol,IXG
+price,76.32
+beta,0
+volAvg,151952
+mktCap,415944000
+lastDiv,2.605
+range,59.97-86.71
+changes,0.66
+companyName,iShares Global Financials ETF
+currency,USD
+cik,
+isin,US4642873339
+cusip,464287333
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index measures the performance of companies that the index provider deems to be part of the financials sector of the economy and that the index provider believes are important to global markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IXG.png
+ipoDate,2001-11-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

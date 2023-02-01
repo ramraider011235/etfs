@@ -1,0 +1,37 @@
+,SLY
+symbol,SLY
+price,89.96
+beta,0
+volAvg,128381
+mktCap,0
+lastDiv,1.224
+range,75.12-96.8
+changes,2.15
+companyName,SPDR S&P 600 Small Cap ETF
+currency,USD
+cik,
+isin,US78464A8137
+cusip,78464A813
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. In addition, in seeking to track the index, it may invest in equity securities that are not included in the index, cash and cash equivalents or money market instruments, such as repurchase agreements and money market funds. The index measures the performance of the small-capitalization segment of the U.S. equity market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SLY.png
+ipoDate,2005-11-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,IXN
+symbol,IXN
+price,49.58
+beta,0
+volAvg,326513
+mktCap,738742000
+lastDiv,0.362
+range,40.31-60.29
+changes,0.65
+companyName,iShares Global Tech ETF
+currency,USD
+cik,
+isin,US4642872919
+cusip,464287291
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of all members of the S&P Global 1200 that are classified within the GICS® information technology sector. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IXN.png
+ipoDate,2001-11-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

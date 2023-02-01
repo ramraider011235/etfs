@@ -1,0 +1,37 @@
+,SLVP
+symbol,SLVP
+price,11.35
+beta,0
+volAvg,112654
+mktCap,80585000
+lastDiv,0.067
+range,7.86-15.72
+changes,0.04
+companyName,iShares MSCI Global Silver and Metals Miners ETF
+currency,USD
+cik,
+isin,US4642863272
+cusip,464286327
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index has been developed by MSCI Inc. (the ""index provider"" or ""MSCI"") to focus on approximately 25 companies in developed and emerging markets that are involved in silver mining or exploration. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SLVP.png
+ipoDate,2012-01-31
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

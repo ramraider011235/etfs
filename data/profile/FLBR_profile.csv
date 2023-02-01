@@ -1,0 +1,37 @@
+,FLBR
+symbol,FLBR
+price,18.67
+beta,0
+volAvg,172850
+mktCap,20404387
+lastDiv,2.066
+range,15.46-24.52
+changes,0.39
+companyName,Franklin FTSE Brazil ETF
+currency,USD
+cik,
+isin,US35473P8352
+cusip,35473P835
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Brazil Capped Index and in depositary receipts representing such securities. The FTSE Brazil Capped Index is based on the FTSE Brazil Index and is designed to measure the performance of Brazilian large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLBR.png
+ipoDate,2017-11-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,FHLC
+symbol,FHLC
+price,63.51
+beta,0
+volAvg,173598
+mktCap,1573583269
+lastDiv,0.634
+range,55.92-68.45
+changes,0.83
+companyName,Fidelity MSCI Health Care Index ETF
+currency,USD
+cik,
+isin,US3160926008
+cusip,316092600
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Health Care 25/50 Index, which represents the performance of the health care sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Health Care 25/50 Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FHLC.png
+ipoDate,2013-10-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

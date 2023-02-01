@@ -1,0 +1,37 @@
+,GII
+symbol,GII
+price,55.03
+beta,0
+volAvg,57557
+mktCap,314581581
+lastDiv,2.335
+range,46.35-59.67
+changes,0.41
+companyName,SPDR S&P Global Infrastructure ETF
+currency,USD
+cik,
+isin,US78463X8552
+cusip,78463X855
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is comprised of 75 of the largest publicly listed infrastructure companies that meet specific investability requirements."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GII.png
+ipoDate,2007-01-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

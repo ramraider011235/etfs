@@ -1,0 +1,37 @@
+,BBRE
+symbol,BBRE
+price,90.23
+beta,0
+volAvg,41744
+mktCap,0
+lastDiv,2.141
+range,73.96-110.84
+changes,1.73
+companyName,JPMorgan BetaBuilders MSCI U.S. REIT ETF
+currency,USD
+cik,
+isin,US46641Q7381
+cusip,46641Q738
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in securities included in the underlying index. The underlying index is a free-float adjusted market-cap weighted index designed to measure the performance of U.S. equity real estate investment trust (""REIT"") securities. The fund may invest up to 20% of its assets in exchange-traded futures to seek performance that corresponds to the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BBRE.png
+ipoDate,2018-06-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

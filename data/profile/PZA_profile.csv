@@ -1,0 +1,37 @@
+,PZA
+symbol,PZA
+price,23.85
+beta,0
+volAvg,1240809
+mktCap,0
+lastDiv,0.6230000000000001
+range,21.65-26.42
+changes,-0.01
+companyName,Invesco National AMT-Free Municipal Bond ETF
+currency,USD
+cik,
+isin,US46138E5371
+cusip,46138E537
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in the components of the index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is composed of U.S. dollar-denominated, tax-exempt municipal debt publicly issued by U.S. states and territories and their political subdivisions, in the U.S. domestic market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PZA.png
+ipoDate,2007-10-11
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

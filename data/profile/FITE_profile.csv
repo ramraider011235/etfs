@@ -1,0 +1,37 @@
+,FITE
+symbol,FITE
+price,45.57
+beta,0
+volAvg,4557
+mktCap,0
+lastDiv,0.05
+range,40.24-53.51
+changes,0.7973
+companyName,SPDR S&P Kensho Future Security ETF
+currency,USD
+cik,
+isin,US78468R6716
+cusip,78468R671
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is comprised of U.S.-listed equity securities (including depositary receipts) of companies domiciled across developed and emerging markets worldwide which are included in the Future Security sector as determined by a classification standard produced by the index provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FITE.png
+ipoDate,2017-12-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

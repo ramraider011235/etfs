@@ -1,0 +1,37 @@
+,FTEC
+symbol,FTEC
+price,103.68
+beta,0
+volAvg,175547
+mktCap,0
+lastDiv,0.876
+range,86.19-127.02
+changes,1.62
+companyName,Fidelity MSCI Information Technology Index ETF
+currency,USD
+cik,
+isin,US3160928087
+cusip,316092808
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Information Technology 25/50 Index, which represents the performance of the information technology sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Information Technology 25/50 Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FTEC.png
+ipoDate,2013-10-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

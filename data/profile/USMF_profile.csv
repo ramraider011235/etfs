@@ -1,0 +1,37 @@
+,USMF
+symbol,USMF
+price,39.24
+beta,0
+volAvg,31429
+mktCap,0
+lastDiv,0.655
+range,33.98-42.0
+changes,0.46
+companyName,WisdomTree U.S. Multifactor Fund
+currency,USD
+cik,
+isin,US97717Y8571
+cusip,97717Y857
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets will be invested in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is generally comprised of 200 U.S. companies with the highest composite scores based on two fundamental factors (value and quality measures) and two technical factors (momentum and correlation). The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USMF.png
+ipoDate,2017-06-29
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

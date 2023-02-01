@@ -1,0 +1,37 @@
+,BNDW
+symbol,BNDW
+price,68.94
+beta,0
+volAvg,59932
+mktCap,496593641
+lastDiv,1.127
+range,65.26-77.18
+changes,0.23
+companyName,Vanguard Total World Bond ETF
+currency,USD
+cik,
+isin,US92206C5655
+cusip,92206C565
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund is a fund of funds and employs an indexing investment approach designed to track the performance of the index, which is a custom, USD-hedged index designed to track the market capitalized weights of the global investment-grade bond market and is comprised of the Bloomberg U.S. Aggregate Float Adjusted Index and the Bloomberg Global Aggregate ex-USD Float Adjusted RIC Capped Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BNDW.png
+ipoDate,2018-09-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

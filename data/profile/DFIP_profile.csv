@@ -1,0 +1,37 @@
+,DFIP
+symbol,DFIP
+price,42.07
+beta,0
+volAvg,102273
+mktCap,0
+lastDiv,2.4150000000000005
+range,40.47-49.899
+changes,-0.02
+companyName,Dimensional Inflation-Protected Securities ETF
+currency,USD
+cik,0001816125
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the Portfolio’s net assets will be invested in inflation-protected securities. Generally, the Portfolio will purchase inflation-protected securities with maturities between five and twenty years from the date of settlement. Under normal circumstances, when determining its duration, the Portfolio will consider an average duration similar to its benchmark, the Bloomberg U.S. TIPS Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DFIP.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

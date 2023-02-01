@@ -1,0 +1,37 @@
+,IMTB
+symbol,IMTB
+price,44.2
+beta,0
+volAvg,50270
+mktCap,0
+lastDiv,1.111
+range,40.87-49.426
+changes,0.15
+companyName,iShares Core 5-10 Year USD Bond ETF
+currency,USD
+cik,
+isin,US46435G4174
+cusip,46435G417
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund will invest at least 80% of its assets in the component securities of the index and TBAs that have economic characteristics that are substantially identical to the economic characteristics of the component securities of the index. The index measures the performance of U.S. dollar-denominated taxable bonds that are rated either investment-grade or high yield with remaining effective maturities between five and ten years.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IMTB.png
+ipoDate,2016-11-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,IBDO
+symbol,IBDO
+price,25.14
+beta,0
+volAvg,633583
+mktCap,0
+lastDiv,0.41400000000000015
+range,24.87-25.56
+changes,0
+companyName,iShares iBonds Dec 2023 Term Corporate ETF
+currency,USD
+cik,
+isin,US46434VAX82
+cusip,46434VAX8
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The underlying index is composed of U.S. dollar-denominated, taxable, investment-grade corporate bonds scheduled to mature between January 1, 2023 and December 15, 2023, inclusive."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDO.png
+ipoDate,2015-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

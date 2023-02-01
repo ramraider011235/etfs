@@ -1,0 +1,37 @@
+,COPX
+symbol,COPX
+price,41.29
+beta,0
+volAvg,549354
+mktCap,65415664
+lastDiv,0.718
+range,26.01-47.23
+changes,0.66
+companyName,Global X Copper Miners ETF
+currency,USD
+cik,
+isin,US37954Y8306
+cusip,37954Y830
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the copper mining industry. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/COPX.png
+ipoDate,2010-04-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,FSMB
+symbol,FSMB
+price,19.965
+beta,0
+volAvg,193029
+mktCap,0
+lastDiv,0.27399999999999997
+range,19.39-20.57
+changes,0.035
+companyName,First Trust Short Duration Managed Municipal ETF
+currency,USD
+cik,
+isin,US33739P8308
+cusip,33739P830
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund seeks to achieve its investment objective by investing at least 80% of its net assets (including investment borrowings) in municipal debt securities that pay interest that is exempt from regular federal income taxes. The municipal securities in which the fund invests may be fixed, variable or floating-rate securities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FSMB.png
+ipoDate,2018-11-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

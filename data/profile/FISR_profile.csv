@@ -1,0 +1,37 @@
+,FISR
+symbol,FISR
+price,26.52
+beta,0
+volAvg,41450
+mktCap,512262999
+lastDiv,0.5099999999999999
+range,24.74-30.27
+changes,0.11
+companyName,SPDR SSGA Fixed Income Sector Rotation ETF
+currency,USD
+cik,
+isin,US78470P5070
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is a ""fund of funds,"" meaning that it primarily invests its assets in securities of other exchange-traded funds (""ETFs""). Under normal circumstances, it invests at least 80% of its net assets (plus the amount of borrowings for investments purposes) directly, or indirectly through the underlying ETFs, in fixed income securities. The fund or ETFs in which it invests may use derivative instruments to gain or hedge exposure to certain securities as an alternative to investing directly in such securities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FISR.png
+ipoDate,2019-04-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

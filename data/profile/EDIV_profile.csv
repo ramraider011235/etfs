@@ -1,0 +1,37 @@
+,EDIV
+symbol,EDIV
+price,25.73
+beta,0
+volAvg,42163
+mktCap,453790464
+lastDiv,1.186
+range,21.52-32.04
+changes,0.01
+companyName,SPDR S&P Emerging Markets Dividend ETF
+currency,USD
+cik,
+isin,US78463X5335
+cusip,78463X533
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is designed to measure the performance of 100 high-yielding emerging market common stocks."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EDIV.png
+ipoDate,2011-02-23
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

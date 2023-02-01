@@ -1,0 +1,37 @@
+,TMFC
+symbol,TMFC
+price,33.309
+beta,0
+volAvg,25045
+mktCap,0
+lastDiv,0.083
+range,29.3-41.909
+changes,0.549
+companyName,Motley Fool 100 Index ETF
+currency,USD
+cik,
+isin,US74933W6012
+cusip,74933W601
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets (exclusive of any collateral held from securities lending) will be invested in the component securities of the index. The index was established by TMF in 2017 and is a proprietary, rules-based index designed to track the performance of the 100 largest, most liquid U.S. companies that have been recommended by TMF’s analysts and newsletters. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TMFC.png
+ipoDate,2018-01-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,EPP
+symbol,EPP
+price,46.92
+beta,0
+volAvg,659962
+mktCap,2491452094
+lastDiv,1.8689999999999998
+range,36.62-50.57
+changes,0.09
+companyName,iShares MSCI Pacific ex Japan ETF
+currency,USD
+cik,
+isin,US4642866655
+cusip,464286665
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index consists of stocks from the following four countries or regions: Australia, Hong Kong, New Zealand and Singapore. The underlying index include large- and mid-capitalization companies and may change over time. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EPP.png
+ipoDate,2001-10-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

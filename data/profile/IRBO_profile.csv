@@ -1,0 +1,37 @@
+,IRBO
+symbol,IRBO
+price,29.85
+beta,0
+volAvg,41909
+mktCap,0
+lastDiv,0.192
+range,22.21-37.77
+changes,0.43
+companyName,iShares Robotics and Artificial Intelligence Multisector ETF
+currency,USD
+cik,
+isin,US46435U5561
+cusip,46435U556
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The underlying index measures the performance of equity securities across multiple sectors."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IRBO.png
+ipoDate,2018-06-26
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

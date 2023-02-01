@@ -1,0 +1,37 @@
+,FTCS
+symbol,FTCS
+price,75.65
+beta,0
+volAvg,429514
+mktCap,0
+lastDiv,0.923
+range,66.01-79.57
+changes,0.94
+companyName,First Trust Capital Strength ETF
+currency,USD
+cik,
+isin,US33733E1047
+cusip,33733E104
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks and real estate investment trusts (""REITs"") that comprise the index. The index seeks to provide exposure to well-capitalized companies with strong market positions that have the potential to provide their stockholders with a greater degree of stability and performance over time."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FTCS.png
+ipoDate,2006-07-06
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,IWX
+symbol,IWX
+price,67.41
+beta,0
+volAvg,156477
+mktCap,0
+lastDiv,1.3459999999999999
+range,57.03-71.06
+changes,0.83
+companyName,iShares Russell Top 200 Value ETF
+currency,USD
+cik,
+isin,US4642894202
+cusip,464289420
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e., depositary receipts representing securities of the underlying index) and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWX.png
+ipoDate,2009-09-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

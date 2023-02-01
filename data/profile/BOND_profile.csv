@@ -1,0 +1,37 @@
+,BOND
+symbol,BOND
+price,93.9
+beta,0
+volAvg,343939
+mktCap,2197919366
+lastDiv,2.8200000000000003
+range,86.61-107.3
+changes,0.33
+companyName,PIMCO Active Bond Exchange-Traded Fund
+currency,USD
+cik,
+isin,US72201R7750
+cusip,72201R775
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of its assets in a diversified portfolio of Fixed Income Instruments of varying maturities, which may be represented by forwards or derivatives such as options, futures contracts, or swap agreement. It invests primarily in investment grade debt securities, but may invest up to 30% of its total assets in high yield securities, as rated by Moody's, S&P or Fitch, or, if unrated, as determined by PIMCO."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BOND.png
+ipoDate,2012-03-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

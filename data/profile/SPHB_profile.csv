@@ -1,0 +1,37 @@
+,SPHB
+symbol,SPHB
+price,72.4
+beta,0
+volAvg,373121
+mktCap,0
+lastDiv,0.44900000000000007
+range,54.6-79.18
+changes,1.63
+companyName,Invesco S&P 500 High Beta ETF
+currency,USD
+cik,
+isin,US46138E3707
+cusip,46138E370
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices LLC compiles, maintains and calculates the index, which is designed to measure the performance of the 100 constituents of the S&P 500 ® Index that have the highest sensitivity to market returns, or “beta,” over the past 12 months as determined by the index Provider."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPHB.png
+ipoDate,2011-05-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

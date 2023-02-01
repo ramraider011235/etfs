@@ -1,0 +1,37 @@
+,IPAY
+symbol,IPAY
+price,44.24
+beta,0
+volAvg,82544
+mktCap,0
+lastDiv,0.015
+range,36.55-55.72
+changes,0.65
+companyName,ETFMG Prime Mobile Payments ETF
+currency,USD
+cik,
+isin,US26924G4091
+cusip,26924G409
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index tracks the performance of the exchange-listed equity securities of companies across the globe that (i) engage in providing payment processing services or applications,(ii) provide payment solutions, (iii) build or provide payment industry architecture, infrastructure or software or, (iv) provide services as a credit card network. The fund invests at least 80% of its total assets in the component securities of the index and in ADRs and GDRs based on the component securities in the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IPAY.png
+ipoDate,2015-07-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

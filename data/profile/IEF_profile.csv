@@ -1,0 +1,37 @@
+,IEF
+symbol,IEF
+price,99.21
+beta,0
+volAvg,5281157
+mktCap,14484660198
+lastDiv,1.8780000000000001
+range,92.48-113.49
+changes,0.5
+companyName,iShares 7-10 Year Treasury Bond ETF
+currency,USD
+cik,
+isin,US4642874402
+cusip,464287440
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The underlying index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to seven years and less than ten years. The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in U.S. Treasury securities that the advisor believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IEF.png
+ipoDate,2002-07-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

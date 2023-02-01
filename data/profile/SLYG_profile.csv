@@ -1,0 +1,37 @@
+,SLYG
+symbol,SLYG
+price,77.58
+beta,0
+volAvg,142462
+mktCap,2544623922
+lastDiv,0.855
+range,67.07-86.89
+changes,1.7
+companyName,SPDR S&P 600 Small Cap Growth ETF
+currency,USD
+cik,
+isin,US78464A2015
+cusip,78464A201
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the small-capitalization growth segment of the U.S. equity market. It may purchase a subset of the securities in the index in an effort to hold a portfolio of securities with generally the same risk and return characteristics of the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SLYG.png
+ipoDate,2000-09-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,HEFA
+symbol,HEFA
+price,29.07
+beta,0
+volAvg,1273765
+mktCap,0
+lastDiv,6.6739999999999995
+range,26.93-35.02
+changes,0.09
+companyName,iShares Currency Hedged MSCI EAFE ETF
+currency,USD
+cik,
+isin,US46434V8037
+cusip,46434V803
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities (including indirect investments through the underlying fund) and other instruments of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is composed of large- and mid-capitalization equities in Europe, Australasia, and the Far East while mitigating exposure to fluctuations between the value of the component currencies and the U.S. dollar."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HEFA.png
+ipoDate,2014-01-31
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

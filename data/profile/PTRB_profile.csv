@@ -1,0 +1,37 @@
+,PTRB
+symbol,PTRB
+price,42.43
+beta,0
+volAvg,23414
+mktCap,0
+lastDiv,1.221
+range,39.55-48.761
+changes,0.2
+companyName,PGIM Total Return Bond ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund sub-adviser seeks to achieve its objective through a mix of current income and capital appreciation. The fund invests, under normal circumstances, at least 80% of its investable assets in bonds. The fund's sub-adviser allocates assets among different debt securities, including (but not limited to) U.S. government securities, mortgage-related and asset-backed securities (including collateralized debt obligations and collateralized loan obligations), corporate debt securities and foreign debt securities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PTRB.png
+ipoDate,2021-12-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,TLH
+symbol,TLH
+price,114.89
+beta,0
+volAvg,584978
+mktCap,0
+lastDiv,2.6700000000000004
+range,100.69-144.57
+changes,0.69
+companyName,iShares 10-20 Year Treasury Bond ETF
+currency,USD
+cik,
+isin,US4642886539
+cusip,464288653
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in U.S. Treasury securities that the advisor believes will help the fund track the underlying index. It seeks to track the investment results of the underlying index which measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to ten years and less than twenty years."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TLH.png
+ipoDate,2007-01-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

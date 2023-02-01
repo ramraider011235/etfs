@@ -1,0 +1,37 @@
+,VGSH
+symbol,VGSH
+price,58.25
+beta,0
+volAvg,3579808
+mktCap,0
+lastDiv,0.55
+range,57.34-60.42
+changes,0.09
+companyName,Vanguard Short-Term Treasury Index Fund
+currency,USD
+cik,
+isin,US92206C1027
+cusip,92206C102
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg US Treasury 1-3 Year Index. This index includes fixed income securities issued by the U.S. Treasury (not including inflation-protected securities, floating rate securities and certain other security types), all with maturities between 1 and 3 years. At least 80% of the fund's assets will be invested in bonds included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VGSH.png
+ipoDate,2009-11-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

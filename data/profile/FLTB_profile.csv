@@ -1,0 +1,37 @@
+,FLTB
+symbol,FLTB
+price,48.55
+beta,0
+volAvg,108352
+mktCap,124983770
+lastDiv,0.8990000000000001
+range,46.88-51.5
+changes,0.12
+companyName,Fidelity Limited Term Bond ETF
+currency,USD
+cik,
+isin,US3161882002
+cusip,316188200
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of assets in investment-grade debt securities (those of medium and high quality) of all types and repurchase agreements for those securities. It is managed to have similar overall interest rate risk to the Fidelity Limited Term Composite Index?. Normally, the manager maintains a dollar-weighted average maturity between two and five years."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLTB.png
+ipoDate,2014-10-06
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

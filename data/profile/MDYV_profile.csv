@@ -1,0 +1,37 @@
+,MDYV
+symbol,MDYV
+price,72.15
+beta,0
+volAvg,312893
+mktCap,0
+lastDiv,1.232
+range,57.63-72.24
+changes,1.81
+companyName,SPDR S&P 400 Mid Cap Value ETF
+currency,USD
+cik,
+isin,US78464A8392
+cusip,78464A839
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the mid-capitalization value segment of the U.S. equity market. It may purchase a subset of the securities in the index in an effort to hold a portfolio of securities with generally the same risk and return characteristics of the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MDYV.png
+ipoDate,2005-11-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

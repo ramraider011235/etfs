@@ -1,0 +1,37 @@
+,FNDF
+symbol,FNDF
+price,31.7
+beta,0
+volAvg,1108086
+mktCap,0
+lastDiv,0.9019999999999999
+range,24.81-34.25
+changes,0.18
+companyName,Schwab Fundamental International Large Company Index ETF
+currency,USD
+cik,
+isin,US8085247554
+cusip,808524755
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 90% of its net assets in stocks included in the index. The index measures the performance of the large company size segment by fundamental overall company scores, which are created using as the universe the developed ex U.S. companies in the FTSE Global Total Cap Index (the parent index)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FNDF.png
+ipoDate,2013-08-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

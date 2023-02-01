@@ -1,0 +1,37 @@
+,PXH
+symbol,PXH
+price,19.15
+beta,0
+volAvg,356455
+mktCap,0
+lastDiv,0.9390000000000001
+range,15.65-23.63
+changes,0.03
+companyName,Invesco FTSE RAFI Emerging Markets ETF
+currency,USD
+cik,
+isin,US46138E7278
+cusip,46138E727
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. The underlying index is is comprised of securities of companies located in countries that are classified as emerging markets within the country classification definition of FTSE. The underlying index includes securities of companies selected from the constituents of the FTSE Emerging Total Cap Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PXH.png
+ipoDate,2007-09-27
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

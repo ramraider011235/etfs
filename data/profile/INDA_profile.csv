@@ -1,0 +1,37 @@
+,INDA
+symbol,INDA
+price,40.99
+beta,0
+volAvg,2619003
+mktCap,0
+lastDiv,0.03
+range,38.58-46.52
+changes,0.21
+companyName,iShares MSCI India ETF
+currency,USD
+cik,
+isin,US46429B5984
+cusip,46429B598
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will collectively invest at least 80% of the fund's assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index measures the performance of equity securities of companies whose market capitalization, as calculated by the index provider, represents the large- and mid-capitalization segments of the Indian securities market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/INDA.png
+ipoDate,2012-02-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

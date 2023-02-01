@@ -1,0 +1,37 @@
+,IGE
+symbol,IGE
+price,42.6733
+beta,0
+volAvg,209054
+mktCap,902540295
+lastDiv,1.201
+range,32.88-45.7
+changes,0.5133
+companyName,iShares North American Natural Resources ETF
+currency,USD
+cik,
+isin,US4642873743
+cusip,464287374
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The underlying index measures the performance of U.S.-traded stocks of natural resource-related companies in the U.S. and Canada."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IGE.png
+ipoDate,2001-10-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,IVLU
+symbol,IVLU
+price,25.13
+beta,0
+volAvg,729368
+mktCap,0
+lastDiv,0.8320000000000001
+range,19.535-27.36
+changes,0.18
+companyName,iShares Edge MSCI Intl Value Factor ETF
+currency,USD
+cik,
+isin,US46435G4091
+cusip,46435G409
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents as well as in securities not included in the underlying index. The index is based on a traditional market capitalization-weighted parent index, the MSCI World ex USA Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IVLU.png
+ipoDate,2015-06-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,QID
+symbol,QID
+price,21.15
+beta,0
+volAvg,9107890
+mktCap,297514279
+lastDiv,0.038
+range,16.56-29.98
+changes,-0.67
+companyName,ProShares UltraShort QQQ
+currency,USD
+cik,
+isin,US74347G7390
+cusip,74347B243
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market based on market capitalization. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QID.png
+ipoDate,2006-07-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

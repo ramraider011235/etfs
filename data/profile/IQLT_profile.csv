@@ -1,0 +1,37 @@
+,IQLT
+symbol,IQLT
+price,35.09
+beta,0
+volAvg,1329959
+mktCap,0
+lastDiv,1.016
+range,27.02-38.22
+changes,0.14
+companyName,iShares MSCI Intl Quality Factor ETF
+currency,USD
+cik,
+isin,US46434V4564
+cusip,46434V456
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index measures the performance of international developed large- and mid-capitalization stocks exhibiting relatively higher quality characteristics as identified through three fundamental variables: return on equity, earnings variability and debt-to-equity."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IQLT.png
+ipoDate,2015-01-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

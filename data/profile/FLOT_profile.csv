@@ -1,0 +1,37 @@
+,FLOT
+symbol,FLOT
+price,50.66
+beta,0
+volAvg,1743491
+mktCap,10565169546
+lastDiv,0.8650000000000001
+range,49.63-50.75
+changes,0.01
+companyName,iShares Floating Rate Bond ETF
+currency,USD
+cik,
+isin,US46429B6552
+cusip,46429B655
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLOT.png
+ipoDate,2011-06-14
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

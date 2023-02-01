@@ -1,0 +1,37 @@
+,EPOL
+symbol,EPOL
+price,16.74
+beta,0
+volAvg,446550
+mktCap,283961474
+lastDiv,0.40900000000000003
+range,10.45-21.62
+changes,0.44
+companyName,iShares MSCI Poland ETF
+currency,USD
+cik,
+isin,US46429B6065
+cusip,46429B606
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index is a free float-adjusted market capitalization-weighted index designed to measure the performance of the large-, mid- and small-capitalization segments of the Polish equity market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EPOL.png
+ipoDate,2010-05-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

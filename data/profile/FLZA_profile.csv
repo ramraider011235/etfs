@@ -1,0 +1,37 @@
+,FLZA
+symbol,FLZA
+price,23.93
+beta,0
+volAvg,1018
+mktCap,0
+lastDiv,1.08
+range,19.3-30.06
+changes,0.1336
+companyName,Franklin FTSE South Africa ETF
+currency,USD
+cik,
+isin,US35473P5796
+cusip,35473P579
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the index and in depositary receipts representing such securities. The index is based on the FTSE South Africa Index and is designed to measure the performance of South African large- and mid-capitalization stocks. The fund will concentrate its investments in a particular industry or group of industries to approximately the same extent that the index is concentrated. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLZA.png
+ipoDate,2018-10-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

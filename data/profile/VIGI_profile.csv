@@ -1,0 +1,37 @@
+,VIGI
+symbol,VIGI
+price,74.21
+beta,0
+volAvg,360260
+mktCap,0
+lastDiv,1.434
+range,59.94-81.98
+changes,0.5
+companyName,Vanguard International Dividend Appreciation Index Fund
+currency,USD
+cik,
+isin,US9219468108
+cusip,921946810
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index focuses on high-quality companies located in developed and emerging markets, excluding the U.S., that have both the ability and the commitment to grow their dividends over time. The manager attempts to replicate the target index by investing all, or substantially all, of its assets in the collection of securities that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VIGI.png
+ipoDate,2016-02-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

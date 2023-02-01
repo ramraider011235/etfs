@@ -1,0 +1,37 @@
+,ARGT
+symbol,ARGT
+price,40.63
+beta,0
+volAvg,14240
+mktCap,26905108315
+lastDiv,0.386
+range,23.29-41.59
+changes,1.19
+companyName,Global X MSCI Argentina ETF
+currency,USD
+cik,
+isin,US37950E2596
+cusip,37950E259
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to represent the performance of the broad Argentina equity universe, while including a minimum number of constituents. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ARGT.png
+ipoDate,2011-03-02
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

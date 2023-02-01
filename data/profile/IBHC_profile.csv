@@ -1,0 +1,37 @@
+,IBHC
+symbol,IBHC
+price,23.6
+beta,0
+volAvg,68998
+mktCap,0
+lastDiv,0.6360000000000001
+range,23.13-24.22
+changes,0.02
+companyName,iShares iBonds 2023 Term High Yield and Income ETF
+currency,USD
+cik,
+isin,US46435U1503
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The underlying index is composed of U.S. dollar-denominated, taxable, fixed-rate, high yield and BBB or equivalently rated corporate bonds scheduled to mature between January 1, 2023 and December 15, 2023, inclusive."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBHC.png
+ipoDate,2019-05-07
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

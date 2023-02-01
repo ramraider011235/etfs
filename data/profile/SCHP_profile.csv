@@ -1,0 +1,37 @@
+,SCHP
+symbol,SCHP
+price,52.81
+beta,0
+volAvg,2387190
+mktCap,6120679317
+lastDiv,3.295
+range,51.47-63.15
+changes,-0.02
+companyName,Schwab U.S. TIPS ETF
+currency,USD
+cik,
+isin,US8085248701
+cusip,808524870
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 90% of its net assets in securities included in the index. The index includes all publicly-issued U.S. Treasury Inflation-Protected Securities (TIPS) that have at least one year remaining to maturity, are rated investment grade and have $500 million or more of outstanding face value. The TIPS in the index must be denominated in U.S. dollars and must be fixed-rate and non-convertible."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHP.png
+ipoDate,2010-08-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,DTEC
+symbol,DTEC
+price,36.78
+beta,0
+volAvg,14009
+mktCap,59389622
+lastDiv,0.008
+range,29.94-43.94
+changes,0.6223
+companyName,ALPS Disruptive Technologies ETF
+currency,USD
+cik,0001414040
+isin,US00162Q4780
+cusip,00162Q478
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets in securities that comprise the underlying index. The underlying index is designed to identify the companies using disruptive technologies in each of ten thematic areas: Healthcare Innovation, Internet of Things, Clean Energy and Smart Grid, Cloud Computing, Data and Analytics, FinTech, Robotics and Artificial Intelligence, Cybersecurity, 3D Printing, and Mobile Payments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DTEC.png
+ipoDate,2017-12-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

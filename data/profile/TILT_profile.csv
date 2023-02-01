@@ -1,0 +1,37 @@
+,TILT
+symbol,TILT
+price,160.36
+beta,0
+volAvg,15126
+mktCap,0
+lastDiv,2.3850000000000002
+range,137.43-178.25
+changes,2.74
+companyName,FlexShares Morningstar US Market Factors Tilt Index Fund
+currency,USD
+cik,
+isin,US33939L1008
+cusip,33939L100
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The index is designed to reflect the performance of a selection of companies that, in aggregate, possess greater exposure to size and value factors relative to the Morningstar US Market Index, a float-adjusted market-capitalization weighted index of U.S.-incorporated large-, mid-, small- and micro-capitalization companies. The fund will invest at least 80% of its total assets (exclusive of collateral held from securities lending) in the securities of the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TILT.png
+ipoDate,2011-09-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

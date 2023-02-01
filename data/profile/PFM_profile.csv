@@ -1,0 +1,37 @@
+,PFM
+symbol,PFM
+price,37.4
+beta,0
+volAvg,62400
+mktCap,388960000
+lastDiv,0.712
+range,31.91-39.34
+changes,0.5
+companyName,Invesco Dividend Achievers ETF
+currency,USD
+cik,
+isin,US46137V5066
+cusip,46137V506
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, Nasdaq, Inc. (""Nasdaq"" or the ""index provider"") includes common stock in the underlying index pursuant to a proprietary selection methodology that identifies a universe of ""Dividend AchieversTM."""
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PFM.png
+ipoDate,2005-09-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

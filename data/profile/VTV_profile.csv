@@ -1,0 +1,37 @@
+,VTV
+symbol,VTV
+price,144.28
+beta,0
+volAvg,3004572
+mktCap,61210938320
+lastDiv,3.532
+range,122.54-151.89
+changes,1.79
+companyName,Vanguard Value Index Fund
+currency,USD
+cik,0000036405
+isin,US9229087443
+cusip,922908744
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Large Cap Value Index, a broadly diversified index predominantly made up of value stocks of large U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VTV.png
+ipoDate,2004-01-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

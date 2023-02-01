@@ -1,0 +1,37 @@
+,BND
+symbol,BND
+price,74.22
+beta,0
+volAvg,6810763
+mktCap,37951685972
+lastDiv,1.695
+range,69.09-83.14
+changes,0.34
+companyName,Vanguard Total Bond Market Index Fund
+currency,USD
+cik,
+isin,US9219378356
+cusip,921937835
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"This index measures the performance of a wide spectrum of public, investment-grade, taxable, fixed income securities in the United States-including government, corporate, and international dollar-denominated bonds, as well as mortgage-backed and asset-backed securities-all with maturities of more than 1 year. All of the fund's investments will be selected through the sampling process, and at least 80% of its assets will be invested in bonds held in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BND.png
+ipoDate,2007-04-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

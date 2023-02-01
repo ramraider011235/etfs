@@ -1,0 +1,37 @@
+,SPDW
+symbol,SPDW
+price,32.41
+beta,0
+volAvg,4247465
+mktCap,0
+lastDiv,0.927
+range,25.13-36.03
+changes,0.21
+companyName,SPDR Portfolio Developed World ex-US ETF
+currency,USD
+cik,
+isin,US78463X8891
+cusip,78463X889
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a float-adjusted market capitalization weighted index designed to define and measure the investable universe of publicly traded companies domiciled in developed countries outside the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPDW.png
+ipoDate,2007-04-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

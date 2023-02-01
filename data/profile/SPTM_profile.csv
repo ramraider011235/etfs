@@ -1,0 +1,37 @@
+,SPTM
+symbol,SPTM
+price,50.36
+beta,0
+volAvg,715026
+mktCap,4781691971
+lastDiv,0.798
+range,43.05-56.89
+changes,0.76
+companyName,SPDR Portfolio S&P 1500 Composite Stock Market ETF
+currency,USD
+cik,
+isin,US78464A8053
+cusip,78464A805
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is designed to measure the performance of the large-, mid-, and small-capitalization segments of the U.S. equity market. The index consists of those stocks included in the S&P 500 Index, the S&P MidCap 400 Index, and the S&P SmallCap 600 Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPTM.png
+ipoDate,2000-10-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

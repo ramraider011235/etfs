@@ -1,0 +1,37 @@
+,QAI
+symbol,QAI
+price,29.29
+beta,0
+volAvg,250093
+mktCap,0
+lastDiv,0.568
+range,26.94-31.48
+changes,0.12
+companyName,IQ Hedge Multi-Strategy Tracker ETF
+currency,USD
+cik,
+isin,US45409B1070
+cusip,45409B107
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is a ""fund of funds"" which means it invests, under normal circumstances, at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in the investments included in its underlying index, which includes underlying funds. The underlying index consists of a number of components (""underlying index Components"") selected in accordance with IndexIQ's rules-based methodology of such underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QAI.png
+ipoDate,2009-03-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

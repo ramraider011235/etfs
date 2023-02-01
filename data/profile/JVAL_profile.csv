@@ -1,0 +1,37 @@
+,JVAL
+symbol,JVAL
+price,35.48
+beta,0
+volAvg,191998
+mktCap,0
+lastDiv,0.814
+range,29.49-38.148
+changes,0.6022
+companyName,JPMorgan U.S. Value Factor ETF
+currency,USD
+cik,
+isin,US46641Q7530
+cusip,46641Q753
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in securities included in the underlying index. ""Assets"" means net assets, plus the amount of borrowing for investment purposes. The underlying index is comprised of U.S. equity securities selected to represent value factor characteristics."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/JVAL.png
+ipoDate,2017-11-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

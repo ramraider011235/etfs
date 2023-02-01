@@ -1,0 +1,37 @@
+,IWS
+symbol,IWS
+price,113.85
+beta,0
+volAvg,639973
+mktCap,13701847272
+lastDiv,2.0309999999999997
+range,94.32-122.68
+changes,2.04
+companyName,iShares Russell Mid-Cap Value ETF
+currency,USD
+cik,
+isin,US4642874733
+cusip,464287473
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of the mid-capitalization value sector of the U.S. equity market, as defined by Russell. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWS.png
+ipoDate,2001-07-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

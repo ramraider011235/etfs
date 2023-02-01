@@ -1,0 +1,37 @@
+,EPRF
+symbol,EPRF
+price,20.15
+beta,0
+volAvg,27627
+mktCap,14125090
+lastDiv,0.8599999999999999
+range,17.51-23.12
+changes,0.12
+companyName,Innovator S&P Investment Grade Preferred ETF
+currency,USD
+cik,
+isin,US45783G2012
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The fund normally invests at least 90% of its total assets in the securities that comprise the index. The index is composed of all preferred stocks that are constituents of the S&P U.S. Investment Grade Preferred Stock Index (the “Base Index”).
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EPRF.png
+ipoDate,2016-05-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

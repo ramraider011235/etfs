@@ -1,0 +1,37 @@
+,UNG
+symbol,UNG
+price,9.32
+beta,0
+volAvg,10753945
+mktCap,112628472
+lastDiv,0
+range,8.98-34.5
+changes,0.2
+companyName,"United States Natural Gas Fund, LP"
+currency,USD
+cik,0001376227
+isin,US9123183009
+cusip,912318300
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests primarily in futures contracts for natural gas that are traded on the NYMEX, ICE Futures Europe and ICE Futures U.S. (together, “ICE Futures”) or other U.S. and foreign exchanges. The Benchmark Futures Contract is the futures contract on natural gas as traded on the New York Mercantile Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,32.5355
+dcf,42.3455
+image,https://financialmodelingprep.com/image-stock/UNG.png
+ipoDate,2007-04-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

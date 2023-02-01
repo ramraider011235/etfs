@@ -1,0 +1,37 @@
+,IBDU
+symbol,IBDU
+price,22.98
+beta,0
+volAvg,113511
+mktCap,0
+lastDiv,0.6690000000000002
+range,21.16-25.74
+changes,0.12
+companyName,iShares iBonds Dec 2029 Term Corporate ETF
+currency,USD
+cik,
+isin,US46436E2054
+cusip,46436E205
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is a term fund that will terminate on or about December 15, 2029, at which time it will distribute its remaining net assets to shareholders pursuant to a plan of liquidation. The underlying index is composed of U.S. dollar-denominated, taxable, investment-grade (as determined by Bloomberg Index Services Limited (the ""index provider"" or ""Bloomberg"")) corporate bonds scheduled to mature between January 1, 2029 and December 15, 2029, inclusive. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDU.png
+ipoDate,2019-09-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

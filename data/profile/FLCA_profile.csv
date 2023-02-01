@@ -1,0 +1,37 @@
+,FLCA
+symbol,FLCA
+price,32.37
+beta,0
+volAvg,85852
+mktCap,5043991
+lastDiv,0.655
+range,26.93-36.75
+changes,0.4745
+companyName,Franklin FTSE Canada ETF
+currency,USD
+cik,
+isin,US35473P8279
+cusip,35473P827
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Canada Capped Index and in depositary receipts representing such securities. The FTSE Canada Capped Index is based on the FTSE Canada Index and is designed to measure the performance of Canadian large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLCA.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

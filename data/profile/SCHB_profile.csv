@@ -1,0 +1,37 @@
+,SCHB
+symbol,SCHB
+price,47.89
+beta,0
+volAvg,1419803
+mktCap,0
+lastDiv,0.7230000000000001
+range,40.92-54.68
+changes,0.73
+companyName,Schwab U.S. Broad Market ETF
+currency,USD
+cik,
+isin,US8085241029
+cusip,808524102
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To pursue its goal, the fund generally invests in stocks that are included in the index. The index includes the largest 2,500 publicly traded U.S. companies for which pricing information is readily available. The fund will invest at least 90% of its net assets in these stocks. It may invest up to 10% of its net assets in securities not included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHB.png
+ipoDate,2009-11-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

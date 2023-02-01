@@ -1,0 +1,37 @@
+,OMFL
+symbol,OMFL
+price,47.36
+beta,0
+volAvg,218900
+mktCap,0
+lastDiv,0.666
+range,38.79-49.525
+changes,1.05
+companyName,Invesco Russell 1000 Dynamic Multifactor ETF
+currency,USD
+cik,
+isin,US46138J6192
+cusip,46138J619
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in the securities that comprise the underlying index. The underlying index is designed to reflect a dynamic combination of factor exposures drawn from constituent stocks of the Russell 1000 ® Index (the “Russell 1000” or “Parent Index”), which measures the performance of the 1,000 largest-capitalization companies in the United States. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/OMFL.png
+ipoDate,2017-11-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

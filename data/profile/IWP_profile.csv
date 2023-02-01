@@ -1,0 +1,37 @@
+,IWP
+symbol,IWP
+price,90.89
+beta,0
+volAvg,1113791
+mktCap,6948540227
+lastDiv,0.824
+range,74.75-104.75
+changes,1.75
+companyName,iShares Russell Mid-Cap Growth ETF
+currency,USD
+cik,
+isin,US4642874816
+cusip,464287481
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of the mid-capitalization growth sector of the U.S. equity market, as defined by Russell. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWP.png
+ipoDate,2001-07-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,CORN
+symbol,CORN
+price,26.58
+beta,0
+volAvg,136881
+mktCap,60430693
+lastDiv,0
+range,22.11-30.3
+changes,0
+companyName,Teucrium Corn Fund
+currency,USD
+cik,0001471824
+isin,US88166A1025
+cusip,88166A102
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Benchmark is a weighted average of the closing settlement prices for three futures contracts for corn that are traded on the Chicago Board of Trade. Under normal market conditions, it is expected that 100% of the fund’s assets will be invested in Benchmark Component Futures Contracts and in cash and cash equivalents. The fund seeks to achieve its investment objective by investing in Benchmark Component Futures Contracts."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CORN.png
+ipoDate,2010-06-09
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

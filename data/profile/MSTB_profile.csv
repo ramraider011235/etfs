@@ -1,0 +1,37 @@
+,MSTB
+symbol,MSTB
+price,25.89
+beta,0
+volAvg,45763
+mktCap,0
+lastDiv,0.329
+range,23.2-30.95
+changes,0.32
+companyName,LHA Market State Tactical Beta ETF
+currency,USD
+cik,
+isin,US26922B1052
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is an actively-managed ETF and seeks to achieve its objective principally by investing in instruments linked directly or indirectly to the performance and/or volatility of the S&P 500® Index based on quantitative analyses that seek to estimate the direction of the S&P 500. Under normal market conditions, the fund’s baseline exposure each day to the S&P 500 is approximately 100%, which the fund’s portfolio managers then adjust based on a quantitative method of analysis evaluating the movement of the VIX Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MSTB.png
+ipoDate,2020-09-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

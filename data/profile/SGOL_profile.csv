@@ -1,0 +1,37 @@
+,SGOL
+symbol,SGOL
+price,18.48
+beta,0
+volAvg,1978180
+mktCap,0
+lastDiv,0
+range,15.5-19.86
+changes,0.074
+companyName,abrdn Physical Gold Shares ETF
+currency,USD
+cik,0001450923
+isin,US00326A1043
+cusip,00326A104
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Shares are intended to constitute a simple and cost-effective means of making an investment similar to an investment in gold. An investment in physical gold requires expensive and sometimes complicated arrangements in connection with the assay, transportation, warehousing and insurance of the metal. Although the Shares are not the exact equivalent of an investment in gold, they provide investors with an alternative that allows a level of participation in the gold market through the securities market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,3.8147e-07
+dcf,17.6
+image,https://financialmodelingprep.com/image-stock/SGOL.png
+ipoDate,2009-09-09
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

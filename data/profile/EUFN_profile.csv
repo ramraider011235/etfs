@@ -1,0 +1,37 @@
+,EUFN
+symbol,EUFN
+price,19.86
+beta,0
+volAvg,722762
+mktCap,3949654164
+lastDiv,0.742
+range,13.54-21.91
+changes,0.19
+companyName,iShares MSCI Europe Financials ETF
+currency,USD
+cik,
+isin,US4642891802
+cusip,464289180
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization-weighted index designed to measure the combined equity market performance of the financials sector of developed market countries in Europe.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EUFN.png
+ipoDate,2010-01-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

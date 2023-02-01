@@ -1,0 +1,37 @@
+,FTHI
+symbol,FTHI
+price,20.2803
+beta,0
+volAvg,48619
+mktCap,0
+lastDiv,1.8159999999999996
+range,18.24-23.32
+changes,0.1957
+companyName,First Trust BuyWrite Income ETF
+currency,USD
+cik,
+isin,US33738R3084
+cusip,33738R308
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will pursue its objectives by investing primarily in equity securities listed on U.S. exchanges and by utilizing an ""option strategy"" consisting of writing (selling) U.S. exchange-traded covered call options on the Standard & Poor's 500® Index (the ""index""). The call options written by the fund will be a laddered portfolio of call options with expirations of less than one year, written at-the-money to slightly out-of-the-money."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FTHI.png
+ipoDate,2014-01-06
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

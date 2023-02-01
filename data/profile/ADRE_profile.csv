@@ -1,0 +1,37 @@
+,ADRE
+symbol,ADRE
+price,42.55
+beta,0
+volAvg,13245
+mktCap,142542500
+lastDiv,1.564
+range,31.47-48.51
+changes,-0.1
+companyName,Invesco BLDRS Emerging Markets 50 ADR Index Fund
+currency,USD
+cik,0001169717
+isin,US09348R3003
+cusip,09348R300
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index is developed by the Licensor from a universe of Depositary Receipts defined by the S&P/Bank of New York Mellon ADR Index (""S&P/BNY Mellon ADR Composite Index""). The fund normally holds at least 95% of its total assets in Depositary Receipts that comprise the index, and will seek to track the investment results, before fees and expenses, of the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ADRE.png
+ipoDate,2002-11-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,INFL
+symbol,INFL
+price,32.67
+beta,0
+volAvg,232149
+mktCap,0
+lastDiv,0.52
+range,27.051-34.843
+changes,0.36
+companyName,Horizon Kinetics Inflation Beneficiaries ETF
+currency,USD
+cik,
+isin,US53656F6236
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively-managed ETF that seeks to achieve its investment objective by investing primarily in the equity securities of domestic and foreign companies that are expected to benefit, either directly or indirectly, from rising prices (inflation). The fund's investments in equity securities are generally expected to include common stock, ownership units of publicly traded MLPs, and units of royalty trusts. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/INFL.png
+ipoDate,2021-01-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

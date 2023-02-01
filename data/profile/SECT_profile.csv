@@ -1,0 +1,37 @@
+,SECT
+symbol,SECT
+price,41.33
+beta,0
+volAvg,82619
+mktCap,0
+lastDiv,0.332
+range,35.16-43.44
+changes,0.54
+companyName,Main Sector Rotation ETF
+currency,USD
+cik,0000925661
+isin,US66538H5919
+cusip,66538H591
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund utilizes a ""fund of funds"" structure to invest in sector-based equity ETFs. It seeks to achieve its objective through dynamic sector rotation. The Adviser focuses its research primarily on sector selection by carefully reviewing the sectors, industries, and sub-industries in the fund's portfolio. The Adviser chooses sectors it believes are undervalued and poised to respond favorably to financial market catalysts. The fund sells a security when it achieves its target price and is, in the opinion of the Adviser, no longer undervalued."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,1.61
+dcf,39.82
+image,https://financialmodelingprep.com/image-stock/SECT.png
+ipoDate,2017-09-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

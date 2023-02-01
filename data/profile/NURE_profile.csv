@@ -1,0 +1,37 @@
+,NURE
+symbol,NURE
+price,31.65
+beta,0
+volAvg,37285
+mktCap,0
+lastDiv,0.798
+range,27.61-41.449
+changes,0.96
+companyName,Nuveen Short-Term REIT ETF
+currency,USD
+cik,
+isin,US67092P7069
+cusip,67092P706
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in REITs. The index is a subset of the Dow Jones U.S. Select REIT Index, which generally includes equity REITs traded on a national securities exchange in the U.S. that derive at least 75% of their total revenue from the ownership and operation of real estate assets and that have a minimum total market capitalization of $200 million at the time of their inclusion. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/NURE.png
+ipoDate,2016-12-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,SIL
+symbol,SIL
+price,30.29
+beta,0
+volAvg,444145
+mktCap,0
+lastDiv,0.072
+range,21.26-40.29
+changes,-0.02
+companyName,Global X Silver Miners ETF
+currency,USD
+cik,
+isin,US37954Y8488
+cusip,37954Y848
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the silver mining industry. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SIL.png
+ipoDate,2010-04-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

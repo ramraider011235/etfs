@@ -1,0 +1,37 @@
+,IEV
+symbol,IEV
+price,49.6
+beta,0
+volAvg,415452
+mktCap,1993919950
+lastDiv,1.385
+range,36.88-54.05
+changes,0.26
+companyName,iShares Europe ETF
+currency,USD
+cik,
+isin,US4642878619
+cusip,464287861
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of the securities of leading companies in the following countries: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom (the “U.K.”). The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IEV.png
+ipoDate,2000-07-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

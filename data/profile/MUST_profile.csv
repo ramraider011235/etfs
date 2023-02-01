@@ -1,0 +1,37 @@
+,MUST
+symbol,MUST
+price,20.76
+beta,0
+volAvg,163693
+mktCap,0
+lastDiv,0.31500000000000006
+range,19.19-21.89
+changes,0.07
+companyName,Columbia Multi-Sector Municipal Income ETF
+currency,USD
+cik,0001551950
+isin,US19761L6074
+cusip,19761L607
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in securities within the index. It invests at least 80% of its net assets (plus borrowings for investment purposes) in bonds and other debt instruments issued by or on behalf of state or local governmental units whose interest is exempt from U.S. federal income tax. The index reflects a rules-based, multi-sector strategic beta approach to measuring the performance of the U.S. tax-exempt bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MUST.png
+ipoDate,2018-10-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,XBI
+symbol,XBI
+price,88.9
+beta,0
+volAvg,9799957
+mktCap,0
+lastDiv,0.04
+range,61.78-99.16
+changes,1.8
+companyName,SPDR S&P Biotech ETF
+currency,USD
+cik,
+isin,US78464A8707
+cusip,78464A870
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the S&P Biotechnology Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the biotechnology segment of the S&P Total Market Index (""S&P TMI"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XBI.png
+ipoDate,2006-01-31
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

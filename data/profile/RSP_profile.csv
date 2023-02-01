@@ -1,0 +1,37 @@
+,RSP
+symbol,RSP
+price,151.73
+beta,0
+volAvg,3188281
+mktCap,23602057600
+lastDiv,2.565
+range,124.92-161.24
+changes,2.53
+companyName,Invesco S&P 500 Equal Weight ETF
+currency,USD
+cik,
+isin,US46137V3574
+cusip,46137V357
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is an equal-weighted version of the S&P 500® Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RSP.png
+ipoDate,2003-04-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

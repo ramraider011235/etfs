@@ -1,0 +1,37 @@
+,SPLV
+symbol,SPLV
+price,63.82
+beta,0
+volAvg,1876139
+mktCap,10445705186
+lastDiv,1.3619999999999999
+range,55.99-69.82
+changes,0.67
+companyName,Invesco S&P 500 Low Volatility ETF
+currency,USD
+cik,
+isin,US46138E3541
+cusip,46138E354
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices LLC (the “index Provider”) compiles, maintains and calculates the underlying index, which is designed to measure the performance of the 100 least volatile constituents of the S&P 500 ® Index over the past 12 months as determined by the index Provider."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPLV.png
+ipoDate,2011-05-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

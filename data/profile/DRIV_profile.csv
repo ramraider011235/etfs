@@ -1,0 +1,37 @@
+,DRIV
+symbol,DRIV
+price,23.76
+beta,0
+volAvg,140977
+mktCap,0
+lastDiv,0.247
+range,18.91-29.42
+changes,0.44
+companyName,Global X Autonomous & Electric Vehicles ETF
+currency,USD
+cik,
+isin,US37954Y6243
+cusip,37954Y624
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the index. The index is designed to provide exposure to exchange-listed companies that are involved in the development of electric vehicles and/or autonomous vehicles, including companies that produce electric/hybrid vehicles, electric/hybrid vehicle components and materials, autonomous driving technology, and network connected services for transportation."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DRIV.png
+ipoDate,2018-04-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

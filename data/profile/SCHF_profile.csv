@@ -1,0 +1,37 @@
+,SCHF
+symbol,SCHF
+price,35.12
+beta,0
+volAvg,4657922
+mktCap,0
+lastDiv,0.903
+range,27.4-38.58
+changes,0.19
+companyName,Schwab International Equity ETF
+currency,USD
+cik,
+isin,US8085248057
+cusip,808524805
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is comprised of large and mid capitalization companies in developed countries outside the United States, as defined by the index provider. The index defines the large and mid capitalization universe as approximately the top 90% of the eligible universe. The fund will invest at least 90% of its net assets in stocks, including depositary receipts representing securities of the index; such depositary receipts may be in the form of American Depositary Receipts, Global Depositary Receipts and European Depositary Receipts."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHF.png
+ipoDate,2009-11-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

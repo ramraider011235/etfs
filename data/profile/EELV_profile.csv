@@ -1,0 +1,37 @@
+,EELV
+symbol,EELV
+price,23.98
+beta,0
+volAvg,603085
+mktCap,20101571
+lastDiv,0.796
+range,20.52-26.42
+changes,-0.11
+companyName,Invesco S&P Emerging Markets Low Volatility ETF
+currency,USD
+cik,
+isin,US46138E2972
+cusip,46138E297
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. S&P Dow Jones Indices LLC (""S&P DJI"" or the ""index provider"") compiles, maintains and calculates the underlying index, which is designed to measure the performance of 200 of the least volatile stocks included in the S&P Emerging Plus LargeMidCap Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EELV.png
+ipoDate,2012-01-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

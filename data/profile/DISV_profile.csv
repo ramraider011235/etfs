@@ -1,0 +1,37 @@
+,DISV
+symbol,DISV
+price,24.45
+beta,0
+volAvg,370827
+mktCap,0
+lastDiv,0.274
+range,18.16-25.29
+changes,0.22
+companyName,Dimensional International Small Cap Value ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The Portfolio, using a market capitalization weighted approach, is designed to purchase securities of small, non-U.S. companies in countries with developed markets that the Advisor determines to be value stocks at the time of purchase. Under a market capitalization weighted approach, companies with higher market capitalizations generally represent a larger proportion of the Portfolio than companies with relatively lower market capitalizations."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DISV.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

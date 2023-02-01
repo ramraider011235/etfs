@@ -1,0 +1,37 @@
+,EPHE
+symbol,EPHE
+price,28.12
+beta,0
+volAvg,64175
+mktCap,254152666
+lastDiv,0.453
+range,22.07-33.26
+changes,-0.44
+companyName,iShares MSCI Philippines ETF
+currency,USD
+cik,
+isin,US46429B4086
+cusip,46429B408
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization-weighted index designed to measure the performance of the large-, mid- and small-capitalization segments of the Philippines equity market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EPHE.png
+ipoDate,2010-09-28
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

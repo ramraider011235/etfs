@@ -1,0 +1,37 @@
+,FLCO
+symbol,FLCO
+price,21.79
+beta,0
+volAvg,37690
+mktCap,118468221
+lastDiv,0.7710000000000001
+range,19.7-24.98
+changes,0.135
+companyName,Franklin Investment Grade Corporate ETF
+currency,USD
+cik,
+isin,US35473P6034
+cusip,35473P603
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its net assets in investment grade corporate debt securities and investments. It invests primarily in U.S. dollar denominated corporate debt securities issued by U.S. and foreign companies. The fund may invest in debt securities of any maturity or duration. The fund's focus on the credit quality of its portfolio is intended to reduce credit risk and help to preserve the fund's capital."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLCO.png
+ipoDate,2016-10-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

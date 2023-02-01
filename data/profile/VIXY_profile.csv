@@ -1,0 +1,37 @@
+,VIXY
+symbol,VIXY
+price,9.15
+beta,0
+volAvg,5881740
+mktCap,0
+lastDiv,0
+range,8.92-23.97
+changes,-0.21
+companyName,ProShares VIX Short-Term Futures ETF
+currency,USD
+cik,0001415311
+isin,US74347W1716
+cusip,74347Y854
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The index seeks to offer exposure to market volatility through publicly traded futures markets and is designed to measure the implied volatility of the S&P 500 over 30 days in the future.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VIXY.png
+ipoDate,2011-01-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

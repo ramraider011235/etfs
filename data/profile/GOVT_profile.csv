@@ -1,0 +1,37 @@
+,GOVT
+symbol,GOVT
+price,23.33
+beta,0
+volAvg,12249840
+mktCap,0
+lastDiv,0.3640000000000001
+range,22.13-26.02
+changes,0.09
+companyName,iShares U.S. Treasury Bond ETF
+currency,USD
+cik,
+isin,US46429B2676
+cusip,46429B267
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The fund will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the underlying index. The underlying index includes publicly-issued U.S. Treasury securities that have a remaining maturity greater than one year and less than or equal to thirty years and have $300 million or more of outstanding face value.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GOVT.png
+ipoDate,2012-02-14
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

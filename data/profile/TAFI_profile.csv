@@ -1,0 +1,37 @@
+,TAFI
+symbol,TAFI
+price,25.24
+beta,0
+volAvg,122729
+mktCap,0
+lastDiv,0.10200000000000001
+range,24.39-25.32
+changes,0.01
+companyName,Ab Tax-Aware Short Duration ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively-managed exchange-traded fund (“ETF”). It pursues its objective by investing principally in a national portfolio of both municipal and taxable fixed-income securities. The fund invests, under normal circumstances, at least 80% of its total assets in municipal securities that pay interest that is exempt from federal income tax. These securities may pay interest that is subject to the federal alternative minimum tax for certain taxpayers."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TAFI.png
+ipoDate,2022-09-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

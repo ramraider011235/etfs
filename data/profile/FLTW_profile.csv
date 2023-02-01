@@ -1,0 +1,37 @@
+,FLTW
+symbol,FLTW
+price,36.37
+beta,0
+volAvg,37431
+mktCap,15135521
+lastDiv,1.035
+range,28.98-46.56
+changes,-0.11
+companyName,Franklin FTSE Taiwan ETF
+currency,USD
+cik,
+isin,US35473P6869
+cusip,35473P686
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Taiwan Capped Index and in depositary receipts representing such securities. The FTSE Taiwan Capped Index is based on the FTSE Taiwan Index and is designed to measure the performance of Taiwanese large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLTW.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

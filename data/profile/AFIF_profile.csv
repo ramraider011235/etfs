@@ -1,0 +1,37 @@
+,AFIF
+symbol,AFIF
+price,8.9
+beta,0
+volAvg,35342
+mktCap,0
+lastDiv,0.23499999999999996
+range,8.57-9.49
+changes,0.035
+companyName,Anfield Universal Fixed Income ETF
+currency,USD
+cik,
+isin,US90214Q7667
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is an actively managed exchange-traded fund (""ETF"") that normally invests at least 80% of its net assets, including any borrowings for investment purposes, in a diversified portfolio of fixed income instruments. The principal investments of the fund include corporate bonds, U.S. government and agency securities, master-limited partners (""MLPs"") (tied to energy-related commodities), private debt, foreign sovereign bonds, convertible securities, bank loans, asset-backed securities, mortgage-backed securities, and cash equivalent instruments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/AFIF.png
+ipoDate,2018-09-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

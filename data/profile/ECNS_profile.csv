@@ -1,0 +1,37 @@
+,ECNS
+symbol,ECNS
+price,39.24
+beta,0
+volAvg,23642
+mktCap,23116676
+lastDiv,1.238
+range,26.57-47.37
+changes,0.029
+companyName,iShares MSCI China Small-Cap ETF
+currency,USD
+cik,
+isin,US46429B2007
+cusip,46429B200
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization-weighted index designed to measure the performance of the small capitalization segment of the Chinese equity securities markets, as represented by the H-shares and B-shares markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ECNS.png
+ipoDate,2010-09-28
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

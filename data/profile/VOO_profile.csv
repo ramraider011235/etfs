@@ -1,0 +1,37 @@
+,VOO
+symbol,VOO
+price,373.44
+beta,0
+volAvg,4024427
+mktCap,0
+lastDiv,5.947000000000001
+range,319.87-424.72
+changes,5.23
+companyName,Vanguard 500 Index Fund
+currency,USD
+cik,0000036405
+isin,US9229083632
+cusip,922908363
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Standard & Poor's 500 Index, a widely recognized benchmark of U.S. stock market performance that is dominated by the stocks of large U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VOO.png
+ipoDate,2010-09-07
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

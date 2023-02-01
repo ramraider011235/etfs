@@ -1,0 +1,37 @@
+,IDLV
+symbol,IDLV
+price,28
+beta,0
+volAvg,75368
+mktCap,0
+lastDiv,1.256
+range,23.59-31.86
+changes,0.06
+companyName,Invesco S&P International Developed Low Volatility ETF
+currency,USD
+cik,
+isin,US46138E2303
+cusip,46138E230
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 90% of its total assets in securities that comprise the underlying index. S&P Dow Jones Indices (""S&P DJI"" or the ""index provider"") compiles, maintains and calculates the underlying index, which is designed to measure the performance of 200 of the least volatile stocks of the S&P Developed ex-U.S. & South Korea LargeMidCap Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IDLV.png
+ipoDate,2012-01-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

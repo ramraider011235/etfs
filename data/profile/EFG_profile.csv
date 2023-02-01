@@ -1,0 +1,37 @@
+,EFG
+symbol,EFG
+price,91.63
+beta,0
+volAvg,1165663
+mktCap,3801411569
+lastDiv,1.062
+range,70.21-102.03
+changes,0.54
+companyName,iShares MSCI EAFE Growth ETF
+currency,USD
+cik,
+isin,US4642888857
+cusip,464288885
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a subset of the MSCI EAFE Index. Constituents of the underlying index include securities of companies located in Europe, Australasia and the Far East."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EFG.png
+ipoDate,2005-08-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,BUFT
+symbol,BUFT
+price,18.86
+beta,0
+volAvg,65583
+mktCap,0
+lastDiv,0
+range,18.0-20.21
+changes,0.07
+companyName,FT Cboe Vest Buffered Allocation Defensive ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing in a portfolio of exchange-traded funds (“ETFs”) that seek to provide investors with returns (before fees and expenses) based on the price return of the SPDR® S&P 500® ETF Trust (“SPY”), up to a predetermined cap, while providing a defined buffer against losses of SPY over a defined one-year period (the ""underlying ETFs""). Under normal market conditions, it will invest substantially all of its assets in underlying ETFs. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BUFT.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

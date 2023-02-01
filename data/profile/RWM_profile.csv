@@ -1,0 +1,37 @@
+,RWM
+symbol,RWM
+price,22.46
+beta,0
+volAvg,2573708
+mktCap,0
+lastDiv,0.096
+range,21.4-27.14
+changes,-0.55
+companyName,ProShares Short Russell2000
+currency,USD
+cik,
+isin,US74348A2107
+cusip,74348A210
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. It is a float-adjusted, market capitalization-weighted index containing approximately 2000 of the smallest companies in the Russell 3000® Index or approximately 10% of the total market capitalization of the Russell 3000® Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RWM.png
+ipoDate,2007-01-23
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

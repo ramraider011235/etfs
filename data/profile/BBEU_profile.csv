@@ -1,0 +1,37 @@
+,BBEU
+symbol,BBEU
+price,53.03
+beta,0
+volAvg,2221036
+mktCap,0
+lastDiv,2.29
+range,39.335-59.155
+changes,0.35
+companyName,JPMorgan BetaBuilders Europe ETF
+currency,USD
+cik,
+isin,US46641Q7209
+cusip,46641Q191
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in securities included in the underlying index. The underlying index is a free float adjusted market capitalization-weighted index which consists of equity securities from developed European countries or regions, including: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BBEU.png
+ipoDate,2018-06-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

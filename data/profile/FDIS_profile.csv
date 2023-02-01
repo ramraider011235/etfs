@@ -1,0 +1,37 @@
+,FDIS
+symbol,FDIS
+price,65.51
+beta,0
+volAvg,74595
+mktCap,719817722
+lastDiv,0.5640000000000001
+range,55.35-82.28
+changes,1.51
+companyName,Fidelity MSCI Consumer Discretionary Index ETF
+currency,USD
+cik,
+isin,US3160922049
+cusip,316092204
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Consumer Discretionary 25/50 Index, which represents the performance of the consumer discretionary sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Consumer Discretionary 25/50 Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FDIS.png
+ipoDate,2013-10-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

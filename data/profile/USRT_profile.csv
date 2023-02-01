@@ -1,0 +1,37 @@
+,USRT
+symbol,USRT
+price,54.74
+beta,0
+volAvg,316681
+mktCap,0
+lastDiv,1.7140000000000004
+range,44.8-67.5
+changes,1.12
+companyName,iShares Core U.S. REIT ETF
+currency,USD
+cik,
+isin,US4642885218
+cusip,464288521
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index measures the performance of U.S. listed equity real estate investment trusts (""REITs""), excluding infrastructure REITs, mortgage REITs, and timber REITs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USRT.png
+ipoDate,2007-05-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

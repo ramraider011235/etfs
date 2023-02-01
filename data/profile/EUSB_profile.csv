@@ -1,0 +1,37 @@
+,EUSB
+symbol,EUSB
+price,43.57
+beta,0
+volAvg,158083
+mktCap,0
+lastDiv,0.8380000000000001
+range,40.62-48.425
+changes,0.23
+companyName,iShares ESG Advanced Total USD Bond Market ETF
+currency,USD
+cik,
+isin,US46436E6196
+cusip,46436E619
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is a modified market value-weighted index designed to reflect the performance of U.S. dollar-denominated, taxable bonds with favorable ESG ratings while applying extensive screens. The fund generally will invest at least 90% of its assets in the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EUSB.png
+ipoDate,2020-06-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

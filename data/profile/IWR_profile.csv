@@ -1,0 +1,37 @@
+,IWR
+symbol,IWR
+price,73.05
+beta,0
+volAvg,1686867
+mktCap,25541931916
+lastDiv,1.072
+range,60.73-80.0
+changes,1.35
+companyName,iShares Russell Mid-Cap ETF
+currency,USD
+cik,
+isin,US4642874998
+cusip,464287499
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e., depositary receipts representing securities of the underlying index) and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWR.png
+ipoDate,2001-07-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

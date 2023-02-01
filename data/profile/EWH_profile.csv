@@ -1,0 +1,37 @@
+,EWH
+symbol,EWH
+price,22.05
+beta,0.720348
+volAvg,3565168
+mktCap,1953078794
+lastDiv,0.611
+range,16.04-24.72
+changes,-0.28
+companyName,iShares MSCI Hong Kong ETF
+currency,USD
+cik,
+isin,US4642868719
+cusip,464286871
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to track the investment results of the index, which is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large- and mid-capitalization segments of the Hong Kong equity market. It generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EWH.png
+ipoDate,1996-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

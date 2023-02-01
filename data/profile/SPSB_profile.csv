@@ -1,0 +1,37 @@
+,SPSB
+symbol,SPSB
+price,29.7
+beta,0
+volAvg,3573081
+mktCap,0
+lastDiv,0.484
+range,28.92-30.72
+changes,0.07
+companyName,SPDR Portfolio Short Term Corporate Bond ETF
+currency,USD
+cik,
+isin,US78464A4748
+cusip,78464A474
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the short term U.S. corporate bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPSB.png
+ipoDate,2009-12-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

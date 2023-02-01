@@ -1,0 +1,37 @@
+,SRLN
+symbol,SRLN
+price,42.09
+beta,0
+volAvg,2449090
+mktCap,0
+lastDiv,2.0999999999999996
+range,40.42-45.57
+changes,0.06
+companyName,SPDR Blackstone Senior Loan ETF
+currency,USD
+cik,
+isin,US78467V6083
+cusip,78467V608
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to outperform the Markit iBoxx USD Liquid Leveraged Loan Index and the S&P/LSTA U.S. Leveraged Loan 100 Index by normally investing at least 80% of its net assets (plus any borrowings for investment purposes) in Senior Loans. For purposes of this 80% test, ""Senior Loans"" are first lien senior secured floating rate bank loans."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SRLN.png
+ipoDate,2013-04-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

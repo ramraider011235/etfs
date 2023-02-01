@@ -1,0 +1,37 @@
+,INTF
+symbol,INTF
+price,26.68
+beta,0
+volAvg,203967
+mktCap,0
+lastDiv,0.6920000000000001
+range,20.47-28.869
+changes,0.17
+companyName,iShares International Equity Factor ETF
+currency,USD
+cik,
+isin,US46434V2741
+cusip,46434V274
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is composed of large- and mid-capitalization equity securities from the STOXX Global 1800 ex USA index (the “parent index”) that are selected and weighted using an optimization process designed to maximize exposure to five target factors: momentum, quality, value, low volatility and size."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/INTF.png
+ipoDate,2015-04-28
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

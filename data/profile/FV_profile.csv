@@ -1,0 +1,37 @@
+,FV
+symbol,FV
+price,48.6
+beta,0
+volAvg,302996
+mktCap,0
+lastDiv,0.6419999999999999
+range,39.45-50.6
+changes,0.86
+companyName,First Trust Dorsey Wright Focus 5 ETF
+currency,USD
+cik,
+isin,US33738R6053
+cusip,33738R605
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the exchange-traded funds (""ETFs"") that comprise the index. The index is designed to provide targeted exposure to the five First Trust sector-based ETFs that the index provider believes offer the greatest potential to outperform the other ETFs in the selection universe and that satisfy certain trading volume and liquidity requirements."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FV.png
+ipoDate,2014-03-06
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

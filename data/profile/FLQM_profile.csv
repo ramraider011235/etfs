@@ -1,0 +1,37 @@
+,FLQM
+symbol,FLQM
+price,44.3
+beta,0
+volAvg,32731
+mktCap,11172061
+lastDiv,0.5509999999999999
+range,37.02-45.999
+changes,0.89
+companyName,Franklin U.S. Mid Cap Multifactor Index ETF
+currency,USD
+cik,
+isin,US35473P8840
+cusip,35473P884
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the U.S. Mid Cap underlying index. The U.S. Mid Cap underlying index is based on the Russell Midcap® Index using a methodology developed with Franklin Templeton to reflect Franklin Templeton's desired investment strategy."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLQM.png
+ipoDate,2017-04-26
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

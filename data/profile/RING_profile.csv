@@ -1,0 +1,37 @@
+,RING
+symbol,RING
+price,25.1
+beta,0
+volAvg,194955
+mktCap,288650000
+lastDiv,0.511
+range,16.8-33.58
+changes,0.09
+companyName,iShares MSCI Global Gold Miners ETF
+currency,USD
+cik,
+isin,US46434G8556
+cusip,46434G855
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index has been developed by MSCI Inc. (the ""index provider"" or ""MSCI"") to target a minimum of 30 companies in developed and emerging markets that are involved in the business of gold mining. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RING.png
+ipoDate,2012-01-31
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

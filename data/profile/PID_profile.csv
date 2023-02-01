@@ -1,0 +1,37 @@
+,PID
+symbol,PID
+price,18.06
+beta,0
+volAvg,380463
+mktCap,0
+lastDiv,0.55
+range,14.65-20.0
+changes,0.185
+companyName,Invesco International Dividend Achievers ETF
+currency,USD
+cik,
+isin,US46137V5488
+cusip,46137V548
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of Global Depositary Receipts (“GDRs”) that are listed on the London Stock Exchange (“LSE”) or the London International Exchange, and American Depositary Receipts (“ADRs”) and non-U.S. common or ordinary stocks, limited partnership interests and shares of limited liability companies that are listed on the NYSE."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PID.png
+ipoDate,2005-09-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

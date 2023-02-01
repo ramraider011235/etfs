@@ -1,0 +1,37 @@
+,STIP
+symbol,STIP
+price,97.75
+beta,0
+volAvg,1656895
+mktCap,0
+lastDiv,5.553
+range,96.04-106.78
+changes,0.12
+companyName,iShares 0-5 Year TIPS Bond ETF
+currency,USD
+cik,
+isin,US46429B7477
+cusip,46429B747
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of the inflation-protected public obligations of the U.S. Treasury, commonly known as ""TIPS,"" that have a remaining maturity of less than five years. The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/STIP.png
+ipoDate,2010-12-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,ESGD
+symbol,ESGD
+price,71.75
+beta,0
+volAvg,615685
+mktCap,221685832
+lastDiv,1.704
+range,54.735-78.499
+changes,0.39
+companyName,iShares ESG Aware MSCI EAFE ETF
+currency,USD
+cik,
+isin,US46435G5163
+cusip,46435G516
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The underlying index is composed of large- and mid-capitalization developed market equities, excluding the U.S. and Canada that have positive environmental, social and governance characteristics as identified by the index provider while exhibiting risk and return characteristics similar to those of the parent index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ESGD.png
+ipoDate,2016-06-28
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

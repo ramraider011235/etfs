@@ -1,0 +1,37 @@
+,SPIP
+symbol,SPIP
+price,26.3
+beta,0
+volAvg,812424
+mktCap,0
+lastDiv,1.758
+range,25.28-31.52
+changes,0
+companyName,SPDR Portfolio TIPS ETF
+currency,USD
+cik,
+isin,US78464A6560
+cusip,78464A656
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the inflation protected public obligations of the U.S. Treasury, commonly known as ""TIPS."""
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPIP.png
+ipoDate,2007-05-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

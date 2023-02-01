@@ -1,0 +1,37 @@
+,IYC
+symbol,IYC
+price,65.04
+beta,1.11099
+volAvg,77590
+mktCap,292680000
+lastDiv,0.386
+range,55.09-78.23
+changes,1.3
+companyName,iShares US Consumer Discretionary ETF
+currency,USD
+cik,
+isin,US4642875805
+cusip,464287580
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index measures the performance of the consumer discretionary sector of the U.S. equity market, as defined by FTSE Russell."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IYC.png
+ipoDate,2000-06-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

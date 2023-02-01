@@ -1,0 +1,37 @@
+,SPTL
+symbol,SPTL
+price,31.1
+beta,0
+volAvg,5215195
+mktCap,0
+lastDiv,0.7230000000000001
+range,26.87-40.9
+changes,0.25
+companyName,SPDR Portfolio Long Term Treasury ETF
+currency,USD
+cik,
+isin,US78464A6644
+cusip,78464A664
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of public obligations of the U.S. Treasury that have a remaining maturity of 10 years or more."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPTL.png
+ipoDate,2007-05-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

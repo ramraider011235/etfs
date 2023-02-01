@@ -1,0 +1,37 @@
+,FSEC
+symbol,FSEC
+price,43.45
+beta,0
+volAvg,245
+mktCap,0
+lastDiv,0.984
+range,40.4-48.485
+changes,0.045
+companyName,Fidelity Investment Grade Securitized ETF
+currency,USD
+cik,
+isin,US3161887050
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of assets in investment-grade securitized debt securities (those of medium and high quality) and repurchase agreements for those securities. It invests in securitized debt securities issued by the U.S. government and its agencies or instrumentalities, foreign governments, and corporations. The fund invests in U.S. government securities issued by entities that are chartered or sponsored by Congress but whose securities are neither issued nor guaranteed by the U.S. Treasury."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FSEC.png
+ipoDate,2021-03-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

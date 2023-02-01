@@ -1,0 +1,37 @@
+,BFEB
+symbol,BFEB
+price,31.75
+beta,0
+volAvg,8740
+mktCap,0
+lastDiv,0
+range,27.58-32.78
+changes,0.43
+companyName,Innovator S&P 500 Buffer ETF - February
+currency,USD
+cik,
+isin,US45782C4336
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in FLexible EXchange® Options (""FLEX Options"") that reference the SPDR® S&P 500® ETF Trust (the ""Underlying ETF""). FLEX Options are exchange-traded options contracts with uniquely customizable terms. Although guaranteed for settlement by the Options Clearing Corporation (the ""OCC""), FLEX Options are still subject to counterparty risk with the OCC and may be less liquid than more traditional exchange-traded options. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BFEB.png
+ipoDate,2020-02-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

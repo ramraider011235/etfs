@@ -1,0 +1,37 @@
+,IBTG
+symbol,IBTG
+price,23.06
+beta,0
+volAvg,111624
+mktCap,0
+lastDiv,0.40900000000000003
+range,22.34-24.94
+changes,0.05
+companyName,iShares iBonds Dec 2026 Term Treasury ETF
+currency,USD
+cik,
+isin,US46436E8580
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the underlying index. The underlying index consists of publicly-issued U.S. Treasury securities that are scheduled to mature between January 1, 2026 and December 15, 2026, inclusive. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBTG.png
+ipoDate,2020-02-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

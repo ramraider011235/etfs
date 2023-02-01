@@ -1,0 +1,37 @@
+,FNOV
+symbol,FNOV
+price,37.31
+beta,0
+volAvg,136514
+mktCap,0
+lastDiv,0
+range,32.26-39.12
+changes,0.42
+companyName,FT Cboe Vest U.S. Equity Buffer ETF - November
+currency,USD
+cik,
+isin,US33740F8471
+cusip,33740F847
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange® Options (""FLEX Options"") that reference the price performance of the SPDR® S&P 500® ETF Trust (the ""Underlying ETF""). FLEX Options are customized equity or index option contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FNOV.png
+ipoDate,2019-11-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,IFRA
+symbol,IFRA
+price,38.92
+beta,0
+volAvg,233021
+mktCap,0
+lastDiv,0.7190000000000001
+range,31.72-40.25
+changes,0.79
+companyName,iShares U.S. Infrastructure ETF
+currency,USD
+cik,
+isin,US46435U7138
+cusip,46435U713
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the index and in investments that are substantially identical to the component securities of the index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index, but which BFA believes will help the fund track the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IFRA.png
+ipoDate,2018-04-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

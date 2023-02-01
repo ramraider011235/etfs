@@ -1,0 +1,37 @@
+,VPL
+symbol,VPL
+price,69.66
+beta,0.778019
+volAvg,788375
+mktCap,1281437496
+lastDiv,1.7720000000000002
+range,56.07-76.59
+changes,0.16
+companyName,Vanguard Pacific Stock Index Fund
+currency,USD
+cik,
+isin,US9220428661
+cusip,922042866
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach by investing all, or substantially all, of its assets in the common stocks included in the FTSE Developed Asia Pacific All Cap Index. The FTSE Developed Asia Pacific All Cap Index is a market-capitalization weighted index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VPL.png
+ipoDate,2005-03-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

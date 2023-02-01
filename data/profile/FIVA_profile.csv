@@ -1,0 +1,37 @@
+,FIVA
+symbol,FIVA
+price,23.1
+beta,0
+volAvg,13472
+mktCap,13431125
+lastDiv,0.487
+range,17.45-25.52
+changes,0.23
+companyName,Fidelity International Value Factor ETF
+currency,USD
+cik,
+isin,US3160927170
+cusip,316092717
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund normally invests at least 80% of assets in securities included in the Fidelity International Value Factor Index? and in depositary receipts representing securities included in the index. The index is designed to reflect the performance of stocks of large- and mid-capitalization developed international companies that have attractive valuations.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FIVA.png
+ipoDate,2018-01-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

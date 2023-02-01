@@ -1,0 +1,37 @@
+,KSA
+symbol,KSA
+price,39.21
+beta,0
+volAvg,455091
+mktCap,0
+lastDiv,0.7290000000000001
+range,36.49-51.12
+changes,0.26
+companyName,iShares MSCI Saudi Arabia ETF
+currency,USD
+cik,
+isin,US46434V4234
+cusip,46434V423
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index. The index is a free float-adjusted market capitalization-weighted index that incorporates foreign ownership limits and is designed to measure the performance of the large-, mid- and small- capitalization segments of the Saudi Arabia market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/KSA.png
+ipoDate,2015-09-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

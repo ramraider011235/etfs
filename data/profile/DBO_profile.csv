@@ -1,0 +1,37 @@
+,DBO
+symbol,DBO
+price,15.11
+beta,0
+volAvg,641560
+mktCap,432146000
+lastDiv,0.1
+range,14.0-21.12
+changes,0.25
+companyName,Invesco DB Oil Fund
+currency,USD
+cik,0001383058
+isin,US46140H4039
+cusip,46140H403
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The single index Commodity consists of Light, Sweet Crude Oil (WTI). The fund invests in futures contracts in an attempt to track its corresponding index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,0.52
+dcf,15.64
+image,https://financialmodelingprep.com/image-stock/DBO.png
+ipoDate,2007-01-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

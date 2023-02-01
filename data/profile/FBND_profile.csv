@@ -1,0 +1,37 @@
+,FBND
+symbol,FBND
+price,46.67
+beta,0
+volAvg,721521
+mktCap,583067351
+lastDiv,1.4500000000000002
+range,43.25-52.04
+changes,0.42
+companyName,Fidelity Total Bond ETF
+currency,USD
+cik,
+isin,US3161883091
+cusip,316188309
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Normally, the fund invests at least 80% of assets in debt securities of all types and repurchase agreements for those securities. The manager uses the Bloomberg U.S. Universal Bond Index as a guide in allocating assets across the investment-grade, high yield, and emerging market asset classes. The fund invests up to 20% of assets in lower-quality debt securities. It is managed to have similar overall interest rate risk to the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FBND.png
+ipoDate,2014-10-06
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

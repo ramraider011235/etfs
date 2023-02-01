@@ -1,0 +1,37 @@
+,USXF
+symbol,USXF
+price,32.73
+beta,0
+volAvg,66370
+mktCap,0
+lastDiv,0.426
+range,27.0-36.919
+changes,0.42
+companyName,iShares ESG Advanced MSCI USA ETF
+currency,USD
+cik,
+isin,US46436E7673
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The underlying index is a free float-adjusted market capitalization-weighted index designed to reflect the equity performance of large- and mid-capitalization U.S. companies with favorable environmental, social and governance (“ESG”) ratings while applying extensive screens, including removing fossil fuel exposure. The fund generally will invest at least 90% of its assets in the component securities of the underlying index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USXF.png
+ipoDate,2020-06-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

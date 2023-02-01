@@ -1,0 +1,37 @@
+,SCHZ
+symbol,SCHZ
+price,47.25
+beta,0
+volAvg,1103596
+mktCap,0
+lastDiv,1.091
+range,43.86-52.86
+changes,0.25
+companyName,Schwab U.S. Aggregate Bond ETF
+currency,USD
+cik,
+isin,US8085248396
+cusip,808524839
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 90% of its net assets in securities included in the index. The index is a broad-based benchmark measuring the performance of the U.S. investment grade, taxable bond market, including U.S. Treasuries, government-related and corporate bonds, mortgage pass-through securities, commercial mortgage-backed securities, and asset-backed securities that are publicly available for sale in the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHZ.png
+ipoDate,2011-07-14
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

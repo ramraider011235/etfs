@@ -1,0 +1,37 @@
+,VSGX
+symbol,VSGX
+price,53.45
+beta,0
+volAvg,207096
+mktCap,0
+lastDiv,1.284
+range,42.07-61.2
+changes,0.19
+companyName,Vanguard ESG International Stock ETF
+currency,USD
+cik,0000052848
+isin,US9219107250
+cusip,921910725
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests by sampling the index, meaning that it holds a broadly diversified collection of securities that, in the aggregate, approximates the full index in terms of key characteristics. The index, which is market-capitalization weighted, is composed of large-, mid-, and small-cap stocks of companies in developed and emerging markets, excluding the United States, that are screened for certain environmental, social, and corporate governance (ESG) criteria by the index sponsor, which is independent of Vanguard."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VSGX.png
+ipoDate,2018-09-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

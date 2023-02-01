@@ -1,0 +1,37 @@
+,XLSR
+symbol,XLSR
+price,40.66
+beta,0
+volAvg,38591
+mktCap,0
+lastDiv,0.698
+range,35.1-46.21
+changes,0.55
+companyName,SPDR SSGA U.S. Sector Rotation ETF
+currency,USD
+cik,
+isin,US78470P4081
+cusip,78470P408
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is a ""fund of funds,"" meaning that it primarily invests its assets in securities of other exchange-traded funds (""ETFs""). In particular, it allocates its assets among ETFs that each focus on common stocks of companies included in an individual sector of the S&P 500® Index, as determined by the Global Industry Classification Standard (GICS®). Under normal circumstances, the fund invests at least 80% of its net assets (plus the amount of borrowings for investments purposes) directly or indirectly through the underlying ETFs, in securities of U.S. companies."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XLSR.png
+ipoDate,2019-04-02
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

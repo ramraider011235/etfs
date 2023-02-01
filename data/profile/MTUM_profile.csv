@@ -1,0 +1,37 @@
+,MTUM
+symbol,MTUM
+price,145.13
+beta,0
+volAvg,643059
+mktCap,0
+lastDiv,2.62
+range,129.62-173.11
+changes,1.76
+companyName,iShares MSCI USA Momentum Factor ETF
+currency,USD
+cik,
+isin,US46432F3964
+cusip,46432F396
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index consists of stocks exhibiting relatively higher momentum characteristics than the traditional market capitalization-weighted parent index, the MSCI USA Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MTUM.png
+ipoDate,2013-04-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

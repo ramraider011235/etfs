@@ -1,0 +1,37 @@
+,CHIC
+symbol,CHIC
+price,16.39
+beta,0
+volAvg,1303
+mktCap,0
+lastDiv,0.18
+range,9.37-19.42
+changes,-0.26
+companyName,Global X MSCI China Communication Services ETF
+currency,USD
+cik,
+isin,US37950E8049
+cusip,37950E804
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in ADRs and GDRs based on the securities in the underlying index. The underlying index tracks the performance of companies in the MSCI China Index (the ""parent index"") that are classified in the communication services sector, as defined by the index provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CHIC.png
+ipoDate,2009-12-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

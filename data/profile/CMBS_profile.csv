@@ -1,0 +1,37 @@
+,CMBS
+symbol,CMBS
+price,47.25
+beta,0
+volAvg,112285
+mktCap,336822239
+lastDiv,1.1059999999999999
+range,44.35-52.39
+changes,0.21
+companyName,iShares CMBS ETF
+currency,USD
+cik,
+isin,US46429B3666
+cusip,46429B366
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of investment-grade commercial mortgage-backed securities (""CMBS""), which are classes of securities (known as ""certificates"") that represent interests in ""pools"" of commercial mortgages. The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CMBS.png
+ipoDate,2012-02-14
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,FLGB
+symbol,FLGB
+price,24.4
+beta,0
+volAvg,286039
+mktCap,30086640
+lastDiv,0.969
+range,18.98-26.72
+changes,0.02
+companyName,Franklin FTSE United Kingdom ETF
+currency,USD
+cik,
+isin,US35473P6786
+cusip,35473P678
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE UK Capped Index and in depositary receipts representing such securities. The FTSE UK Capped Index is based on the FTSE UK Index and is designed to measure the performance of United Kingdom large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLGB.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

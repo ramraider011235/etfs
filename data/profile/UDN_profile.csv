@@ -1,0 +1,37 @@
+,UDN
+symbol,UDN
+price,18.8
+beta,0
+volAvg,258503
+mktCap,0
+lastDiv,0.128
+range,16.75-20.33
+changes,0.06
+companyName,Invesco DB US Dollar Index Bearish Fund
+currency,USD
+cik,0001383149
+isin,US46141D1046
+cusip,46141D104
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index reflects the changes in market value over time, whether positive or negative, of a short position in the DX Contract which expires during the months of March, June, September and December. The fund seeks to track the index by establishing short positions in DX Contracts. DX Contracts are linked to the six underlying currencies, or the index currencies, of the U.S. Dollar index (USDX®), or the USDX®. The index currencies are Euro, Japanese Yen, British Pound, Canadian Dollar, Swedish Krona and Swiss Franc."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/UDN.png
+ipoDate,2007-02-20
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

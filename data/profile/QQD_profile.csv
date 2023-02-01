@@ -1,0 +1,37 @@
+,QQD
+symbol,QQD
+price,21.3541
+beta,0
+volAvg,7536
+mktCap,1174747444
+lastDiv,0.109
+range,17.49-29.81
+changes,0.2441
+companyName,Simplify Nasdaq 100 plus Downside  convexity ETF
+currency,USD
+cik,
+isin,US82889N5095
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities, primarily by purchasing ETFs that invest in companies listed on the NASDAQ-100 Index. Up to twenty percent of its net assets will be subject to the fund's downside convexity option overlay. The downside convexity option overlay consists of purchasing exchange-traded and OTC put options on the NASDAQ®-100 Index or a NASDAQ®-100 Index ETF."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QQD.png
+ipoDate,2020-12-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

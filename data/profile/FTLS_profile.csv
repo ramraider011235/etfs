@@ -1,0 +1,37 @@
+,FTLS
+symbol,FTLS
+price,50.34
+beta,0
+volAvg,108609
+mktCap,0
+lastDiv,0.396
+range,46.64-51.85
+changes,0.47
+companyName,First Trust Long/Short Equity ETF
+currency,USD
+cik,
+isin,US33739P1030
+cusip,33739P103
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal conditions, the fund will expose at least 80% of its net assets (including investment borrowings) to U.S. exchange-listed equity securities and/or U.S. exchange-traded funds (""ETFs"") that provide exposure to U.S. exchange-listed equity securities. It pursues its investment objective by establishing long and short positions in its portfolio of U.S. exchange-listed equity securities and ETFs. The fund may invest up to 20% of its net assets (including investment borrowings) in U.S. exchange-listed equity index futures contracts."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FTLS.png
+ipoDate,2014-09-09
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

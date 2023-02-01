@@ -1,0 +1,37 @@
+,MINT
+symbol,MINT
+price,99.54
+beta,0
+volAvg,1026509
+mktCap,0
+lastDiv,1.5440000000000003
+range,98.14-101.35
+changes,0.07
+companyName,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund
+currency,USD
+cik,
+isin,US72201R8337
+cusip,72201R833
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in a diversified portfolio of Fixed Income Instruments of varying maturities, which may be represented by forwards. ""Fixed Income Instruments"" include bonds, debt securities and other similar instruments issued by various U.S. and non-U.S. public- or private-sector entities. The average portfolio duration of this fund will vary based on PIMCO's market forecasts and will normally not exceed one year."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MINT.png
+ipoDate,2009-11-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

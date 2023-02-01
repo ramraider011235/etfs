@@ -1,0 +1,37 @@
+,HYMB
+symbol,HYMB
+price,25.56
+beta,0
+volAvg,2044024
+mktCap,0
+lastDiv,1.694
+range,23.35-29.14
+changes,0.04
+companyName,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF
+currency,USD
+cik,
+isin,US78464A2841
+cusip,78464A284
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Sub-Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index measures the performance of USD-denominated high-yield municipal bonds issued by U.S. states, the District of Columbia, U.S. territories and local governments or agencies."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HYMB.png
+ipoDate,2011-04-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

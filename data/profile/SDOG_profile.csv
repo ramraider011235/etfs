@@ -1,0 +1,37 @@
+,SDOG
+symbol,SDOG
+price,55.19
+beta,0
+volAvg,58577
+mktCap,0
+lastDiv,1.988
+range,44.94-58.04
+changes,0.87
+companyName,ALPS Sector Dividend Dogs ETF
+currency,USD
+cik,0001414040
+isin,US00162Q8583
+cusip,00162Q858
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The underlying index generally consists of 50 stocks on each annual reconstitution date, which is the third Friday of December each year. The underlying index's stocks must be constituents of the S&P 500 Index, the leading benchmark index for U.S. large capitalization stocks. The underlying index methodology selects the five stocks in ten of the eleven GICS sectors that make up the S&P 500 which offer the highest dividend yields as of the last business day of November."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SDOG.png
+ipoDate,2012-06-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

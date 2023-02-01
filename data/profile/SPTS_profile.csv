@@ -1,0 +1,37 @@
+,SPTS
+symbol,SPTS
+price,29.12
+beta,0
+volAvg,2891631
+mktCap,0
+lastDiv,0.29100000000000004
+range,28.67-30.24
+changes,0.06
+companyName,SPDR Portfolio Short Term Treasury ETF
+currency,USD
+cik,
+isin,US78468R1014
+cusip,78468R101
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of short term (1-3 years) public obligations of the U.S. Treasury."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPTS.png
+ipoDate,2011-11-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

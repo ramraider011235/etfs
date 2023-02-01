@@ -1,0 +1,37 @@
+,IXJ
+symbol,IXJ
+price,84.42
+beta,0.717083
+volAvg,270175
+mktCap,3026456916
+lastDiv,0.9910000000000001
+range,74.5-91.78
+changes,0.91
+companyName,iShares Global Healthcare ETF
+currency,USD
+cik,
+isin,US4642873255
+cusip,464287325
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index measures the performance of companies that the index provider deems to be a part of the healthcare sector of the economy and that the index provider believes are important to global markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IXJ.png
+ipoDate,2001-11-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

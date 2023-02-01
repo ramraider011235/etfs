@@ -1,0 +1,37 @@
+,ASEA
+symbol,ASEA
+price,15.62
+beta,0
+volAvg,24677
+mktCap,21999255
+lastDiv,0.177
+range,13.05-16.24
+changes,-0.04
+companyName,Global X FTSE Southeast Asia ETF
+currency,USD
+cik,
+isin,US37950E6480
+cusip,37950E648
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index tracks the equity performance of the 40 largest and most liquid companies in the five Association of Southeast Asian Nations (""ASEAN"") regions: Singapore, Malaysia, Indonesia, Thailand and the Philippines. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ASEA.png
+ipoDate,2011-02-17
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

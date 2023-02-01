@@ -1,0 +1,37 @@
+,VTIP
+symbol,VTIP
+price,47.08
+beta,0
+volAvg,3409457
+mktCap,0
+lastDiv,3.193
+range,46.54-52.11
+changes,0.06
+companyName,Vanguard Short-Term Inflation-Protected Securities Index Fund
+currency,USD
+cik,
+isin,US9220208055
+cusip,922020805
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index is a market-capitalization-weighted index that includes all inflation-protected public obligations issued by the U.S. Treasury with remaining maturities of less than 5 years. The manager attempts to replicate the target index by investing all, or substantially all, of its assets in the securities that make up the index, holding each security in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VTIP.png
+ipoDate,2012-10-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

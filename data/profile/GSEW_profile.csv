@@ -1,0 +1,37 @@
+,GSEW
+symbol,GSEW
+price,62.14
+beta,0
+volAvg,57577
+mktCap,0
+lastDiv,1.005
+range,51.96-69.085
+changes,0.99
+companyName,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF
+currency,USD
+cik,
+isin,US3814304388
+cusip,381430438
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index. The index consists of equity securities of large capitalization U.S. issuers. The index is an equal-weight version of the Solactive US Large Cap Index, a market capitalization-weighted index that includes equity securities of approximately 500 of the largest U.S. companies."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GSEW.png
+ipoDate,2017-09-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

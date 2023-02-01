@@ -1,0 +1,37 @@
+,VXUS
+symbol,VXUS
+price,56.21
+beta,0
+volAvg,4210337
+mktCap,0
+lastDiv,1.598
+range,44.42-63.48
+changes,0.28
+companyName,Vanguard Total Intl Stock Idx Fund
+currency,USD
+cik,
+isin,US9219097683
+cusip,921909768
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The manager employs an indexing investment approach designed to track the performance of the FTSE Global All Cap ex US Index, a float-adjusted market-capitalization-weighted index designed to measure equity market performance of companies located in developed and emerging markets, excluding the United States. The fund invests all, or substantially all, of its assets in the common stocks included in its target index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VXUS.png
+ipoDate,2011-01-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

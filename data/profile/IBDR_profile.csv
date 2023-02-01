@@ -1,0 +1,37 @@
+,IBDR
+symbol,IBDR
+price,23.81
+beta,0
+volAvg,475857
+mktCap,0
+lastDiv,0.5159999999999999
+range,22.66-25.65
+changes,0.12
+companyName,iShares iBonds Dec 2026 Term Corporate ETF
+currency,USD
+cik,
+isin,US46435GAA04
+cusip,46435GAA0
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The index consists of U.S. dollar-denominated, investment-grade securities publicly issued by U.S. and non-U.S. corporate issuers that have $300 million or more of outstanding face value at the time of inclusion."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDR.png
+ipoDate,2016-09-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

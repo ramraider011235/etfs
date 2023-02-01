@@ -1,0 +1,37 @@
+,UTRN
+symbol,UTRN
+price,24.72
+beta,0
+volAvg,5324
+mktCap,0
+lastDiv,0.264
+range,21.87-28.71
+changes,0.13
+companyName,Vesper U.S. Large Cap Short-Term Reversal Strategy ETF
+currency,USD
+cik,
+isin,US3015057496
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 80% of its total assets in securities of the index. The index is designed to measure the performance of a portfolio of 25 stocks selected from the S&P 500 Index that Vesper Capital Management, LLC believes will most likely benefit from the ""short-term reversal"" effect, as determined by applying a proprietary algorithm (""Chow's Ratio"" or ""Algorithm"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/UTRN.png
+ipoDate,2018-09-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

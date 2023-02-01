@@ -1,0 +1,37 @@
+,IWN
+symbol,IWN
+price,152.07
+beta,0
+volAvg,1229460
+mktCap,11177145760
+lastDiv,2.946
+range,128.24-166.38
+changes,3.69
+companyName,iShares Russell 2000 Value ETF
+currency,USD
+cik,
+isin,US4642876308
+cusip,464287630
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e., depositary receipts representing securities of the underlying index) and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWN.png
+ipoDate,2000-07-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

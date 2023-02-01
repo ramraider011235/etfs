@@ -1,0 +1,37 @@
+,TLT
+symbol,TLT
+price,107.17
+beta,0
+volAvg,20873393
+mktCap,11756549107
+lastDiv,2.3950000000000005
+range,91.85-143.57
+changes,0.85
+companyName,iShares 20+ Year Treasury Bond ETF
+currency,USD
+cik,
+isin,US4642874329
+cusip,464287432
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in U.S. Treasury securities that the advisor believes will help the fund track the underlying index. The underlying index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity greater than or equal to twenty years."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TLT.png
+ipoDate,2002-07-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

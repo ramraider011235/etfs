@@ -1,0 +1,37 @@
+,IBDQ
+symbol,IBDQ
+price,24.63
+beta,0
+volAvg,496011
+mktCap,0
+lastDiv,0.4909999999999999
+range,23.86-26.09
+changes,0.11
+companyName,iShares iBonds Dec 2025 Term Corporate ETF
+currency,USD
+cik,
+isin,US46434VBD10
+cusip,46434VBD1
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The underlying index is composed of U.S. dollar-denominated, taxable, investment-grade corporate bonds scheduled to mature between January 1, 2025 and December 15, 2025, inclusive."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDQ.png
+ipoDate,2015-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

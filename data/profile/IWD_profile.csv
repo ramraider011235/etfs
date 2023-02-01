@@ -1,0 +1,37 @@
+,IWD
+symbol,IWD
+price,159.45
+beta,0
+volAvg,3020729
+mktCap,48696032232
+lastDiv,3.254
+range,134.09-169.69
+changes,2.18
+companyName,iShares Russell 1000 Value ETF
+currency,USD
+cik,
+isin,US4642875987
+cusip,464287598
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e., depositary receipts representing securities of the underlying index) and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWD.png
+ipoDate,2000-05-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VGIT
+symbol,VGIT
+price,59.87
+beta,0
+volAvg,2533150
+mktCap,0
+lastDiv,0.8989999999999998
+range,57.08-65.68
+changes,0.23
+companyName,Vanguard Intermediate-Term Treasury Index Fund
+currency,USD
+cik,
+isin,US92206C7065
+cusip,92206C706
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg U.S. Treasury 3-10 Year Index. This index includes fixed income securities issued by the U.S. Treasury (not including inflation-protected bonds, floating rate securities and certain other security types), with maturities between 3 and 10 years. At least 80% of the fund's assets will be invested in bonds included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VGIT.png
+ipoDate,2009-11-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

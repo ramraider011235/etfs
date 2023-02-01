@@ -1,0 +1,37 @@
+,ARKG
+symbol,ARKG
+price,33.7
+beta,0
+volAvg,1671249
+mktCap,443639336
+lastDiv,0.382
+range,26.38-52.47
+changes,1
+companyName,ARK Genomic Revolution ETF
+currency,USD
+cik,0001579982
+isin,US00214Q3020
+cusip,00214Q302
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is an actively-managed exchange-traded fund (""ETF"") that will invest under normal circumstances primarily (at least 80% of its assets) in domestic and foreign equity securities of companies across multiple sectors, including healthcare, information technology, materials, energy and consumer discretionary, that are relevant to the fund's investment theme of the genomics revolution (""Genomics Revolution Companies""). It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ARKG.png
+ipoDate,2014-10-31
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,PDN
+symbol,PDN
+price,31.86
+beta,0
+volAvg,55788
+mktCap,0
+lastDiv,0.7939999999999999
+range,24.93-36.06
+changes,0.14
+companyName,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF
+currency,USD
+cik,
+isin,US46138E7351
+cusip,46138E735
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index, as well as American depositary receipts (""ADRs"") and global depositary receipts (""GDRs"") that represent securities in the underlying index. The underlying index is comprised of securities of small-and mid-capitalization companies that are classified as ""developed"" within the country classification definition of FTSE, excluding the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PDN.png
+ipoDate,2007-09-27
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

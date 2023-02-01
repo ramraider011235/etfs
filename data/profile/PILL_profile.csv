@@ -1,0 +1,37 @@
+,PILL
+symbol,PILL
+price,10.59
+beta,0
+volAvg,20640
+mktCap,0
+lastDiv,0.061000000000000006
+range,8.05-15.67
+changes,0.44
+companyName,Direxion Daily Pharmaceutical & Medical Bull 3X Shares ETF
+currency,USD
+cik,0001424958
+isin,US25460E6462
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index and other financial instruments that provide daily leveraged exposure to the index or to ETFs that track the index. The index is a modified equal-weighted index that is designed to measure performance of the stocks comprising the S&P Total Market Index that are classified in the GICS pharmaceuticals sub-industry. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PILL.png
+ipoDate,2017-11-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

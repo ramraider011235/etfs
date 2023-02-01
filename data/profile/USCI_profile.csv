@@ -1,0 +1,37 @@
+,USCI
+symbol,USCI
+price,56.42
+beta,0
+volAvg,35521
+mktCap,0
+lastDiv,0
+range,47.42-62.72
+changes,0.665
+companyName,"United States Commodity Index Fund, LP"
+currency,USD
+cik,0001479247
+isin,US9117171069
+cusip,911717106
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund seeks to achieve its investment objective by investing to the fullest extent possible in the Benchmark Component Futures Contracts. The SDCI is designed to reflect the performance of a diversified group of commodities.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,5439590
+dcf,5439650
+image,https://financialmodelingprep.com/image-stock/USCI.png
+ipoDate,2010-08-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

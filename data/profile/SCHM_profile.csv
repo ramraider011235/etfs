@@ -1,0 +1,37 @@
+,SCHM
+symbol,SCHM
+price,72
+beta,0
+volAvg,466575
+mktCap,0
+lastDiv,1.096
+range,59.74-78.07
+changes,1.59
+companyName,Schwab U.S. Mid-Cap ETF
+currency,USD
+cik,
+isin,US8085245087
+cusip,808524508
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The index includes the mid-cap portion of the Dow Jones U.S. Total Stock Market Index actually available to investors in the marketplace. The Dow Jones U.S. Mid-Cap Total Stock Market Index includes the components ranked 501-1000 by full market capitalization. The index is a float-adjusted market capitalization weighted index. The fund will invest at least 90% of its net assets in securities that are included in the index.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHM.png
+ipoDate,2011-01-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

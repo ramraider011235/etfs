@@ -1,0 +1,37 @@
+,ELC
+symbol,ELC
+price,23.5
+beta,-0.008434
+volAvg,231792
+mktCap,1583213401
+lastDiv,0.02
+range,23.37-12800.0
+changes,0.1
+companyName,"Entergy Louisiana, LLC COLLATERAL TR MT"
+currency,USD
+cik,0001348952
+isin,US29364W1080
+cusip,29364W108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,
+website,
+description,
+ceo,None
+sector,
+country,US
+fullTimeEmployees,
+phone,
+address,
+city,
+state,
+zip,
+dcfDiff,-24.94
+dcf,27.4782
+image,https://financialmodelingprep.com/image-stock/ELC.png
+ipoDate,2016-08-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

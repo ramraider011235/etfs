@@ -1,0 +1,37 @@
+,RDIV
+symbol,RDIV
+price,46.57
+beta,0
+volAvg,133390
+mktCap,0
+lastDiv,1.499
+range,37.63-46.57
+changes,0.69
+companyName,Invesco S&P Ultra Dividend Revenue ETF
+currency,USD
+cik,
+isin,US46138G6567
+cusip,46138G656
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The index provider compiles, maintains, and calculates the underlying index, which is designed to measure the performance of positive revenue-producing constituent securities of the S&P 900 ® Index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RDIV.png
+ipoDate,2013-10-01
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

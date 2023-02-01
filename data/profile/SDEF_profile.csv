@@ -1,0 +1,37 @@
+,SDEF
+symbol,SDEF
+price,18.16
+beta,0
+volAvg,4344
+mktCap,0
+lastDiv,0.43999999999999995
+range,15.38-20.48
+changes,0.09
+companyName,Sound Enhanced Fixed Income ETF
+currency,USD
+cik,
+isin,US8863648197
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund will invest at least 80% of its net assets in fixed income securities. The fund's investments in fixed income securities will typically include U.S. corporate bonds, preferred stock and ETFs that invest in bonds, sovereign debt, and private placement debt securities. It may also invest in fixed income securities issued by U.S. and foreign corporations, securities issued by governments and their agencies, instrumentalities, or sponsored corporations, including supranational organizations. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SDEF.png
+ipoDate,2020-12-31
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

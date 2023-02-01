@@ -1,0 +1,37 @@
+,SFY
+symbol,SFY
+price,14.27
+beta,0
+volAvg,117981
+mktCap,0
+lastDiv,0.21400000000000002
+range,12.37-16.791
+changes,0.19
+companyName,SoFi Select 500 ETF
+currency,USD
+cik,
+isin,US8863642075
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets (exclusive of any collateral held from securities lending) will be invested in the component securities of the index. The index follows a rules-based methodology that tracks the performance of 500 of the largest U.S.-listed companies weighted based on a proprietary mix of their market capitalization and fundamental factors."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SFY.png
+ipoDate,2019-04-11
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

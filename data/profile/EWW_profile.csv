@@ -1,0 +1,37 @@
+,EWW
+symbol,EWW
+price,57.65
+beta,0
+volAvg,2051590
+mktCap,1089585000
+lastDiv,1.798
+range,43.65-58.68
+changes,0.03
+companyName,iShares MSCI Mexico ETF
+currency,USD
+cik,
+isin,US4642868222
+cusip,464286822
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large-, mid- and small- capitalization segments of the Mexican equity market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EWW.png
+ipoDate,1996-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

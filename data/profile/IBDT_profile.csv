@@ -1,0 +1,37 @@
+,IBDT
+symbol,IBDT
+price,25.08
+beta,0
+volAvg,195900
+mktCap,0
+lastDiv,0.7090000000000002
+range,23.29-27.68
+changes,0.12
+companyName,iShares iBonds Dec 2028 Term Corporate ETF
+currency,USD
+cik,
+isin,US46435U5157
+cusip,46435U515
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The index consists of U.S. dollar-denominated, investment-grade securities publicly issued by U.S. and non-U.S. corporate issuers that have $300 million or more of outstanding face value at the time of inclusion."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDT.png
+ipoDate,2018-09-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

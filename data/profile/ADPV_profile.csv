@@ -1,0 +1,37 @@
+,ADPV
+symbol,ADPV
+price,25.43
+beta,0
+volAvg,26265
+mktCap,0
+lastDiv,0.063
+range,25.0-26.6
+changes,0.255
+companyName,Adaptiv Select ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To achieve its investment objective of long-term capital appreciation, the fund will invest substantially all of its net assets in a portfolio of publicly-listed equity securities of U.S. large capitalization companies during broad U.S. equity market uptrends. The fund will primarily own common stocks, but may also invest in equity securities of REITS to the extent such REITS are among the 1,000 largest capitalized U.S.-listed stocks. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ADPV.png
+ipoDate,2022-11-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

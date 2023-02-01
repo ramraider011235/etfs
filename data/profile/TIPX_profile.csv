@@ -1,0 +1,37 @@
+,TIPX
+symbol,TIPX
+price,18.71
+beta,0
+volAvg,559995
+mktCap,0
+lastDiv,1.0939999999999999
+range,18.19-21.33
+changes,0.02
+companyName,SPDR Bloomberg 1-10 Year TIPS ETF
+currency,USD
+cik,
+isin,US78468R8613
+cusip,78468R861
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TIPX.png
+ipoDate,2013-05-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

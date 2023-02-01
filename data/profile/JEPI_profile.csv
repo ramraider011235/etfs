@@ -1,0 +1,37 @@
+,JEPI
+symbol,JEPI
+price,55.47
+beta,0
+volAvg,4042085
+mktCap,0
+lastDiv,5.788
+range,49.92-62.6
+changes,0.45
+companyName,JPMorgan Equity Premium Income ETF
+currency,USD
+cik,
+isin,US46641Q3323
+cusip,46641Q332
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to provide the majority of the returns associated with its primary benchmark, the Standard & Poor's 500 Total Return Index (S&P 500 Index), while exposing investors to less risk through lower volatility and still offering incremental income. Under normal circumstances, the fund invests at least 80% of its assets in equity securities. It may also invest in other equity securities not included in the S&P 500 Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/JEPI.png
+ipoDate,2020-05-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

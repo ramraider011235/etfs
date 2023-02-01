@@ -1,0 +1,37 @@
+,IMCV
+symbol,IMCV
+price,66.89
+beta,0
+volAvg,31375
+mktCap,0
+lastDiv,1.464
+range,55.69-71.16
+changes,1.17
+companyName,iShares Morningstar Mid-Cap Value ETF
+currency,USD
+cik,
+isin,US4642884062
+cusip,464288406
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index measures the performance of stocks issued by mid-capitalization companies that have exhibited “value” characteristics as determined by Morningstar, Inc.’s proprietary index methodology."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IMCV.png
+ipoDate,2004-06-28
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

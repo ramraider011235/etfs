@@ -1,0 +1,37 @@
+,XSD
+symbol,XSD
+price,196.11
+beta,0
+volAvg,61008
+mktCap,676579500
+lastDiv,0.739
+range,138.65-220.31
+changes,4.26
+companyName,SPDR S&P Semiconductor ETF
+currency,USD
+cik,
+isin,US78464A8624
+cusip,78464A862
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the S&P Semiconductor Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the semiconductors segment of the S&P Total Market Index (""S&P TMI"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XSD.png
+ipoDate,2006-01-31
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

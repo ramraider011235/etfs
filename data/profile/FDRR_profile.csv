@@ -1,0 +1,37 @@
+,FDRR
+symbol,FDRR
+price,41.59
+beta,0
+volAvg,46339
+mktCap,988798008
+lastDiv,0.7849999999999999
+range,35.13-45.45
+changes,0.43
+companyName,Fidelity Dividend ETF for Rising Rates
+currency,USD
+cik,
+isin,US3160928327
+cusip,316092832
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund normally invests at least 80% of assets in securities included in the underlying index and in depository receipts representing securities included in the underlying index. The underlying index is designed to reflect the performance of stocks of large and mid-capitalization dividend-paying companies that are expected to continue to pay and grow their dividends and have a positive correlation of returns to increasing 10-year U.S. Treasury yields.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FDRR.png
+ipoDate,2016-09-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

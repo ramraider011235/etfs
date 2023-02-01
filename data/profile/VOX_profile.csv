@@ -1,0 +1,37 @@
+,VOX
+symbol,VOX
+price,94.6
+beta,0
+volAvg,349760
+mktCap,1730215080
+lastDiv,0.7260000000000001
+range,78.25-132.32
+changes,1.27
+companyName,Vanguard Communication Services Index Fund
+currency,USD
+cik,0000052848
+isin,US92204A8844
+cusip,92204A884
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the MSCI US Investable Market Index (IMI)/Communication Services 25/50, an index made up of stocks of large, mid-size, and small U.S. companies within the communication services sector, as classified under the GICS. The Advisor attempts to replicate the target index by seeking to invest all, or substantially all, of its assets in the stocks that make up the index, in order to hold each stock in approximately the same proportion as its weighting in the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VOX.png
+ipoDate,2004-09-23
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

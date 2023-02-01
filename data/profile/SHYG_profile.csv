@@ -1,0 +1,37 @@
+,SHYG
+symbol,SHYG
+price,42.01
+beta,0
+volAvg,3098891
+mktCap,2722248000
+lastDiv,2.0500000000000003
+range,39.49-44.71
+changes,0.25
+companyName,iShares 0-5 Year High Yield Corporate Bond ETF
+currency,USD
+cik,
+isin,US46434V4077
+cusip,46434V407
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is designed to reflect the performance of U.S. dollar-denominated high yield corporate debt. The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SHYG.png
+ipoDate,2013-10-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

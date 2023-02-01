@@ -1,0 +1,37 @@
+,OVB
+symbol,OVB
+price,21.04
+beta,0
+volAvg,12008
+mktCap,0
+lastDiv,0.948
+range,18.965-24.75
+changes,0.075
+companyName,Overlay Shares Core Bond ETF
+currency,USD
+cik,
+isin,US53656F8620
+cusip,53656F862
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively-managed exchange-traded fund (""ETF"") that seeks to achieve its objective by (i) investing in one or more other ETFs that seek to obtain exposure to the performance of investment grade, U.S. dollar-denominated, fixed-rate taxable bonds or directly in the securities held by such ETFs and (ii) selling and purchasing listed short-term put options to generate income to the fund."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/OVB.png
+ipoDate,2019-09-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

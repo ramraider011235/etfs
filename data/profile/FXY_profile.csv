@@ -1,0 +1,37 @@
+,FXY
+symbol,FXY
+price,71.66
+beta,0
+volAvg,85432
+mktCap,146903000
+lastDiv,0
+range,61.6-82.12
+changes,0.23
+companyName,Invesco CurrencyShares Japanese Yen Trust
+currency,USD
+cik,0001353613
+isin,US46138W1071
+cusip,46138W107
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to reflect the price in USD of the Japanese Yen. The sponsor believes that, for many investors, the shares represent a cost-effective investment relative to traditional means of investing in the foreign exchange market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,6.06
+dcf,65.7
+image,https://financialmodelingprep.com/image-stock/FXY.png
+ipoDate,2007-02-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

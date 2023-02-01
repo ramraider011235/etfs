@@ -1,0 +1,37 @@
+,IGSB
+symbol,IGSB
+price,50.66
+beta,0
+volAvg,4794740
+mktCap,0
+lastDiv,0.9119999999999999
+range,48.62-53.27
+changes,0.19
+companyName,iShares 1-5 Year Investment Grade Corporate Bond ETF
+currency,USD
+cik,
+isin,US4642886463
+cusip,464288646
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index measures the performance of investment-grade corporate bonds of both U.S. and non-U.S. issuers that are U.S. dollar-denominated and publicly issued in the U.S. domestic market and have a remaining maturity of greater than or equal to one year and less than five years. The fund will invest at least 80% of its assets in the component securities of the index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IGSB.png
+ipoDate,2007-01-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

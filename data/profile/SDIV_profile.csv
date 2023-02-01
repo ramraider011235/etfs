@@ -1,0 +1,37 @@
+,SDIV
+symbol,SDIV
+price,26.27
+beta,0
+volAvg,218337
+mktCap,0
+lastDiv,1.0499999999999998
+range,22.14-37.92
+changes,0.27
+companyName,Global X SuperDividend ETF
+currency,USD
+cik,
+isin,US37950E5490
+cusip,37950E549
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index tracks the performance of 100 equally-weighted companies that rank among the highest dividend yielding equity securities in the world, including emerging market countries."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SDIV.png
+ipoDate,2011-06-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

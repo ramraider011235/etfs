@@ -1,0 +1,37 @@
+,FLHK
+symbol,FLHK
+price,22.85
+beta,0
+volAvg,4437
+mktCap,20277524
+lastDiv,0.825
+range,16.75-25.685
+changes,-0.17
+companyName,Franklin FTSE Hong Kong ETF
+currency,USD
+cik,
+isin,US35473P7776
+cusip,35473P777
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Hong Kong Capped Index and in depositary receipts representing such securities. The FTSE Hong Kong Capped Index is based on the FTSE Hong Kong Index and is designed to measure the performance of Hong Kong large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLHK.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

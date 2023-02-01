@@ -1,0 +1,37 @@
+,XCEM
+symbol,XCEM
+price,27.48
+beta,0
+volAvg,105086
+mktCap,0
+lastDiv,0.618
+range,23.111-32.85
+changes,-0.06
+companyName,Columbia EM Core ex-China ETF
+currency,USD
+cik,0001450501
+isin,US19762B2025
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets in the companies included in the index and the advisor generally expects to be substantially invested at such times, with at least 95% of its net assets invested in these securities. The index is designed to provide broad, core emerging markets equity exposure by measuring the stock performance of up to 700 emerging markets companies, excluding companies domiciled or exchange-listed in China or domiciled in Hong Kong. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XCEM.png
+ipoDate,2015-09-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

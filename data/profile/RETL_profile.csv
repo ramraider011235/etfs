@@ -1,0 +1,37 @@
+,RETL
+symbol,RETL
+price,10.59
+beta,0
+volAvg,463244
+mktCap,0
+lastDiv,0.049
+range,5.76-27.55
+changes,0.82
+companyName,Direxion Daily Retail Bull 3X Shares
+currency,USD
+cik,0001424958
+isin,US25460G8151
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index and other financial instruments that provide daily leveraged exposure to the index or to ETFs that track the index. The index is a modified equal-weighted index that is designed to measure performance of the stocks comprising the S&P Total Market Index that are classified in the GICS retail sub-industry. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RETL.png
+ipoDate,2010-07-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

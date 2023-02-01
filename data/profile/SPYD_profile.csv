@@ -1,0 +1,37 @@
+,SPYD
+symbol,SPYD
+price,42.11
+beta,0
+volAvg,1839395
+mktCap,0
+lastDiv,1.983
+range,34.79-45.825
+changes,0.56
+companyName,SPDR Portfolio S&P 500 High Dividend ETF
+currency,USD
+cik,
+isin,US78468R7888
+cusip,78468R788
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is designed to measure the performance of 80 high dividend-yielding companies within the S&P 500® Index. The S&P 500 Index focuses on the large capitalization U.S. equity market, including common stock and real estate investment trusts (""REITs"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPYD.png
+ipoDate,2015-10-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

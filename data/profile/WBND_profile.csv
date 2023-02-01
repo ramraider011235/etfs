@@ -1,0 +1,37 @@
+,WBND
+symbol,WBND
+price,20.9901
+beta,0
+volAvg,12957
+mktCap,0
+lastDiv,0.5840000000000001
+range,18.64-25.53
+changes,0.0701
+companyName,Western Asset Total Return ETF
+currency,USD
+cik,
+isin,US52468L8101
+cusip,52468L810
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"Under normal market conditions, the fund will seek its investment objective by investing at least 80% of its assets in a portfolio comprised of fixed income securities, debt instruments, derivatives, equity securities of any type acquired in reorganizations of issuers of fixed income securities or debt instruments (""work out securities""), non-convertible preferred securities, warrants, cash and cash equivalents, foreign currencies, and exchange-traded funds (""ETFs"") that provide exposure to these investments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/WBND.png
+ipoDate,2018-10-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

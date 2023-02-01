@@ -1,0 +1,37 @@
+,SVIX
+symbol,SVIX
+price,17.98
+beta,0
+volAvg,2822804
+mktCap,0
+lastDiv,0
+range,9.14-18.4
+changes,0.38
+companyName,-1x Short VIX Futures ETF
+currency,USD
+cik,0001793497
+isin,
+cusip,92891H101
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The index measures the daily inverse performance of a portfolio of first and second month VIX futures contracts. This theoretical portfolio is rolled each day to maintain a consistent time to maturity of the futures contracts. The index is calculated daily at 4:00 p.m. (Eastern time) and at a value calculated from the average price for the futures contracts between 3:45 p.m. (Eastern time) and 4:00 p.m. (Eastern time).
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SVIX.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

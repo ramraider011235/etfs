@@ -1,0 +1,37 @@
+,FLEE
+symbol,FLEE
+price,26.26
+beta,0
+volAvg,36721
+mktCap,77014829
+lastDiv,0.837
+range,19.68-29.02
+changes,0.16
+companyName,Franklin FTSE Europe ETF
+currency,USD
+cik,
+isin,US35473P6521
+cusip,35473P652
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Developed Europe Capped Index and in depositary receipts representing such securities. The FTSE Developed Europe Capped Index is based on the FTSE Developed Europe Index and is designed to measure the performance of large- and mid-capitalization stocks from developed European countries."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLEE.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

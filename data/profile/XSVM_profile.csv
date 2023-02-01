@@ -1,0 +1,37 @@
+,XSVM
+symbol,XSVM
+price,50.22
+beta,0
+volAvg,96378
+mktCap,0
+lastDiv,0.819
+range,41.01-56.0
+changes,1.36
+companyName,Invesco S&P SmallCap Value with Momentum ETF
+currency,USD
+cik,
+isin,US46137V4804
+cusip,46137V480
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is designed to track the performance of approximately 120 stocks in the S&P SmallCap 600® Index that have the highest ""value"" and ""momentum"" scores."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XSVM.png
+ipoDate,2005-03-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

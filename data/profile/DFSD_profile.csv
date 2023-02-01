@@ -1,0 +1,37 @@
+,DFSD
+symbol,DFSD
+price,46.62
+beta,0
+volAvg,216083
+mktCap,0
+lastDiv,0.9770000000000001
+range,45.17-49.445
+changes,0.13
+companyName,Dimensional Short-Duration Fixed Income ETF
+currency,USD
+cik,0001816125
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"At least 80% of the Portfolio’s net assets will be invested in fixed income securities considered to be investment grade quality. The Portfolio primarily invests in securities that mature within five years from the date of settlement. It will generally maintain a weighted average duration of no more than one half year greater than, and no less than one year below, the weighted average duration of the Portfolio’s benchmark, the ICE BofA 1-5 Year US Corporate & Government Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DFSD.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,GCOW
+symbol,GCOW
+price,33.8
+beta,0
+volAvg,393650
+mktCap,764628501
+lastDiv,1.3920000000000001
+range,26.6-34.89
+changes,0.23
+companyName,Pacer Global Cash Cows Dividend ETF
+currency,USD
+cik,
+isin,US69374H7098
+cusip,69374H709
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal circumstances, the fund will invest at least 80% of its total assets (exclusive of collateral held from securities lending) in the components of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities (e.g., depositary receipts). The index uses an objective, rules-based methodology to provide exposure to global companies with high dividend yields backed by a high free cash flow yield."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GCOW.png
+ipoDate,2016-02-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

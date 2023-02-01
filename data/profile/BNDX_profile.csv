@@ -1,0 +1,37 @@
+,BNDX
+symbol,BNDX
+price,48.55
+beta,0
+volAvg,3292613
+mktCap,3577970318
+lastDiv,0.5029999999999999
+range,46.87-54.42
+changes,0.14
+companyName,Vanguard Total International Bond Index Fund
+currency,USD
+cik,
+isin,US92203J4076
+cusip,92203J407
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg Global Aggregate ex-USD Float Adjusted RIC Capped Index (USD Hedged). This index provides a broad-based measure of the global, investment-grade, fixed-rate debt markets. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BNDX.png
+ipoDate,2013-06-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

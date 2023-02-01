@@ -1,0 +1,37 @@
+,SGOV
+symbol,SGOV
+price,100.46
+beta,0
+volAvg,1764862
+mktCap,0
+lastDiv,1.128
+range,99.96-100.47
+changes,0
+companyName,iShares 0-3 Month Treasury Bond ETF
+currency,USD
+cik,
+isin,US46436E7186
+cusip,46436E718
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund will invest at least 80% of its assets in the component securities of the underlying index and it will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the underlying index. The index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of less than or equal to three months.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SGOV.png
+ipoDate,2020-05-28
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

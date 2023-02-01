@@ -1,0 +1,37 @@
+,BDRY
+symbol,BDRY
+price,7.8
+beta,0
+volAvg,230403
+mktCap,2903293
+lastDiv,0
+range,6.75-28.2
+changes,-0.2
+companyName,Breakwave Dry Bulk Shipping ETF
+currency,USD
+cik,0001610940
+isin,US26923H2004
+cusip,26923H200
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing substantially all of its assets in the Freight Futures currently constituting the Benchmark Portfolio. The Benchmark Portfolio includes a combination of Capesize, Panamax and Supramax Freight Futures."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BDRY.png
+ipoDate,2018-03-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,SPAB
+symbol,SPAB
+price,25.96
+beta,0
+volAvg,3920529
+mktCap,0
+lastDiv,0.588
+range,24.15-29.08
+changes,0.11
+companyName,SPDR Portfolio Aggregate Bond ETF
+currency,USD
+cik,
+isin,US78464A6495
+cusip,78464A649
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the U.S. dollar denominated investment grade bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPAB.png
+ipoDate,2007-05-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

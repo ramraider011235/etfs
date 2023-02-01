@@ -1,0 +1,37 @@
+,SCHQ
+symbol,SCHQ
+price,37.82
+beta,0
+volAvg,96736
+mktCap,0
+lastDiv,0.9129999999999999
+range,32.65-49.6
+changes,0.32
+companyName,Schwab Long-Term U.S. Treasury ETF
+currency,USD
+cik,
+isin,US8085246804
+cusip,808524680
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To pursue its goal, the fund generally invests in securities that are included in the index. The index includes all publicly issued, U.S. Treasury securities that have a remaining maturity of ten or more years, are rated investment grade, and have $300 million or more of outstanding face value. It is the fund's policy that under normal circumstances it will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in securities included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHQ.png
+ipoDate,2019-10-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

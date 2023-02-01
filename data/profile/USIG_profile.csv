@@ -1,0 +1,37 @@
+,USIG
+symbol,USIG
+price,51.24
+beta,0
+volAvg,1353945
+mktCap,0
+lastDiv,1.392
+range,46.48-58.16
+changes,0.37
+companyName,iShares Broad USD Investment Grade Corporate Bond ETF
+currency,USD
+cik,
+isin,US4642886208
+cusip,464288620
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that the advisor believes will help the fund track the underlying index. The underlying index measures the performance of investment-grade corporate bonds of both U.S. and non-U.S. issuers that are U.S. dollar-denominated and publicly issued in the U.S. domestic market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USIG.png
+ipoDate,2007-01-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

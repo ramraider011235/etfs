@@ -1,0 +1,37 @@
+,FLRN
+symbol,FLRN
+price,30.62
+beta,0
+volAvg,915988
+mktCap,381989736
+lastDiv,0.5040000000000001
+range,29.97-30.65
+changes,0
+companyName,SPDR Bloomberg Investment Grade Floating Rate ETF
+currency,USD
+cik,
+isin,US78468R2004
+cusip,78468R200
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of U.S. dollar-denominated, investment grade floating rate notes."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLRN.png
+ipoDate,2011-11-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

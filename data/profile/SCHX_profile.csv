@@ -1,0 +1,37 @@
+,SCHX
+symbol,SCHX
+price,48.11
+beta,0
+volAvg,2099968
+mktCap,0
+lastDiv,0.7390000000000001
+range,41.2-55.15
+changes,0.71
+companyName,Schwab U.S. Large-Cap ETF
+currency,USD
+cik,
+isin,US8085242019
+cusip,808524201
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To pursue its goal, the fund generally invests in stocks that are included in the Dow Jones U.S. Large-Cap Total Stock Market Index. The index includes the large-cap portion of the Dow Jones U.S. Total Stock Market Index actually available to investors in the marketplace. The Dow Jones U.S. Large-Cap Total Stock Market Index includes the components ranked 1-750 by full market capitalization. The index is a float-adjusted market capitalization weighted index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHX.png
+ipoDate,2009-11-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

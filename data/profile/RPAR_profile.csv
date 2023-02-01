@@ -1,0 +1,37 @@
+,RPAR
+symbol,RPAR
+price,19.89
+beta,0
+volAvg,951719
+mktCap,0
+lastDiv,0.7470000000000001
+range,16.97-24.39
+changes,-0.02
+companyName,RPAR Risk Parity ETF
+currency,USD
+cik,
+isin,US8863646035
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively-managed exchange-traded fund that seeks to achieve its investment objective primarily by investing across a variety of asset classes, including exposure to global equity securities, U.S. Treasury securities, and commodities. It's investment adviser seeks to invest the fund's assets to achieve exposures similar to those of the Advanced Research Risk Parity Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RPAR.png
+ipoDate,2019-12-13
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

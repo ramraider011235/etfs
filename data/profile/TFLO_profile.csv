@@ -1,0 +1,37 @@
+,TFLO
+symbol,TFLO
+price,50.56
+beta,0
+volAvg,1281622
+mktCap,0
+lastDiv,0.676
+range,50.28-50.57
+changes,0
+companyName,iShares Treasury Floating Rate Bond ETF
+currency,USD
+cik,
+isin,US46434V8607
+cusip,46434V860
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the underlying index. The underlying index is a market capitalization-weighted index that measures the performance of floating rate public obligations of the U.S. Treasury.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TFLO.png
+ipoDate,2014-02-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

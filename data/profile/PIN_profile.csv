@@ -1,0 +1,37 @@
+,PIN
+symbol,PIN
+price,21.28
+beta,0
+volAvg,25472
+mktCap,0
+lastDiv,2.995
+range,20.91-27.01
+changes,0.18
+companyName,Invesco India ETF
+currency,USD
+cik,
+isin,US722409DY29
+cusip,46137R109
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. The underlying index is a modified-market capitalization-weighted index of equity securities that are traded on the National Stock Exchange of India. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PIN.png
+ipoDate,2008-03-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

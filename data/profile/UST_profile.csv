@@ -1,0 +1,37 @@
+,UST
+symbol,UST
+price,50.05
+beta,0
+volAvg,9198
+mktCap,0
+lastDiv,0.221
+range,44.47-66.2
+changes,0.3754
+companyName,ProShares Ultra 7-10 Year Treasury
+currency,USD
+cik,
+isin,US74347R1804
+cusip,74347R180
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index includes publicly-issued U.S. Treasury securities that have a remaining maturity of greater than or equal to seven years and less than or equal to ten years and have $300 million or more of outstanding face value, excluding amounts held by the Federal Reserve. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/UST.png
+ipoDate,2010-01-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

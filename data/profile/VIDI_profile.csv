@@ -1,0 +1,37 @@
+,VIDI
+symbol,VIDI
+price,23.26
+beta,0
+volAvg,40862
+mktCap,0
+lastDiv,1.2630000000000001
+range,18.99-27.47
+changes,0.13
+companyName,Vident International Equity Fund
+currency,USD
+cik,
+isin,US26922A4040
+cusip,26922A404
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in the component securities of the index and depositary receipts representing such component securities. The underlying index is a rules-based, systematic strategy index comprised of equity securities of issuers in developed and emerging markets outside of the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VIDI.png
+ipoDate,2013-10-29
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

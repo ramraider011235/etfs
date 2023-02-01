@@ -1,0 +1,37 @@
+,EAGG
+symbol,EAGG
+price,48.31
+beta,0
+volAvg,308516
+mktCap,0
+lastDiv,0.8630000000000001
+range,44.9-53.88
+changes,0.21
+companyName,iShares ESG U.S. Aggregate Bond ETF
+currency,USD
+cik,
+isin,US46435U5496
+cusip,46435U549
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index includes government-related bonds, corporate bonds, MBS, CMBS and ABS that are publicly offered for sale in the U.S. The fund invests at least 90% of its assets in the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EAGG.png
+ipoDate,2018-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

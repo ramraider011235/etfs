@@ -1,0 +1,37 @@
+,HIBS
+symbol,HIBS
+price,4.76
+beta,0
+volAvg,2216173
+mktCap,0
+lastDiv,0.003
+range,4.68-14.63
+changes,-0.35
+companyName,Direxion Daily S&P 500 High Beta Bear 3X Shares
+currency,USD
+cik,0001424958
+isin,US25460E2578
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets. The index provider selects 100 securities from the S&P 500 ® Index that have exhibited the highest sensitivity to market movements, or “beta,” over the past 12 months based on the securities’ daily price changes. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HIBS.png
+ipoDate,2019-11-07
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

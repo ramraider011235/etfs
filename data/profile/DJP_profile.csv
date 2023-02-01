@@ -1,0 +1,37 @@
+,DJP
+symbol,DJP
+price,33.51
+beta,0
+volAvg,185157
+mktCap,763358906
+lastDiv,0
+range,31.6-41.71
+changes,0.42
+companyName,iPath Bloomberg Commodity Index Total Return(SM) ETN
+currency,USD
+cik,0000312070
+isin,US06738C7781
+cusip,06738C778
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Dow Jones-UBS Commodity Index Total ReturnService Mark (the ""index"") reflects the returns that are potentially available through an unleveraged investment in the futures contracts on physical commodities comprising the index plus the rate of interest that could be earned on cash collateral invested in specified Treasury Bills. The index is a rolling index rebalancing annually."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,877-764-7284
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DJP.png
+ipoDate,2006-10-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

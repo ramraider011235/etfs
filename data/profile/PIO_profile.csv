@@ -1,0 +1,37 @@
+,PIO
+symbol,PIO
+price,35.56
+beta,0
+volAvg,15911
+mktCap,0
+lastDiv,0.33399999999999996
+range,27.82-39.03
+changes,0.64
+companyName,Invesco Global Water ETF
+currency,USD
+cik,
+isin,US46138E6510
+cusip,46138E651
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index, as well as ADRs and GDRs that are based on the securities in the underlying index. The underlying index is comprised of securities of global exchange-listed companies located in the United States, as well as developed and emerging markets throughout the world, that create products designed to conserve and purify water for homes, businesses and industries. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PIO.png
+ipoDate,2007-06-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

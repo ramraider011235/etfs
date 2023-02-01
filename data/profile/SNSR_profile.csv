@@ -1,0 +1,37 @@
+,SNSR
+symbol,SNSR
+price,32.17
+beta,0
+volAvg,31896
+mktCap,0
+lastDiv,0.238
+range,24.22-35.66
+changes,0.62
+companyName,Global X Internet of Things ETF
+currency,USD
+cik,
+isin,US37954Y7803
+cusip,37954Y780
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index is designed to provide exposure to exchange-listed companies in developed markets that facilitate the Internet of Things industry, including companies involved in wearable technology, home automation, connected automotive technology, sensors, networking infrastructure/software, smart metering and energy control devices. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SNSR.png
+ipoDate,2016-09-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

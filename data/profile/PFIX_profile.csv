@@ -1,0 +1,37 @@
+,PFIX
+symbol,PFIX
+price,59.72
+beta,0
+volAvg,265018
+mktCap,0
+lastDiv,0.55
+range,39.871-88.51
+changes,-1.39
+companyName,Simplify Interest Rate Hedge ETF
+currency,USD
+cik,
+isin,US82889N8552
+cusip,82889N855
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The adviser seeks to achieve the fund's investment objective by investing in U.S. Treasuries or TIPS, ETFs that primarily invest in U.S. Treasuries, TIPS and investment grade bonds, and swaptions and interest rate options. TIPS are U.S. government bonds whose principal amount increases with inflation and are designed to protect investors from inflation risk. It may purchase Treasuries or TIPS of any maturity. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PFIX.png
+ipoDate,2021-05-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

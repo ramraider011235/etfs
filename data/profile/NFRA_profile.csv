@@ -1,0 +1,37 @@
+,NFRA
+symbol,NFRA
+price,53
+beta,0
+volAvg,200195
+mktCap,0
+lastDiv,1.151
+range,43.81-58.48
+changes,0.45
+companyName,FlexShares STOXX Global Broad Infrastructure Index Fund
+currency,USD
+cik,
+isin,US33939L7955
+cusip,33939L795
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index reflects the performance of a selection of companies that, in aggregate, offer broad exposure to publicly-traded developed- and emerging-market infrastructure companies, including U.S. companies, as defined by STOXX Ltd. (the ""index provider"") pursuant to its index methodology. Under normal circumstances, the fund will invest at least 80% of its total assets in the securities of the index and in ADRs and GDRs based on the securities in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/NFRA.png
+ipoDate,2013-10-08
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

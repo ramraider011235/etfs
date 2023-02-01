@@ -1,0 +1,37 @@
+,TIP
+symbol,TIP
+price,108.65
+beta,0
+volAvg,3189009
+mktCap,19307104239
+lastDiv,7.058999999999999
+range,104.63-129.48
+changes,0.04
+companyName,iShares TIPS Bond ETF
+currency,USD
+cik,
+isin,US4642871762
+cusip,464287176
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in U.S. Treasury securities. The index includes all publicly-issued U.S. Treasury inflation-protected securities that have at least one year remaining to maturity, are rated investment-grade and have $300 million or more of outstanding face value."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TIP.png
+ipoDate,2003-12-04
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

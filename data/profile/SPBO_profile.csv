@@ -1,0 +1,37 @@
+,SPBO
+symbol,SPBO
+price,29.63
+beta,0
+volAvg,217944
+mktCap,0
+lastDiv,0.9039999999999999
+range,26.85-33.85
+changes,0.2
+companyName,SPDR Portfolio Corporate Bond ETF
+currency,USD
+cik,
+isin,US78464A1447
+cusip,78464A144
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the investment grade corporate bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPBO.png
+ipoDate,2011-04-06
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

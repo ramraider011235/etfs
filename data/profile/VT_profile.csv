@@ -1,0 +1,37 @@
+,VT
+symbol,VT
+price,92.78
+beta,0
+volAvg,2866713
+mktCap,0
+lastDiv,1.896
+range,76.8-104.95
+changes,1.06
+companyName,Vanguard Total World Stock Index Fund
+currency,USD
+cik,
+isin,US9220427424
+cusip,922042742
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the FTSE Global All Cap Index. The advisor attempts to sample the target index by investing all, or substantially all, of its assets in common stocks in the index and by holding a representative sample of securities that resembles the full index in terms of key risk factors and other characteristics."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VT.png
+ipoDate,2008-06-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VRP
+symbol,VRP
+price,23.53
+beta,0
+volAvg,566524
+mktCap,0
+lastDiv,1.222
+range,21.526-25.507
+changes,0.05
+companyName,Invesco Variable Rate Preferred ETF
+currency,USD
+cik,
+isin,US46138G8704
+cusip,46138G870
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 90% of its total assets in the components of the index, as well as ADRs that represent securities in the index. The index provider compiles and calculates the index, a market capitalization-weighted index designed to track the performance of floating and variable rate investment grade and below investment grade U.S. dollar denominated preferred stock, as well as certain types of hybrid securities. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VRP.png
+ipoDate,2014-05-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

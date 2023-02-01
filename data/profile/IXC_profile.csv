@@ -1,0 +1,37 @@
+,IXC
+symbol,IXC
+price,40.22
+beta,0
+volAvg,636196
+mktCap,1043708920
+lastDiv,1.8570000000000002
+range,30.53-42.98
+changes,0.3
+companyName,iShares Global Energy ETF
+currency,USD
+cik,
+isin,US4642873412
+cusip,464287341
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index measures the performance of companies that the index provider deems to be part of the energy sector of the economy and that the index provider believes are important to global markets. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IXC.png
+ipoDate,2001-11-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

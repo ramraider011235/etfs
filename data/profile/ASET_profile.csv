@@ -1,0 +1,37 @@
+,ASET
+symbol,ASET
+price,31.7662
+beta,0
+volAvg,9819
+mktCap,10249206
+lastDiv,0.811
+range,26.75-35.85
+changes,0.2903
+companyName,FlexShares Real Assets Allocation Index Fund
+currency,USD
+cik,
+isin,US33939L7385
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"Under normal circumstances, the fund will invest at least 80% of its total assets (exclusive of collateral held from securities lending) in the securities of the underlying index. The underlying index measures the performance of an optimized allocation to the underlying funds that is intended to provide exposures to certain real assets and minimize overall volatility of investment in the underlying funds."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ASET.png
+ipoDate,2015-11-23
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

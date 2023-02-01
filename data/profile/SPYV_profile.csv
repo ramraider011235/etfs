@@ -1,0 +1,37 @@
+,SPYV
+symbol,SPYV
+price,41.6
+beta,0
+volAvg,3677440
+mktCap,3715000557
+lastDiv,0.8659999999999999
+range,34.17-42.86
+changes,0.58
+companyName,SPDR Portfolio S&P 500 Value ETF
+currency,USD
+cik,
+isin,US78464A5083
+cusip,78464A508
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs a sampling strategy in seeking to track the performance of the S&P 500 Value Index. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the large-capitalization value segment of the U.S. equity market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPYV.png
+ipoDate,2000-09-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

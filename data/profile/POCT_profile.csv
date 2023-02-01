@@ -1,0 +1,37 @@
+,POCT
+symbol,POCT
+price,31.29
+beta,0
+volAvg,88134
+mktCap,0
+lastDiv,0.558
+range,27.5-31.36
+changes,0.22
+companyName,Innovator S&P 500 Power Buffer ETF - October
+currency,USD
+cik,
+isin,US45782C7974
+cusip,45782C797
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in FLexible EXchange® Options (“FLEX Options”) that reference the SPDR® S&P 500® ETF Trust. The reference asset for all of the fund's FLEX Options is the underlying ETF, an exchange-traded unit investment trust that seeks to provide investment results that, before expenses, correspond generally to the price and yield performance of the S&P 500® Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/POCT.png
+ipoDate,2018-10-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

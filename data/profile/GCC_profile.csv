@@ -1,0 +1,37 @@
+,GCC
+symbol,GCC
+price,18.56
+beta,0
+volAvg,161300
+mktCap,144518776
+lastDiv,4.0969999999999995
+range,17.46-28.6
+changes,0.26
+companyName,WisdomTree Enhanced Commodity Strategy Fund
+currency,USD
+cik,0001379606
+isin,US97718W1080
+cusip,97717Y683
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively managed ETF that intends to provide broad-based exposure to the four commodity sectors: Energy, Agriculture, Industrial Metals, and Precious Metals primarily through investments in futures contracts. It will not invest directly in physical commodities. The fund may invest in Treasury securities and other liquid short-term investments as collateral for its commodity futures contracts. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GCC.png
+ipoDate,2008-01-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

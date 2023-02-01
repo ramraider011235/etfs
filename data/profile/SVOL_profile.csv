@@ -1,0 +1,37 @@
+,SVOL
+symbol,SVOL
+price,22.68
+beta,0
+volAvg,96980
+mktCap,0
+lastDiv,3.6220000000000003
+range,20.55-26.57
+changes,0.11
+companyName,Simplify Volatility Premium ETF
+currency,USD
+cik,
+isin,US82889N8636
+cusip,82889N863
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In pursuing its investment objective, the fund primarily purchases or sells futures contracts, call options, and put options on VIX futures. The fund will hold cash, cash-like instruments or high-quality short term fixed income securities. Up to twenty percent of the fund’s net assets will be subject to the fund’s option overlay to mitigate against extreme volatility."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,855-772-8488
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SVOL.png
+ipoDate,2021-05-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

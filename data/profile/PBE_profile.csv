@@ -1,0 +1,37 @@
+,PBE
+symbol,PBE
+price,66.78
+beta,0
+volAvg,7329
+mktCap,303848933
+lastDiv,0.029
+range,51.39-68.11
+changes,1.0263
+companyName,Invesco Dynamic Biotechnology & Genome ETF
+currency,USD
+cik,
+isin,US46137V7872
+cusip,46137V787
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying intellidex. The underlying intellidex was composed of common stocks of U.S. biotechnology and genome companies. These companies are engaged principally in the research, development, manufacture and marketing and distribution of various biotechnological products, services and processes, etc. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PBE.png
+ipoDate,2005-06-23
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

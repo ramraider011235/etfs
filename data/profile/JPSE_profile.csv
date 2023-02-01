@@ -1,0 +1,37 @@
+,JPSE
+symbol,JPSE
+price,42.32
+beta,0
+volAvg,46967
+mktCap,0
+lastDiv,0.601
+range,34.95-45.11
+changes,0.98
+companyName,JPMorgan Diversified Return U.S. Small Cap Equity ETF
+currency,USD
+cik,
+isin,US46641Q8454
+cusip,46641Q845
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in securities included in the underlying index. ""Assets"" means net assets, plus the amount of borrowing for investment purposes. The underlying index is comprised of U.S. equity securities selected to represent a diversified set of factor characteristics. The rules based proprietary multi-factor selection process utilizes the following characteristics: value, momentum and quality."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/JPSE.png
+ipoDate,2016-11-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

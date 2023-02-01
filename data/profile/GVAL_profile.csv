@@ -1,0 +1,37 @@
+,GVAL
+symbol,GVAL
+price,20.88
+beta,0
+volAvg,23303
+mktCap,0
+lastDiv,1.011
+range,15.9-24.44
+changes,0.16
+companyName,Cambria Global Value ETF
+currency,USD
+cik,0001529390
+isin,US1320614092
+cusip,132061409
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is actively managed and seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its total assets in equity securities, including common stock and depositary receipts, issued by publicly listed companies in developed and emerging markets that exhibit strong value characteristics. The fund’s investment adviser, Cambria Investment Management, L.P. (“Cambria” or the “Adviser”), uses its own proprietary rules-based quantitative algorithm to select its holdings."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GVAL.png
+ipoDate,2014-03-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

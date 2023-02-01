@@ -1,0 +1,37 @@
+,EMHY
+symbol,EMHY
+price,36.51
+beta,0
+volAvg,75357
+mktCap,326525506
+lastDiv,2.2470000000000003
+range,31.52-42.1
+changes,0.1
+companyName,iShares J.P. Morgan EM High Yield Bond ETF
+currency,USD
+cik,
+isin,US4642862852
+cusip,464286285
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index. The index tracks the performance of below investment-grade U.S. dollar-denominated, emerging market fixed and floating-rate debt securities issued by corporate, sovereign, and quasi-sovereign entities. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EMHY.png
+ipoDate,2012-04-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

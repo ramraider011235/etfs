@@ -1,0 +1,37 @@
+,TPHD
+symbol,TPHD
+price,32.43
+beta,0
+volAvg,31050
+mktCap,0
+lastDiv,0.7460000000000001
+range,27.6-34.35
+changes,0.43
+companyName,Timothy Plan High Dividend Stock ETF
+currency,USD
+cik,
+isin,US8874323269
+cusip,887432326
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its net assets directly or indirectly in the securities included in the Victory US Large Cap High Dividend Volatility Weighted BRI Index, an unmanaged, volatility weighted index created by the Sub-Advisor. The index combines fundamental criteria with individual security risk control achieved through volatility weighting of individual securities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TPHD.png
+ipoDate,2019-04-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

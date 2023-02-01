@@ -1,0 +1,37 @@
+,EDV
+symbol,EDV
+price,91.26
+beta,0
+volAvg,316596
+mktCap,957203234
+lastDiv,2.7139999999999995
+range,73.68-135.06
+changes,0.76
+companyName,Vanguard Extended Duration Treasury Index Fund
+currency,USD
+cik,0000052848
+isin,US9219107094
+cusip,921910709
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The advisor employs an indexing investment approach designed to track the performance of the Bloomberg U.S. Treasury STRIPS 20-30 Year Equal Par Bond Index. This index includes zero-coupon U.S. Treasury securities (Treasury STRIPS), which are backed by the full faith and credit of the U.S. government, with maturities ranging from 20 to 30 years. The fund invests by sampling the index. At least 80% of it's assets will be invested in U.S. Treasury securities held in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EDV.png
+ipoDate,2007-12-06
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

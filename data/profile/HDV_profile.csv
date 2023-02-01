@@ -1,0 +1,37 @@
+,HDV
+symbol,HDV
+price,105.33
+beta,0
+volAvg,1051240
+mktCap,0
+lastDiv,3.716
+range,91.24-110.91
+changes,1.24
+companyName,iShares Core High Dividend ETF
+currency,USD
+cik,
+isin,US46429B6636
+cusip,46429B663
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is comprised of qualified income paying securities that are screened for superior company quality and financial health as determined by Morningstar, Inc.'s proprietary index methodology. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HDV.png
+ipoDate,2011-03-29
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

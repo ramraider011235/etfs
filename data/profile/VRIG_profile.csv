@@ -1,0 +1,37 @@
+,VRIG
+symbol,VRIG
+price,24.88
+beta,0
+volAvg,166475
+mktCap,0
+lastDiv,0.678
+range,24.41-25.08
+changes,0.01
+companyName,Invesco Variable Rate Investment Grade ETF
+currency,USD
+cik,
+isin,US46090A8797
+cusip,46090A879
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in a portfolio of investment-grade, variable rate or floating rate debt securities. At least 80% of its net assets (plus any borrowings for investment purposes) will be invested in Variable Rate Instruments that are, at the time of purchase, investment grade (or in affiliated ETFs that invest primarily in any or all of the foregoing securities)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VRIG.png
+ipoDate,2016-09-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

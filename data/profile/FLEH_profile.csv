@@ -1,0 +1,37 @@
+,FLEH
+symbol,FLEH
+price,23.17
+beta,0
+volAvg,2859
+mktCap,4675938
+lastDiv,4.625
+range,21.4-28.405
+changes,0.05
+companyName,Franklin FTSE Europe Hedged ETF
+currency,USD
+cik,
+isin,US35473P6455
+cusip,35473P645
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the index and in depositary receipts representing such securities, including indirectly through the Franklin FTSE Europe ETF. The index is based on the FTSE Developed Europe Hedged to USD Index and is designed to measure the performance of large- and mid-capitalization stocks from developed European countries."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLEH.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

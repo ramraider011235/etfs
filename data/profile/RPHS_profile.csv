@@ -1,0 +1,37 @@
+,RPHS
+symbol,RPHS
+price,8.48
+beta,0
+volAvg,104026
+mktCap,0
+lastDiv,0.109
+range,8.22-10.05
+changes,0.07
+companyName,Regents Park Hedged Market Strategy ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is an actively-managed ETF that seeks to achieve its investment objective by investing, under normal circumstances, in equity securities represented in, or instruments related or linked to, the S&P 500 Price Index (“S&P 500 Index”). The fund’s adviser determines the amount of the fund’s portfolio to be invested directly in a basket of equity securities that is correlated to the overall performance of the S&P 500 Index and in equity market index derivatives based on its assessment of their relative valuations."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RPHS.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

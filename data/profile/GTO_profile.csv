@@ -1,0 +1,37 @@
+,GTO
+symbol,GTO
+price,48.28
+beta,0
+volAvg,181478
+mktCap,0
+lastDiv,1.678
+range,44.24-55.14
+changes,0.185
+companyName,Invesco Total Return Bond ETF
+currency,USD
+cik,
+isin,US46090A8045
+cusip,46090A804
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest in a portfolio of fixed income instruments of varying maturities and of any credit quality. It will normally invest at least 80% of its net assets (plus any borrowings for investment purposes) in fixed income instruments, which may be represented by certain derivative instruments, and also include exchange-traded funds (""ETFs"") and closed-end funds (""CEFs"") that invest substantially all of their assets in fixed income instruments (which may include ETFs and CEFs affiliated with the fund)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GTO.png
+ipoDate,2016-02-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

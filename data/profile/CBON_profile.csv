@@ -1,0 +1,37 @@
+,CBON
+symbol,CBON
+price,22.89
+beta,0
+volAvg,33078
+mktCap,239501504
+lastDiv,0.499
+range,21.08-25.09
+changes,0.02
+companyName,VanEck China Bond ETF
+currency,USD
+cik,
+isin,US92189F3799
+cusip,92189F379
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index is comprised of fixed-rate, Renminbi (""RMB"")-denominated bonds issued in the People's Republic of China (""China"" or the ""PRC"") by Chinese credit, governmental and quasi-governmental (e.g., policy banks) issuers (""RMB Bonds""). The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CBON.png
+ipoDate,2014-11-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

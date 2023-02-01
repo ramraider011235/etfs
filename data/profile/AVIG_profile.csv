@@ -1,0 +1,37 @@
+,AVIG
+symbol,AVIG
+price,42.41
+beta,0
+volAvg,80755
+mktCap,3087690204
+lastDiv,0.9090000000000001
+range,39.42-47.705
+changes,0.255
+companyName,Avantis Core Fixed Income ETF
+currency,USD
+cik,0001710607
+isin,US0250725621
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests primarily in investment grade quality debt obligations from a diverse group of U.S. and non-U.S. issuers. Under normal market conditions, it will invest at least 80% of its net assets, plus any borrowings for investment purposes, in fixed income securities. The fund seeks to maintain a weighted average duration within 2 years of the weighted average duration of its benchmark, the Bloomberg Barclays U.S. Aggregate Bond index, as calculated by the manager."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/AVIG.png
+ipoDate,2020-10-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

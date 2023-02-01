@@ -1,0 +1,37 @@
+,JO
+symbol,JO
+price,52.15
+beta,0
+volAvg,60632
+mktCap,0
+lastDiv,0
+range,40.75-70.55
+changes,3.14
+companyName,iPath Series B Bloomberg Coffee Subindex Total Return ETN
+currency,USD
+cik,0000312070
+isin,US06739H2976
+cusip,06746P563
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The ETN offers exposure to futures contracts and not direct exposure to the physical commodities. The index is composed of one or more futures contracts on the relevant commodity (the “index components”) and is intended to reflect the returns that are potentially available through (1) an unleveraged investment in those contracts plus (2) the rate of interest that could be earned on cash collateral invested in specified Treasury Bills.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,212-528-7790
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/JO.png
+ipoDate,2018-02-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

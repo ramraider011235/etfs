@@ -1,0 +1,37 @@
+,SPYI
+symbol,SPYI
+price,47.47
+beta,0
+volAvg,1031
+mktCap,0
+lastDiv,0
+range,44.614-50.182
+changes,0.1807
+companyName,Neos S&P 500(R) High Income ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund is an actively-managed ETF that seeks to achieve its investment objective by investing in a portfolio of stocks that make up the S&P 500® Index and a call options strategy, which consists of a mix of written (sold) call options and long (bought) call options on the S&P 500® Index. Under certain circumstances, the call options strategy may include transactions with covered call options."
+ceo,
+sector,
+country,
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPYI.png
+ipoDate,2022-08-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

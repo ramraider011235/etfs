@@ -1,0 +1,37 @@
+,IEI
+symbol,IEI
+price,117.3
+beta,0
+volAvg,1365200
+mktCap,7196230545
+lastDiv,1.385
+range,112.26-127.25
+changes,0.44
+companyName,iShares 3-7 Year Treasury Bond ETF
+currency,USD
+cik,
+isin,US4642886612
+cusip,464288661
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to three years and less than seven years. The fund will invest at least 80% of its assets in the component securities of the index, and the fund will invest at least 90% of its assets in U.S. Treasury securities that BFA believes will help the fund track the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IEI.png
+ipoDate,2007-01-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

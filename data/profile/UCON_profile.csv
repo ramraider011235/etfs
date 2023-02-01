@@ -1,0 +1,37 @@
+,UCON
+symbol,UCON
+price,24.56
+beta,0
+volAvg,565937
+mktCap,0
+lastDiv,0.7180000000000002
+range,23.43-26.17
+changes,0.07
+companyName,First Trust TCW Unconstrained Plus Bond ETF
+currency,USD
+cik,
+isin,US33740F8885
+cusip,33740F888
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its net assets (including investment borrowings) in a portfolio of fixed income securities. Its average portfolio duration will vary from between 0 to 10 years. It may invest a significant portion of its assets in securitized investment products, including up to 50% of its net assets in each of asset-backed securities, residential mortgage-backed securities and commercial mortgage-backed securities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/UCON.png
+ipoDate,2018-06-04
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

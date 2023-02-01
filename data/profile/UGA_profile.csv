@@ -1,0 +1,37 @@
+,UGA
+symbol,UGA
+price,61.83
+beta,0
+volAvg,38865
+mktCap,0
+lastDiv,0
+range,46.5-80.29
+changes,1.51
+companyName,"United States Gasoline Fund, LP"
+currency,USD
+cik,0001396878
+isin,US91201T1025
+cusip,91201T102
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in futures contracts for gasoline, other types of gasoline, crude oil, diesel-heating oil, natural gas and other petroleum-based fuels. The Benchmark Futures Contract is the futures contract on gasoline as traded on the New York Mercantile Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,4.96403
+dcf,57.206
+image,https://financialmodelingprep.com/image-stock/UGA.png
+ipoDate,2008-02-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,FXB
+symbol,FXB
+price,118.52
+beta,0
+volAvg,24732
+mktCap,139325593
+lastDiv,0.496
+range,102.2-131.23
+changes,-0.4
+companyName,Invesco CurrencyShares British Pound Sterling Trust
+currency,USD
+cik,0001353611
+isin,US46138M1099
+cusip,46138M109
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The shares are intended to provide institutional and retail investors with a simple, cost-effective means of gaining investment benefits similar to those of holding British Pounds Sterling."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,5.49
+dcf,113.79
+image,https://financialmodelingprep.com/image-stock/FXB.png
+ipoDate,2006-06-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,COMT
+symbol,COMT
+price,28.22
+beta,0
+volAvg,982088
+mktCap,404456801
+lastDiv,8.398
+range,26.679-46.28
+changes,0.42
+companyName,iShares GSCI Commodity Dynamic Roll Strategy ETF
+currency,USD
+cik,
+isin,US46431W8534
+cusip,46431W853
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index measures the performance of futures contracts. In seeking to achieve its investment objective, the fund may invest in a combination of exchange-traded commodity futures contracts, exchange-traded options on commodity-related futures contracts and exchange-cleared commodity related swaps (together, “Commodity Linked Investments”), thereby obtaining exposure to the commodities markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/COMT.png
+ipoDate,2014-10-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

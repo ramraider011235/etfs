@@ -1,0 +1,37 @@
+,VMBS
+symbol,VMBS
+price,47.09
+beta,0
+volAvg,2004895
+mktCap,0
+lastDiv,0.952
+range,43.33-52.08
+changes,0.13
+companyName,Vanguard Mortgage-Backed Securities Index Fund
+currency,USD
+cik,
+isin,US92206C7719
+cusip,92206C771
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg U.S. MBS Float Adjusted Index. This index covers U.S. agency mortgage-backed pass-through securities issued by the GNMA, the FNMA, and the FHLMC. To be included in the index, pool aggregates must have at least $1 billion currently outstanding and a weighted average maturity of at least 1 year. All of the fund's investments will be selected through the sampling process, and at least 80% of the fund's assets will be invested in bonds included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VMBS.png
+ipoDate,2009-11-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

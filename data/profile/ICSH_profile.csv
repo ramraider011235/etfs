@@ -1,0 +1,37 @@
+,ICSH
+symbol,ICSH
+price,50.29
+beta,0
+volAvg,1315572
+mktCap,0
+lastDiv,0.685
+range,49.84-50.3561
+changes,0.015
+companyName,iShares Ultra Short-Term Bond ETF
+currency,USD
+cik,
+isin,US46434V8789
+cusip,46434V878
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its net assets in a portfolio of U.S. dollar-denominated investment-grade fixed- and floating-rate debt securities that are rated BBB- or higher by S&P Global Ratings and/or Fitch Ratings, Inc. (""Fitch""), or Baa3 or higher by Moody's Investors Service, Inc. (""Moody's""), or, if unrated, determined by the fund's management team to be of equivalent quality."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ICSH.png
+ipoDate,2013-12-11
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

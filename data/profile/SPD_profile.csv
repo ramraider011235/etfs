@@ -1,0 +1,37 @@
+,SPD
+symbol,SPD
+price,25.61
+beta,0
+volAvg,161506
+mktCap,0
+lastDiv,0.39999999999999997
+range,23.73-31.92
+changes,0.25
+companyName,Simplify US Equity PLUS Downside Convexity ETF
+currency,USD
+cik,
+isin,US82889N2027
+cusip,82889N202
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The adviser seeks to achieve the fund's investment objective by investing primarily in equity securities of U.S. companies and applying a downside convexity option overlay strategy to the equity investments. Under normal circumstances, it invests at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities of U.S. companies, primarily by purchasing exchange-traded funds (""ETFs""). The downside convexity option overlay consists of purchasing exchange-traded and over the counter (""OTC"") put options on the S&P 500 Index or an S&P 500 Index ETF."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPD.png
+ipoDate,2020-09-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

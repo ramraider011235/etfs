@@ -1,0 +1,37 @@
+,PDEC
+symbol,PDEC
+price,31.07
+beta,0
+volAvg,328959
+mktCap,0
+lastDiv,0
+range,28.09-31.56
+changes,0.2
+companyName,Innovator U.S. Equity Power Buffer ETF - December
+currency,USD
+cik,
+isin,US45782C5408
+cusip,45782C540
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of its net assets in FLexible EXchange® Options (""FLEX Options"") that reference the SPDR® S&P 500® ETF Trust (the “underlying ETF”). FLEX Options are exchange-traded options contracts with uniquely customizable terms. Although guaranteed for settlement by the Options Clearing Corporation (the ""OCC""), FLEX Options are still subject to counterparty risk with the OCC and may be less liquid than more traditional exchange-traded options. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PDEC.png
+ipoDate,2019-12-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,DIA
+symbol,DIA
+price,340.83
+beta,0
+volAvg,4187154
+mktCap,27690017607
+lastDiv,6.48
+range,286.62-358.1
+changes,3.77
+companyName,SPDR Dow Jones Industrial Average ETF Trust
+currency,USD
+cik,0001041130
+isin,US78467X1090
+cusip,78467X109
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Trust’s Portfolio consists of substantially all of the component common stocks that comprise the DJIA, which are weighted in accordance with the terms of the Trust Agreement."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DIA.png
+ipoDate,1998-01-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

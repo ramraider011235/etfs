@@ -1,0 +1,37 @@
+,XRT
+symbol,XRT
+price,70.19
+beta,0
+volAvg,4604868
+mktCap,849313038
+lastDiv,1.2990000000000002
+range,55.32-83.56
+changes,1.94
+companyName,SPDR S&P Retail ETF
+currency,USD
+cik,
+isin,US78464A7147
+cusip,78464A714
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the S&P Retail Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the retail segment of the S&P Total Market Index (""S&P TMI"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XRT.png
+ipoDate,2006-06-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

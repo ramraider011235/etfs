@@ -1,0 +1,37 @@
+,EFAS
+symbol,EFAS
+price,14.51
+beta,0
+volAvg,6432
+mktCap,6448128
+lastDiv,0.927
+range,11.01-16.297
+changes,0
+companyName,Global X MSCI SuperDividend EAFE ETF
+currency,USD
+cik,
+isin,US37954Y6995
+cusip,37954Y699
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index tracks the performance of 50 equally-weighted companies that rank among the highest dividend yielding equity securities in Europe, Australasia and the Far East, as defined by MSCI, the provider of the underlying index (""index provider"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EFAS.png
+ipoDate,2016-11-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

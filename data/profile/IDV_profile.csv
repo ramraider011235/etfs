@@ -1,0 +1,37 @@
+,IDV
+symbol,IDV
+price,29.12
+beta,0
+volAvg,1324581
+mktCap,0
+lastDiv,1.992
+range,22.01-33.61
+changes,0.1
+companyName,iShares International Select Dividend ETF
+currency,USD
+cik,
+isin,US4642884484
+cusip,464288448
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The underlying index measures the performance of 100 high dividend-paying companies in the EPAC (Europe, the Pacific, Asia and Canada) region."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IDV.png
+ipoDate,2007-06-11
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

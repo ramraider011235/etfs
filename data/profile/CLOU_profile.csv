@@ -1,0 +1,37 @@
+,CLOU
+symbol,CLOU
+price,17.95
+beta,0
+volAvg,368539
+mktCap,0
+lastDiv,0.467
+range,14.34-23.71
+changes,0.35
+companyName,Global X Cloud Computing ETF
+currency,USD
+cik,
+isin,US37954Y4420
+cusip,37954Y442
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to provide exposure to exchange-listed companies that are positioned to benefit from the increased adoption of cloud computing technology. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CLOU.png
+ipoDate,2019-04-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

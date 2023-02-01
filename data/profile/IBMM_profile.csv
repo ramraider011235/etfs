@@ -1,0 +1,37 @@
+,IBMM
+symbol,IBMM
+price,25.94
+beta,0
+volAvg,146824
+mktCap,0
+lastDiv,0.25699999999999995
+range,25.41-26.46
+changes,0
+companyName,iShares iBonds Dec 2024 Term Muni Bond ETF
+currency,USD
+cik,
+isin,US46435U6973
+cusip,46435U697
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The index measures the performance of non-callable, investment-grade tax-exempt U.S. municipal bonds maturing in 2024."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBMM.png
+ipoDate,2018-03-20
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

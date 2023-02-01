@@ -1,0 +1,37 @@
+,XLU
+symbol,XLU
+price,69.09
+beta,0
+volAvg,11283726
+mktCap,11280601420
+lastDiv,2.058
+range,60.35-78.22
+changes,0.51
+companyName,Utilities Select Sector SPDR Fund
+currency,USD
+cik,
+isin,US81369Y8865
+cusip,81369Y886
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: electric utilities; water utilities; multi-utilities; independent power and renewable electricity producers; and gas utilities. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XLU.png
+ipoDate,1998-12-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

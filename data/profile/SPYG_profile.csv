@@ -1,0 +1,37 @@
+,SPYG
+symbol,SPYG
+price,53.51
+beta,0
+volAvg,2567265
+mktCap,7395081946
+lastDiv,0.52
+range,47.91-68.12
+changes,0.75
+companyName,SPDR Portfolio S&P 500 Growth ETF
+currency,USD
+cik,
+isin,US78464A4094
+cusip,78464A409
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the large-capitalization growth segment of the U.S. equity market. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPYG.png
+ipoDate,2000-09-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

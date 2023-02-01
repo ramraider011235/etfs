@@ -1,0 +1,37 @@
+,VXF
+symbol,VXF
+price,147.26
+beta,0
+volAvg,405598
+mktCap,25207819835
+lastDiv,1.5250000000000001
+range,123.74-172.04
+changes,3.34
+companyName,Vanguard Extended Market Index Fund
+currency,USD
+cik,0000036405
+isin,US9229086528
+cusip,922908652
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of S&P Completion Index, a broadly diversified index of stocks of small and mid-size U.S. companies. It invests by sampling the index, meaning that it holds a broadly diversified collection of securities that, in the aggregate, approximates the full index in terms of key characteristics. These characteristics include industry weightings and market capitalization, as well as certain financial measures, such as price/earnings ratio and dividend yield."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VXF.png
+ipoDate,2001-12-27
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,SPVM
+symbol,SPVM
+price,51.29
+beta,0
+volAvg,17449
+mktCap,0
+lastDiv,1.15
+range,44.22-56.07
+changes,0.7019
+companyName,Invesco S&P 500 Value with Momentum ETF
+currency,USD
+cik,
+isin,US46137V4234
+cusip,46137V423
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is designed to track the performance of approximately 100 stocks in the S&P 500® Index that have the highest ""value"" and ""momentum"" scores."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPVM.png
+ipoDate,2011-06-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

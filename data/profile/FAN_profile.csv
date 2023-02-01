@@ -1,0 +1,37 @@
+,FAN
+symbol,FAN
+price,18.07
+beta,0
+volAvg,81249
+mktCap,76626287
+lastDiv,0.26
+range,14.22-20.46
+changes,0.23
+companyName,First Trust Global Wind Energy ETF
+currency,USD
+cik,
+isin,US33736G1067
+cusip,33736G106
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks and depositary receipts that comprise the index. The index provides a benchmark for investors interested in tracking public companies throughout the world that are active in the wind energy industry. In order to be eligible for inclusion in the index, a security must be issued by a company that is actively engaged in some aspect of the wind energy industry. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FAN.png
+ipoDate,2008-06-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

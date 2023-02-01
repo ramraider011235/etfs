@@ -1,0 +1,37 @@
+,SGDM
+symbol,SGDM
+price,27.72
+beta,0
+volAvg,62908
+mktCap,0
+lastDiv,0.351
+range,18.851-35.312
+changes,0.29
+companyName,Sprott Gold Miners ETF
+currency,USD
+cik,0001414040
+isin,US85210B1026
+cusip,85210B102
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The underlying index aims to track the performance of gold companies located in the U.S. and Canada whose common stocks or American Depositary Receipts (""ADRs"") are traded on the Toronto Stock Exchange, the New York Stock Exchange and NASDAQ. The fund will normally invest at least 90% of its net assets in securities that comprise the index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SGDM.png
+ipoDate,2014-07-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

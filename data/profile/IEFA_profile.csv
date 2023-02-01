@@ -1,0 +1,37 @@
+,IEFA
+symbol,IEFA
+price,67.07
+beta,0
+volAvg,13126531
+mktCap,62511724474
+lastDiv,1.667
+range,51.34-73.6
+changes,0.35
+companyName,iShares Core MSCI EAFE ETF
+currency,USD
+cik,
+isin,US46432F8427
+cusip,46432F842
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is designed to measure large-, mid- and small-capitalization equity market performance and includes stocks from Europe, Australasia and the Far East."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IEFA.png
+ipoDate,2012-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,UBT
+symbol,UBT
+price,27.62
+beta,0
+volAvg,129303
+mktCap,0
+lastDiv,0.072
+range,20.71-51.27
+changes,0.32
+companyName,ProShares Ultra 20+ Year Treasury
+currency,USD
+cik,
+isin,US74347R1721
+cusip,74347R172
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index includes publicly-issued U.S. Treasury securities that have a remaining maturity greater than or equal to twenty years and have $300 million or more of outstanding face value, excluding amounts held by the Federal Reserve. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/UBT.png
+ipoDate,2010-01-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

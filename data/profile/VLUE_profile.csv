@@ -1,0 +1,37 @@
+,VLUE
+symbol,VLUE
+price,97.68
+beta,0
+volAvg,503440
+mktCap,0
+lastDiv,2.9029999999999996
+range,81.32-109.99
+changes,1.65
+companyName,iShares MSCI USA Value Factor ETF
+currency,USD
+cik,
+isin,US46432F3881
+cusip,46432F388
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the underlying index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index is based on a traditional market capitalization-weighted parent index, the MSCI USA Index (the ""parent index""). The parent index includes U.S. large- and mid- capitalization stocks."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VLUE.png
+ipoDate,2013-04-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

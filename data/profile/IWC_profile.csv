@@ -1,0 +1,37 @@
+,IWC
+symbol,IWC
+price,118.17
+beta,0
+volAvg,41322
+mktCap,0
+lastDiv,1.269
+range,100.75-132.91
+changes,2.4841
+companyName,iShares Micro-Cap ETF
+currency,USD
+cik,
+isin,US4642888691
+cusip,464288869
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the underlying index, but which the advisor believes will help the fund track the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IWC.png
+ipoDate,2005-08-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

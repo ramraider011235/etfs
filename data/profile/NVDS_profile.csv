@@ -1,0 +1,37 @@
+,NVDS
+symbol,NVDS
+price,26.57
+beta,0
+volAvg,88870
+mktCap,0
+lastDiv,2.259
+range,24.92-67.72
+changes,-0.67
+companyName,AXS 1.25X NVDA Bear Daily ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"Under normal market circumstances, the adviser will maintain at least 80% exposure to financial instruments that provide one and a quarter times inverse leveraged exposure to the daily performance of NVDA. The fund is an actively-managed ETF that seeks to achieve on a daily basis, before fees and expenses, -125% performance of NVDA for a single day, not for any other period, by entering into one or more swap agreements on NVDA. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/NVDS.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,EMP
+symbol,EMP
+price,23.63
+beta,0.295291
+volAvg,8297300
+mktCap,204786063
+lastDiv,0.285
+range,7.63-23.63
+changes,0.26
+companyName,"Entergy Mississippi, Inc. 1M BD 66"
+currency,USD
+cik,0000066901
+isin,US29364N1081
+cusip,29364N108
+exchange,New York Stock Exchange
+exchangeShortName,NYSE
+industry,
+website,
+description,
+ceo,None
+sector,
+country,US
+fullTimeEmployees,
+phone,
+address,
+city,
+state,
+zip,
+dcfDiff,203.038
+dcf,226.334
+image,https://financialmodelingprep.com/image-stock/EMP.png
+ipoDate,2016-09-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

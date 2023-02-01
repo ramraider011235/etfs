@@ -1,0 +1,37 @@
+,EEMA
+symbol,EEMA
+price,69.5
+beta,0
+volAvg,102663
+mktCap,528199931
+lastDiv,1.13
+range,53.34-82.44
+changes,-0.49
+companyName,iShares MSCI Emerging Markets Asia ETF
+currency,USD
+cik,
+isin,US4642864262
+cusip,464286426
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The underlying index is designed to measure equity market performance in the emerging market countries of Asia. The underlying index includes large- and mid-capitalization companies and may change over time.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EEMA.png
+ipoDate,2012-02-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

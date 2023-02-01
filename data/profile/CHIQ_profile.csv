@@ -1,0 +1,37 @@
+,CHIQ
+symbol,CHIQ
+price,22.88
+beta,0
+volAvg,163298
+mktCap,161004775
+lastDiv,0.061
+range,13.6-25.65
+changes,-0.02
+companyName,Global X MSCI China Consumer Discretionary ETF
+currency,USD
+cik,
+isin,US37950E4089
+cusip,37950E408
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in ADRs and GDRs based on the securities in the underlying index. The underlying index tracks the performance of companies in the MSCI China Index (the ""parent index"") that are classified in the consumer discretionary sector, as defined by the index provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CHIQ.png
+ipoDate,2009-11-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

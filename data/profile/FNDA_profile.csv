@@ -1,0 +1,37 @@
+,FNDA
+symbol,FNDA
+price,51.95
+beta,0
+volAvg,236383
+mktCap,0
+lastDiv,0.644
+range,42.35-55.01
+changes,1.36
+companyName,Schwab Fundamental U.S. Small Company Index ETF
+currency,USD
+cik,
+isin,US8085247638
+cusip,808524763
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in stocks included in the index. The index measures the performance of the small company size segment by fundamental overall company scores (scores), which are created using as the universe the U.S. companies in the FTSE Global Total Cap Index (the parent index)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FNDA.png
+ipoDate,2013-08-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

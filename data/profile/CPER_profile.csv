@@ -1,0 +1,37 @@
+,CPER
+symbol,CPER
+price,25.64
+beta,0
+volAvg,162449
+mktCap,0
+lastDiv,0
+range,19.11-30.12
+changes,0.27
+companyName,"United States Copper Index Fund, LP"
+currency,USD
+cik,0001479247
+isin,US9117181043
+cusip,911718104
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing to the fullest extent possible in the Benchmark Component Copper Futures Contracts. The SCI is designed to reflect the performance of the investment returns from a portfolio of copper futures contracts on the Commodity Exchange, Inc. exchange (""COMEX"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CPER.png
+ipoDate,2011-11-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

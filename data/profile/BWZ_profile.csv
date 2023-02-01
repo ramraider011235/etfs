@@ -1,0 +1,37 @@
+,BWZ
+symbol,BWZ
+price,27.56
+beta,0
+volAvg,60314
+mktCap,275001838
+lastDiv,0.09300000000000003
+range,24.48-30.4
+changes,0.03
+companyName,SPDR Bloomberg Short Term International Treasury Bond ETF
+currency,USD
+cik,
+isin,US78464A3344
+cusip,78464A334
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of fixed-rate local currency sovereign debt of investment grade countries outside the United States that have remaining maturities of one to three years. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BWZ.png
+ipoDate,2009-01-15
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

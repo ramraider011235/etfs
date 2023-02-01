@@ -1,0 +1,37 @@
+,SVXY
+symbol,SVXY
+price,65.43
+beta,0
+volAvg,1864060
+mktCap,0
+lastDiv,0
+range,45.06-66.19
+changes,0.71
+companyName,ProShares Short VIX Short-Term Futures ETF
+currency,USD
+cik,0001415311
+isin,US74347W1302
+cusip,74347W130
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The index seeks to offer exposure to market volatility through publicly traded futures markets and is designed to measure the implied volatility of the S&P 500 over 30 days in the future.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SVXY.png
+ipoDate,2011-10-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

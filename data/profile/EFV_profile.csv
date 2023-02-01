@@ -1,0 +1,37 @@
+,EFV
+symbol,EFV
+price,49.64
+beta,0
+volAvg,3624416
+mktCap,392129790
+lastDiv,1.915
+range,38.08-53.64
+changes,0.24
+companyName,iShares MSCI EAFE Value ETF
+currency,USD
+cik,
+isin,US4642888774
+cusip,464288877
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in securities of the underlying index and in depositary receipts representing securities of the underlying index. The underlying index is a subset of the MSCI EAFE Index. Constituents of the underlying index include securities from Europe, Australasia and the Far East."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EFV.png
+ipoDate,2005-08-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

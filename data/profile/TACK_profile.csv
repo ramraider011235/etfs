@@ -1,0 +1,37 @@
+,TACK
+symbol,TACK
+price,24.48
+beta,0
+volAvg,57275
+mktCap,0
+lastDiv,0.21
+range,22.0-26.98
+changes,0.22
+companyName,Fairlead Tactical Sector Fund
+currency,USD
+cik,0001587551
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is a diversified actively-managed ETF that under normal circumstances will invest more than 80% of the fund’s net assets in passive domestic equity sector ETFs and ETFs investing respectively in gold and U.S. Treasuries. The fund’s principal investment strategy will employ a systematic approach to technical analysis focused on the identification of important trends. The fund’s investable universe will consist of the sectors of the S&P 500®, as defined by the State Street series of SPDR® ETFs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TACK.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

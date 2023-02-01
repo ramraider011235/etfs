@@ -1,0 +1,37 @@
+,DBEU
+symbol,DBEU
+price,36.11
+beta,0
+volAvg,80886
+mktCap,840382938
+lastDiv,0.654
+range,29.61-36.21
+changes,0.22
+companyName,Xtrackers MSCI Europe Hedged Equity ETF
+currency,USD
+cik,0001503123
+isin,US2330518539
+cusip,233051853
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund, using a ""passive"" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of the developed markets in Europe, while mitigating exposure to fluctuations between the value of the U.S. dollar and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DBEU.png
+ipoDate,2013-10-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

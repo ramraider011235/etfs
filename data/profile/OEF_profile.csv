@@ -1,0 +1,37 @@
+,OEF
+symbol,OEF
+price,181.48
+beta,0
+volAvg,319422
+mktCap,7077719819
+lastDiv,2.641
+range,157.57-213.25
+changes,2.52
+companyName,iShares S&P 100 ETF
+currency,USD
+cik,
+isin,US4642871010
+cusip,464287101
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of the large-capitalization sector of the U.S. equity market. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its indexi and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/OEF.png
+ipoDate,2000-10-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

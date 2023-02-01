@@ -1,0 +1,37 @@
+,FCPI
+symbol,FCPI
+price,32.11
+beta,0
+volAvg,42314
+mktCap,0
+lastDiv,0.547
+range,28.12-35.15
+changes,0.44
+companyName,Fidelity Stocks for Inflation ETF
+currency,USD
+cik,
+isin,US3160923864
+cusip,316092386
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund normally invests at least 80% of its assets in securities included in the Fidelity Stocks for Inflation Factor Index?, which is designed to reflect the performance of stocks of large and mid-capitalization U.S. companies with attractive valuations, high quality profiles and positive momentum signals, emphasizing industries that tend to outperform in inflationary environments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FCPI.png
+ipoDate,2019-11-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

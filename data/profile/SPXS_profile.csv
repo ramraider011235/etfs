@@ -1,0 +1,37 @@
+,SPXS
+symbol,SPXS
+price,18.53
+beta,0
+volAvg,24593031
+mktCap,0
+lastDiv,0.2
+range,16.48-31.42
+changes,-0.83
+companyName,Direxion Daily S&P 500 Bear 3X Shares
+currency,USD
+cik,0001424958
+isin,US25460E8856
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund, under normal circumstances, invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets (plus borrowing for investment purposes). The index is a float-adjusted, market capitalization-weighted index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPXS.png
+ipoDate,2008-11-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

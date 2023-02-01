@@ -1,0 +1,37 @@
+,FNCL
+symbol,FNCL
+price,51.67
+beta,0
+volAvg,138101
+mktCap,1188722862
+lastDiv,1.0990000000000002
+range,42.22-58.74
+changes,0.78
+companyName,Fidelity MSCI Financials Index ETF
+currency,USD
+cik,
+isin,US01F0306C76
+cusip,316092501
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Financials 25/50 Index, which represents the performance of the financial sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Financials 25/50 Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FNCL.png
+ipoDate,2013-10-21
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

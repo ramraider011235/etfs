@@ -1,0 +1,37 @@
+,TDIV
+symbol,TDIV
+price,51.62
+beta,0
+volAvg,126650
+mktCap,0
+lastDiv,1.2
+range,41.61-61.68
+changes,0.5
+companyName,First Trust NASDAQ Technology Dividend Index Fund
+currency,USD
+cik,
+isin,US33738R1187
+cusip,33738R118
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks and depositary receipts that comprise the index. The index is owned and was developed by Nasdaq, Inc. (the ""index provider""). The index includes up to 100 technology and telecommunications companies that pay a regular or common dividend. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TDIV.png
+ipoDate,2012-08-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VB
+symbol,VB
+price,202.18
+beta,0
+volAvg,732531
+mktCap,178617350008
+lastDiv,1.9020000000000001
+range,168.65-219.35
+changes,4.9
+companyName,Vanguard Small Cap Index Fund
+currency,USD
+cik,0000036405
+isin,US9229087518
+cusip,922908751
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Small Cap Index, a broadly diversified index of stocks of small U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VB.png
+ipoDate,2004-01-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,SLV
+symbol,SLV
+price,21.83
+beta,0
+volAvg,17632321
+mktCap,7453853063
+lastDiv,0
+range,16.19-24.9
+changes,0.17
+companyName,iShares Silver Trust
+currency,USD
+cik,0001330568
+isin,US46428Q1094
+cusip,46428Q109
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Trust seeks to reflect such performance before payment of the Trust's expenses and liabilities. It is not actively managed. The Trust does not engage in any activities designed to obtain a profit from, or to ameliorate losses caused by, changes in the price of silver."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,2.48
+dcf,19.2
+image,https://financialmodelingprep.com/image-stock/SLV.png
+ipoDate,2006-04-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

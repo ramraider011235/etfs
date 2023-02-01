@@ -1,0 +1,37 @@
+,SBIO
+symbol,SBIO
+price,32.58
+beta,0
+volAvg,21842
+mktCap,0
+lastDiv,0.016
+range,23.58-37.38
+changes,0.78
+companyName,ALPS Medical Breakthroughs ETF
+currency,USD
+cik,0001414040
+isin,US00162Q5936
+cusip,00162Q593
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs a ""passive management"" - or indexing - investment approach designed to track the performance of the underlying index. It will normally invest at least 80% of its net assets in securities that comprise the underlying index. The underlying index is comprised of small and mid-cap stocks of biotechnology companies that have one or more drugs in either Phase II or Phase III of the U.S. Food and Drug Administration clinical trials."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SBIO.png
+ipoDate,2014-12-31
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

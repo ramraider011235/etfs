@@ -1,0 +1,37 @@
+,FEZ
+symbol,FEZ
+price,43.55
+beta,0
+volAvg,2568709
+mktCap,2641351094
+lastDiv,1.1820000000000002
+range,30.13-46.47
+changes,0.51
+companyName,SPDR EURO STOXX 50 ETF
+currency,USD
+cik,
+isin,US78463X2027
+cusip,78463X202
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs a sampling strategy, which means that the fund is not required to purchase all of the securities represented in the index. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index is a market capitalization weighted index designed to represent the performance of some of the largest companies across components of the 20 EURO STOXX Supersector Indexes. The EURO STOXX Supersector Indexes are subsets of the EURO STOXX Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FEZ.png
+ipoDate,2002-10-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

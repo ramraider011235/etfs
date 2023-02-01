@@ -1,0 +1,37 @@
+,HDAW
+symbol,HDAW
+price,23.51
+beta,0
+volAvg,2222
+mktCap,0
+lastDiv,1.5470000000000002
+range,18.522-26.66
+changes,0.06
+companyName,Xtrackers MSCI All World ex US High Dividend Yield Hedged Equity ETF
+currency,USD
+cik,0001503123
+isin,US2330515980
+cusip,233051598
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its total assets (but typically far more) in component securities of the underlying index. The underlying index is designed to reflect the performance of equities (excluding REITs) in its parent index, the MSCI ACWI ex US Index, with higher dividend income and quality characteristics than average dividend yields of equities in the parent index, where such higher dividend income and quality characteristics are both sustainable and persistent."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HDAW.png
+ipoDate,2015-08-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

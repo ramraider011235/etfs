@@ -1,0 +1,37 @@
+,PTLC
+symbol,PTLC
+price,37.68
+beta,0
+volAvg,249395
+mktCap,2869331925
+lastDiv,0.471
+range,35.832-40.07
+changes,0.56
+companyName,Pacer Trendpilot US Large Cap ETF
+currency,USD
+cik,
+isin,US69374H1059
+cusip,69374H105
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the index. The index uses an objective, rules-based methodology to implement a systematic trend-following strategy that directs exposure (i) 100% to the S&P 500® Index, (ii) 50% to the S&P 500 and 50% to 3-Month U.S. Treasury bills, or (iii) 100% to 3-Month U.S. Treasury bills, depending on the relative performance of the S&P 500 and its 200-business day historical simple moving average."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PTLC.png
+ipoDate,2015-06-11
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

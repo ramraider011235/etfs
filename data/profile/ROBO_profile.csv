@@ -1,0 +1,37 @@
+,ROBO
+symbol,ROBO
+price,53.15
+beta,0
+volAvg,103857
+mktCap,1030259547
+lastDiv,0.123
+range,39.51-63.57
+changes,0.79
+companyName,Robo Global Robotics and Automation Index ETF
+currency,USD
+cik,
+isin,US3015057074
+cusip,301505707
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 80% of its total assets in securities of the index or in depositary receipts representing securities of the index. The index is designed to measure the performance of robotics-related and/or automation-related companies. The fund may invest up to 20% of its assets in investments that are not included in the index, but which the Adviser and Sub-Adviser believe will help it track the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ROBO.png
+ipoDate,2013-10-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

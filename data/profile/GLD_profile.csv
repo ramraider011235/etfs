@@ -1,0 +1,37 @@
+,GLD
+symbol,GLD
+price,179.41
+beta,0
+volAvg,5474791
+mktCap,46700422462
+lastDiv,0
+range,150.57-193.3
+changes,0.65
+companyName,SPDR Gold Shares
+currency,USD
+cik,0001222333
+isin,US78463V1070
+cusip,78463V107
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Trust holds gold bars and from time to time, issues Baskets in exchange for deposits of gold and distributes gold in connection with redemptions of Baskets. The investment objective of the Trust is for the Shares to reflect the performance of the price of gold bullion, less the Trust’s expenses. The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,17.34
+dcf,161.88
+image,https://financialmodelingprep.com/image-stock/GLD.png
+ipoDate,2004-11-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

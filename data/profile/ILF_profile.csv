@@ -1,0 +1,37 @@
+,ILF
+symbol,ILF
+price,25.48
+beta,1.100108
+volAvg,997739
+mktCap,1216669949
+lastDiv,2.912
+range,20.75-31.24
+changes,0.38
+companyName,iShares Latin America 40 ETF
+currency,USD
+cik,
+isin,US4642873909
+cusip,464287390
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. It seeks to track the investment results of the S&P Latin America 40TM (the ""underlying index""), which is composed of selected equities trading on the exchanges of five Latin American countries. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ILF.png
+ipoDate,2001-10-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

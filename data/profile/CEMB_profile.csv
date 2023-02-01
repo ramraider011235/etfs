@@ -1,0 +1,37 @@
+,CEMB
+symbol,CEMB
+price,44.29
+beta,0
+volAvg,54331
+mktCap,104653505
+lastDiv,1.6129999999999998
+range,39.92-49.93
+changes,0.19
+companyName,iShares J.P. Morgan EM Corporate Bond ETF
+currency,USD
+cik,
+isin,US4642862514
+cusip,464286251
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index. The underlying index includes bonds issued by corporations based in Latin American, Eastern European, Middle Eastern/African, and Asian countries (excluding Japan)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CEMB.png
+ipoDate,2012-04-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

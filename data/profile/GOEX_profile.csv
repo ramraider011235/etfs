@@ -1,0 +1,37 @@
+,GOEX
+symbol,GOEX
+price,27.65
+beta,0
+volAvg,5224
+mktCap,0
+lastDiv,0.05
+range,18.57-36.49
+changes,0.0209
+companyName,Global X Gold Explorers ETF
+currency,USD
+cik,
+isin,US37954Y8637
+cusip,37954Y863
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the index and in American Depositary Receipts and Global Depositary Receipts based on the securities in the underlying index. The underlying index is a free float-adjusted, liquidity-tested and market capitalization-weighted index that is designed to measure broad-based equity market performance of global companies involved in gold exploration. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GOEX.png
+ipoDate,2010-11-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

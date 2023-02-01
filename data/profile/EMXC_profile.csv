@@ -1,0 +1,37 @@
+,EMXC
+symbol,EMXC
+price,50.87
+beta,0
+volAvg,959240
+mktCap,14864316
+lastDiv,1.353
+range,43.731-62.19
+changes,-0.01
+companyName,iShares MSCI Emerging Markets ex China ETF
+currency,USD
+cik,
+isin,US46434G7640
+cusip,46434G764
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index is a free float-adjusted market capitalization-weighted index that captures large- and mid-capitalization stocks across 26 of the 27 Emerging Markets countries, excluding China."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EMXC.png
+ipoDate,2017-07-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

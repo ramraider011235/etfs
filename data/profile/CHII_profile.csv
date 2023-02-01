@@ -1,0 +1,37 @@
+,CHII
+symbol,CHII
+price,13.8
+beta,1.049129
+volAvg,2567
+mktCap,1417447611
+lastDiv,0.092
+range,10.96-16.54
+changes,0
+companyName,Global X MSCI China Industrials ETF
+currency,USD
+cik,
+isin,US37950E7058
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in ADRs and GDRs based on the securities in the underlying index. The underlying index tracks the performance of companies in the MSCI China Index (the ""parent index"") that are classified in the industrials sector, as defined by the index provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CHII.png
+ipoDate,2009-12-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

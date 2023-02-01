@@ -1,0 +1,37 @@
+,EBND
+symbol,EBND
+price,21.53
+beta,0
+volAvg,449490
+mktCap,18331044116
+lastDiv,0.8859999999999999
+range,18.45-24.6
+changes,0.03
+companyName,SPDR Bloomberg Emerging Markets Local Bond ETF
+currency,USD
+cik,
+isin,US78464A3914
+cusip,78464A391
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser/Sub-Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to measure the performance of the fixed-rate local currency sovereign debt of emerging market countries. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EBND.png
+ipoDate,2011-02-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

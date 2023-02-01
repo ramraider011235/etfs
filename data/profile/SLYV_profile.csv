@@ -1,0 +1,37 @@
+,SLYV
+symbol,SLYV
+price,83.14
+beta,0
+volAvg,233455
+mktCap,2910074677
+lastDiv,1.093
+range,66.84-85.71
+changes,2.29
+companyName,SPDR S&P 600 Small Cap Value ETF
+currency,USD
+cik,
+isin,US78464A3005
+cusip,78464A300
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index measures the performance of the small-capitalization value segment of the U.S. equity market. It may purchase a subset of the securities in the index in an effort to hold a portfolio of securities with generally the same risk and return characteristics of the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SLYV.png
+ipoDate,2000-09-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

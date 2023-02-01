@@ -1,0 +1,37 @@
+,PBDM
+symbol,PBDM
+price,25.99
+beta,0
+volAvg,11642
+mktCap,0
+lastDiv,0.8059999999999999
+range,20.34-29.095
+changes,0.12
+companyName,Invesco PureBeta FTSE Developed ex-North America ETF
+currency,USD
+cik,
+isin,US46138E4879
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. The index is designed to measure the performance of the large- and mid-capitalization segments of equity markets of countries around the world that are classified as developed markets within the country classification definition of the index provider, excluding the United States and Canada."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PBDM.png
+ipoDate,2017-09-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

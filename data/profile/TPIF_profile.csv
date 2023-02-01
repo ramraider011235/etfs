@@ -1,0 +1,37 @@
+,TPIF
+symbol,TPIF
+price,25.19
+beta,0
+volAvg,23757
+mktCap,0
+lastDiv,0.601
+range,19.69-28.31
+changes,0.04
+companyName,Timothy Plan International ETF
+currency,USD
+cik,
+isin,US8874323343
+cusip,887432334
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its net assets directly or indirectly in the securities included in the Victory International Volatility Weighted BRI Index, an unmanaged, volatility weighted index created by the Sub-Advisor. The index combines fundamental criteria with individual security risk control achieved through volatility weighting of individual securities, rather than traditional market cap weighting."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TPIF.png
+ipoDate,2019-12-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

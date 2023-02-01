@@ -1,0 +1,37 @@
+,REM
+symbol,REM
+price,26.28
+beta,0
+volAvg,692906
+mktCap,0
+lastDiv,2.525
+range,19.77-33.97
+changes,0.64
+companyName,iShares Mortgage Real Estate Capped ETF
+currency,USD
+cik,
+isin,US46435G3424
+cusip,46435G342
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index measures the performance of the residential and commercial mortgage real estate, mortgage finance and savings associations sectors of the U.S. equity market. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/REM.png
+ipoDate,2007-05-01
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

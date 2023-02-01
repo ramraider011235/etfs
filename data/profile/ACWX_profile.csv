@@ -1,0 +1,37 @@
+,ACWX
+symbol,ACWX
+price,49.56
+beta,0
+volAvg,2661991
+mktCap,148765541
+lastDiv,1.2189999999999999
+range,38.81-55.68
+changes,0.21
+companyName,iShares MSCI ACWI ex U.S. ETF
+currency,USD
+cik,
+isin,US4642882405
+cusip,464288240
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization-weighted index designed to measure the combined equity market performance of developed and emerging markets countries, excluding the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ACWX.png
+ipoDate,2008-03-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

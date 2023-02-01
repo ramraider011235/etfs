@@ -1,0 +1,37 @@
+,VGLT
+symbol,VGLT
+price,66.02
+beta,0
+volAvg,1292195
+mktCap,0
+lastDiv,1.5879999999999999
+range,57.04-86.78
+changes,0.5
+companyName,Vanguard Long-Term Treasury Index Fund
+currency,USD
+cik,
+isin,US92206C8477
+cusip,92206C847
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Bloomberg U.S. Long Treasury Index. This index includes fixed income securities issued by the U.S. Treasury (not including inflation-protected bonds, floating rate securities and certain other security types), with maturities greater than 10 years. Under normal circumstances, at least 80% of the fund's assets will be invested in bonds included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VGLT.png
+ipoDate,2009-11-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

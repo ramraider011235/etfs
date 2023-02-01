@@ -1,0 +1,37 @@
+,VTI
+symbol,VTI
+price,204.43
+beta,1.043525
+volAvg,4173621
+mktCap,423930593501
+lastDiv,3.184
+range,174.84-233.36
+changes,3.22
+companyName,Vanguard Total Stock Market Index Fund
+currency,USD
+cik,0000036405
+isin,US9229087690
+cusip,922908769
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the index, which represents approximately 100% of the investable U.S. stock market and includes large-, mid-, small-, and micro-cap stocks. It invests by sampling the index, meaning that it holds a broadly diversified collection of securities that, in the aggregate, approximates the full index in terms of key characteristics."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VTI.png
+ipoDate,2001-05-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

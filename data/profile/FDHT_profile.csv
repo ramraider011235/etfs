@@ -1,0 +1,37 @@
+,FDHT
+symbol,FDHT
+price,19.9443
+beta,0
+volAvg,1937
+mktCap,0
+lastDiv,0
+range,16.02-23.95
+changes,0.2611
+companyName,Fidelity Digital Health ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund normally invests at least 80% of assets in securities included in the index and in depositary receipts representing securities included in the index. The index is designed to reflect the performance of a global universe of companies across the market capitalization spectrum providing healthcare records management, connected healthcare devices, surgical robotics, telemedicine, and other technology-enabled healthcare products and services. The fund is non-diversified."
+ceo,
+sector,
+country,
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FDHT.png
+ipoDate,2021-10-07
+defaultImage,True
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

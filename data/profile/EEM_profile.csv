@@ -1,0 +1,37 @@
+,EEM
+symbol,EEM
+price,41.36
+beta,0.807399
+volAvg,43013990
+mktCap,31119263173
+lastDiv,0.946
+range,33.49-50.11
+changes,-0.09
+companyName,iShares MSCI Emerging Markets ETF
+currency,USD
+cik,
+isin,US4642872349
+cusip,464287234
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is designed to measure equity market performance in the global emerging markets. The underlying index includes large- and mid-capitalization companies and may change over time.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EEM.png
+ipoDate,2003-04-07
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

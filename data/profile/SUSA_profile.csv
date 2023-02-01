@@ -1,0 +1,37 @@
+,SUSA
+symbol,SUSA
+price,87.62
+beta,0
+volAvg,208675
+mktCap,0
+lastDiv,1.176
+range,73.86-100.05
+changes,1.42
+companyName,iShares MSCI USA ESG Select ETF
+currency,USD
+cik,
+isin,US4642888022
+cusip,464288802
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 90% of its assets in securities of the underlying index and in depositary receipts representing securities of the underlying index. The underlying index is an optimized index designed to maximize exposure to positive environmental, social and governance (""ESG"") characteristics, while exhibiting risk and return characteristics similar to the MSCI USA Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SUSA.png
+ipoDate,2005-01-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

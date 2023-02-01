@@ -1,0 +1,37 @@
+,ESGV
+symbol,ESGV
+price,71.07
+beta,0
+volAvg,268891
+mktCap,0
+lastDiv,0.9319999999999999
+range,60.74-83.24
+changes,1.14
+companyName,Vanguard ESG U.S. Stock ETF
+currency,USD
+cik,0000052848
+isin,US9219107334
+cusip,921910733
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The adviser attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index. The index, which is market-capitalization weighted, is composed of large-, mid-, and small-cap stocks of companies located in the United States that are screened for certain environmental, social, and corporate governance (ESG) criteria by the index sponsor, which is independent of Vanguard."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ESGV.png
+ipoDate,2018-09-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

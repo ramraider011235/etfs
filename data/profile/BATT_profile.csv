@@ -1,0 +1,37 @@
+,BATT
+symbol,BATT
+price,14.02
+beta,0
+volAvg,56801
+mktCap,674891788
+lastDiv,0.485
+range,11.461-18.0
+changes,0.14
+companyName,Amplify Lithium & Battery Technology ETF
+currency,USD
+cik,0001633061
+isin,US0321088058
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 80% of its net assets in the securities that comprise the index. The index seeks to provide exposure to global companies deriving material revenue associated with the development, production and use of lithium battery technology. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BATT.png
+ipoDate,2018-06-06
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

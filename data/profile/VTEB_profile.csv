@@ -1,0 +1,37 @@
+,VTEB
+symbol,VTEB
+price,50.82
+beta,0
+volAvg,6687432
+mktCap,0
+lastDiv,0.9229999999999998
+range,47.38-53.78
+changes,0.05
+companyName,Vanguard Tax-Exempt Bond Index Fund
+currency,USD
+cik,0000225997
+isin,US9229077469
+cusip,922907746
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"This index includes municipal bonds from issuers that are primarily state or local governments or agencies whose interest is exempt from U.S. federal income taxes and the federal alternative minimum tax (AMT). All of the fund's investments will be selected through the sampling process, and at least 80% of the fund's assets will be invested in securities held in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VTEB.png
+ipoDate,2015-08-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

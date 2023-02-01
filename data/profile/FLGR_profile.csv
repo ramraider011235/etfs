@@ -1,0 +1,37 @@
+,FLGR
+symbol,FLGR
+price,21.84
+beta,0
+volAvg,6944
+mktCap,13985371109
+lastDiv,0.6729999999999999
+range,15.05-25.4
+changes,0.21
+companyName,Franklin FTSE Germany ETF
+currency,USD
+cik,
+isin,US35473P7859
+cusip,35473P785
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the FTSE Germany Capped Index and in depositary receipts representing such securities. The FTSE Germany Capped Index is based on the FTSE Germany Index and is designed to measure the performance of German large- and mid-capitalization stocks. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLGR.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

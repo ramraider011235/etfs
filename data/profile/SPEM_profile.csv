@@ -1,0 +1,37 @@
+,SPEM
+symbol,SPEM
+price,35.56
+beta,0
+volAvg,2632262
+mktCap,2731008000
+lastDiv,1.113
+range,29.8-42.76
+changes,0.02
+companyName,SPDR Portfolio Emerging Markets ETF
+currency,USD
+cik,
+isin,US78463X5095
+cusip,78463X509
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a float-adjusted market capitalization weighted index designed to define and measure the investable universe of publicly traded companies domiciled in emerging markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPEM.png
+ipoDate,2007-03-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

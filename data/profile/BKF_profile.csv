@@ -1,0 +1,37 @@
+,BKF
+symbol,BKF
+price,37.16
+beta,0
+volAvg,11593
+mktCap,159788000
+lastDiv,0.7
+range,29.08-45.96
+changes,-0.07
+companyName,iShares MSCI BIC ETF
+currency,USD
+cik,
+isin,US4642866572
+cusip,464286657
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is a free float-adjusted market capitalization index that is designed to measure the combined equity market performance in Brazil, India and China (“BIC”)."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BKF.png
+ipoDate,2007-11-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

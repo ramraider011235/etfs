@@ -1,0 +1,37 @@
+,DUST
+symbol,DUST
+price,11.59
+beta,0
+volAvg,4551734
+mktCap,155522733
+lastDiv,0.725
+range,10.07-31.39
+changes,-0.08
+companyName,Direxion Daily Gold Miners Index Bear 2X Shares
+currency,USD
+cik,0001424958
+isin,US25460G8805
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse or short leveraged exposure to the index equal to at least 80% of the fund's net assets. The index is a modified market capitalization weighted index comprised of publicly traded companies that operate globally in both developed and emerging markets, and are involved primarily in mining for gold and, to a lesser extent, in mining for silver. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DUST.png
+ipoDate,2010-12-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

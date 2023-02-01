@@ -1,0 +1,37 @@
+,FDEC
+symbol,FDEC
+price,33.36
+beta,0
+volAvg,120460
+mktCap,0
+lastDiv,0
+range,29.24-34.529
+changes,0.38
+companyName,FT Cboe Vest U.S. Equity Buffer ETF - December
+currency,USD
+cik,
+isin,US33740U5056
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange® Options (""FLEX Options"") that reference the price performance of the SPDR® S&P 500® ETF Trust (the ""Underlying ETF""). FLEX Options are customized equity or index option contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FDEC.png
+ipoDate,2020-12-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

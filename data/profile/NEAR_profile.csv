@@ -1,0 +1,37 @@
+,NEAR
+symbol,NEAR
+price,49.585
+beta,0
+volAvg,855003
+mktCap,0
+lastDiv,0.7200000000000002
+range,48.99-49.88
+changes,0.015
+companyName,iShares Short Maturity Bond ETF
+currency,USD
+cik,
+isin,US46431W5076
+cusip,46431W507
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its net assets in a portfolio of U.S. dollar-denominated investment-grade fixed-income securities. Under normal circumstances, the effective duration of its portfolio is expected to be one year or less, as calculated by the management team. It is an actively managed exchange-traded fund (""ETF"") that does not seek to replicate the performance of a specified index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/NEAR.png
+ipoDate,2013-09-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

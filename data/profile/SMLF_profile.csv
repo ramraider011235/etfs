@@ -1,0 +1,37 @@
+,SMLF
+symbol,SMLF
+price,54.37
+beta,0
+volAvg,84196
+mktCap,0
+lastDiv,0.6100000000000001
+range,43.93-56.552
+changes,1.13
+companyName,iShares MSCI USA Small-Cap Multifactor ETF
+currency,USD
+cik,
+isin,US46434V2907
+cusip,46434V290
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index is designed to select equities from the MSCI USA Small Cap Index that have high exposure to four investment style factors: value, quality, momentum and low size, maintaining a level of risk similar to that of the parent index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SMLF.png
+ipoDate,2015-04-28
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

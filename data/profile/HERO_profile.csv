@@ -1,0 +1,37 @@
+,HERO
+symbol,HERO
+price,20.37
+beta,0
+volAvg,50331
+mktCap,0
+lastDiv,0.052
+range,16.57-27.96
+changes,0.33
+companyName,Global X Video Games & Esports ETF
+currency,USD
+cik,
+isin,US427ESC3062
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to provide exposure to exchange-listed companies that are positioned to benefit from increased consumption related to video games and esports. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/HERO.png
+ipoDate,2019-10-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,GVI
+symbol,GVI
+price,104.13
+beta,0
+volAvg,275818
+mktCap,0
+lastDiv,1.7050000000000003
+range,100.12-112.33
+changes,0.1
+companyName,iShares Intermediate Government/Credit Bond ETF
+currency,USD
+cik,
+isin,US4642886125
+cusip,464288612
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the index, and it will invest at least 90% of its assets in fixed income securities of the types included in the index that the advisor believes will help the fund track the index. The index measures the performance of U.S. dollar-denominated U.S. Treasury bonds, government-related bonds and investment-grade U.S. corporate bonds that have a remaining maturity of greater than one year and less than ten years."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GVI.png
+ipoDate,2007-01-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

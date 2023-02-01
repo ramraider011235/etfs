@@ -1,0 +1,37 @@
+,IBD
+symbol,IBD
+price,23.51
+beta,0
+volAvg,64267
+mktCap,0
+lastDiv,0.43100000000000016
+range,22.22-25.41
+changes,0.12
+companyName,Inspire Corporate Bond Impact ESG ETF
+currency,USD
+cik,
+isin,US66538H6339
+cusip,66538H633
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its total assets in the component securities of the index. The index provider selects domestic corporate bonds issued by companies that have market capitalizations of $5 billion or more, have credit ratings of BBB- or higher from Standard and Poor’s or Baa3 or higher from Moody’s and which have an Inspire Impact Score® of zero or higher."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBD.png
+ipoDate,2017-07-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

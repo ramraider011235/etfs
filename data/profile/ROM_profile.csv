@@ -1,0 +1,37 @@
+,ROM
+symbol,ROM
+price,27.842
+beta,0
+volAvg,86832
+mktCap,0
+lastDiv,0.0345
+range,21.16-55.98
+changes,0.892
+companyName,ProShares Ultra Technology
+currency,USD
+cik,
+isin,US74347R6936
+cusip,74347R693
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is designed to measure the stock performance of U.S. companies in the technology industry. Component companies include, among others, those involved in computers and office equipment, software, communications technology, semiconductors, diversified technology services and Internet services. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ROM.png
+ipoDate,2007-01-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

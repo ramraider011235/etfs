@@ -1,0 +1,37 @@
+,SPUS
+symbol,SPUS
+price,27.29
+beta,0
+volAvg,39183
+mktCap,0
+lastDiv,0.31200000000000006
+range,23.678-32.01
+changes,0.38
+companyName,SP Funds S&P 500 Sharia Industry Exclusions ETF
+currency,USD
+cik,
+isin,US8863648015
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is composed of the constituents of the S&P 500® Shariah Index other than those from the following sub-industries: Aerospace & Defense, Financial Exchanges & Data, and Data Processing & Outsourced Services. The manager attempts to invest all, or substantially all, of its assets in the component securities that make up the index. Under normal circumstances, at least 80% of the fund's total assets will be invested in the component securities of the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPUS.png
+ipoDate,2019-12-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

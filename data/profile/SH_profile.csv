@@ -1,0 +1,37 @@
+,SH
+symbol,SH
+price,15.13
+beta,0
+volAvg,30770654
+mktCap,0
+lastDiv,0.051
+range,13.77-17.71
+changes,-0.22
+companyName,ProShares Short S&P500
+currency,USD
+cik,
+isin,US74347B4251
+cusip,74347B425
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is a measure of large-cap U.S. stock market performance. It is a float-adjusted, market capitalization-weighted index of 500 U.S. operating companies and real estate investment trusts selected through a process that factors in criteria such as liquidity, price, market capitalization, financial viability and public float. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SH.png
+ipoDate,2006-06-19
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

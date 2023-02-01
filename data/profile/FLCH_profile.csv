@@ -1,0 +1,37 @@
+,FLCH
+symbol,FLCH
+price,21.18
+beta,0
+volAvg,31637
+mktCap,44220684
+lastDiv,0.502
+range,14.17-25.57
+changes,-0.13
+companyName,Franklin FTSE China ETF
+currency,USD
+cik,
+isin,US35473P8196
+cusip,35473P819
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund invests at least 80% of its assets in the component securities of the index and in depositary receipts representing such securities. The index is based on the FTSE China Index and is designed to measure the performance of Chinese large- and mid-capitalization stocks, as represented by H-Shares, B-Shares and A-Shares. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FLCH.png
+ipoDate,2017-11-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

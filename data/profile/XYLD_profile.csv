@@ -1,0 +1,37 @@
+,XYLD
+symbol,XYLD
+price,40.7
+beta,0
+volAvg,589490
+mktCap,0
+lastDiv,4.837000000000001
+range,37.28-49.92
+changes,0.17
+companyName,Global X S&P 500 Covered Call ETF
+currency,USD
+cik,
+isin,US37954Y4750
+cusip,37954Y475
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index measures the performance of a hypothetical portfolio that employs a covered call strategy. A covered call strategy is generally considered to be an investment strategy in which an investor buys a security, and sells (or ""writes"") a call option on that security in an attempt to generate more income."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XYLD.png
+ipoDate,2013-06-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

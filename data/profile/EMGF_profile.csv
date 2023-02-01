@@ -1,0 +1,37 @@
+,EMGF
+symbol,EMGF
+price,43.45
+beta,0
+volAvg,123065
+mktCap,328453931
+lastDiv,1.658
+range,37.51-52.585
+changes,-0.13
+companyName,iShares MSCI Emerging Markets Multifactor ETF
+currency,USD
+cik,
+isin,US46434G8895
+cusip,46434G889
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The underlying index is designed to select equity securities from the MSCI Emerging Markets Index (the ""parent index"") that have high exposure to four investment style factors: value, quality, momentum and low size, while maintaining a level of risk similar to that of the parent index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EMGF.png
+ipoDate,2015-12-08
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

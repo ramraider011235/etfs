@@ -1,0 +1,37 @@
+,SCHA
+symbol,SCHA
+price,44.74
+beta,0
+volAvg,1020280
+mktCap,0
+lastDiv,0.5549999999999999
+range,37.25-48.99
+changes,1.04
+companyName,Schwab U.S. Small-Cap ETF
+currency,USD
+cik,
+isin,US8085246077
+cusip,808524607
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To pursue its goal, the fund generally invests in stocks that are included in the index. The index includes the small-cap portion of the Dow Jones U.S. Total Stock Market Index actually available to investors in the marketplace. The Dow Jones U.S. Small-Cap Total Stock Market Index includes the components ranked 751-2500 by full market capitalization. The index is a float-adjusted market capitalization weighted index. The fund will invest at least 90% of its net assets in these stocks."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHA.png
+ipoDate,2009-11-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

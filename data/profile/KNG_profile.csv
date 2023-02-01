@@ -1,0 +1,37 @@
+,KNG
+symbol,KNG
+price,52.69
+beta,0
+volAvg,51208
+mktCap,0
+lastDiv,2.047
+range,45.18-57.02
+changes,0.88
+companyName,FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF
+currency,USD
+cik,
+isin,US33739Q7051
+cusip,33739Q705
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The fund invests at least 80% of its total assets in the common stocks and call options that comprise the index. The index is designed with the primary goal of generating an annualized level of income from stock dividends and option premiums that is approximately 3% over the annual dividend yield of the S&P 500® Index and a secondary goal of generating capital appreciation based on the price returns of the equity securities contained in the index.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/KNG.png
+ipoDate,2018-03-26
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,GNOM
+symbol,GNOM
+price,13.58
+beta,0
+volAvg,94424
+mktCap,0
+lastDiv,0.007
+range,10.48-17.02
+changes,0.22
+companyName,Global X Genomics & Biotechnology ETF
+currency,USD
+cik,
+isin,US37954Y4347
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index is designed to provide exposure to exchange-listed companies that are positioned to benefit from further advances in the field of genomic science and biotechnology, as well as applications thereof (collectively, ""Genomics & Biotechnology Companies""), as defined by Solactive AG, the provider of the underlying index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,1.2918
+dcf,15.1216
+image,https://financialmodelingprep.com/image-stock/GNOM.png
+ipoDate,2019-04-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

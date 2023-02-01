@@ -1,0 +1,37 @@
+,ACWV
+symbol,ACWV
+price,96.91
+beta,0
+volAvg,211960
+mktCap,5000555903
+lastDiv,2.074
+range,86.42-107.32
+changes,0.47
+companyName,iShares MSCI Global Min Vol Factor ETF
+currency,USD
+cik,
+isin,US4642865251
+cusip,464286525
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index measures the combined performance of equity securities in both developed and emerging markets that, in the aggregate, have lower volatility relative to the large- and mid-cap developed and emerging markets."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ACWV.png
+ipoDate,2011-10-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

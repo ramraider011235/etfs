@@ -1,0 +1,37 @@
+,ASHR
+symbol,ASHR
+price,31.21
+beta,0
+volAvg,5229168
+mktCap,2488079645
+lastDiv,0.316
+range,24.21-36.96
+changes,-0.17
+companyName,Xtrackers Harvest CSI 300 China A-Shares ETF
+currency,USD
+cik,0001503123
+isin,US2330518794
+cusip,233051879
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 80% of its total assets in securities of issuers that comprise the underlying index. The underlying index is designed to reflect the price fluctuation and performance of the China A-Share market and is composed of the 300 largest and most liquid stocks in the China A-Share market. The underlying index includes small-cap, mid-cap, and large-cap stocks."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ASHR.png
+ipoDate,2013-11-06
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

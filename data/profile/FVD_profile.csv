@@ -1,0 +1,37 @@
+,FVD
+symbol,FVD
+price,40.91
+beta,0
+volAvg,1051439
+mktCap,7762181662
+lastDiv,0.878
+range,34.97-43.32
+changes,0.52
+companyName,First Trust Value Line Dividend Index Fund
+currency,USD
+cik,
+isin,US33734H1068
+cusip,33734H106
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks and depositary receipts that comprise the index. The index seeks to measure the performance of the securities ranked #1 or #2 according to the index provider's proprietary Value Line® Safety™ Ranking System (the ""Safety Ranking System"") that are also still expected to provide above-average dividend yield."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FVD.png
+ipoDate,2003-08-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

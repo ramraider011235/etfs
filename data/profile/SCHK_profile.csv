@@ -1,0 +1,37 @@
+,SCHK
+symbol,SCHK
+price,39.39
+beta,0
+volAvg,221613
+mktCap,0
+lastDiv,0.58
+range,33.74-45.09
+changes,0.59
+companyName,Schwab 1000 Index ETF
+currency,USD
+cik,
+isin,US8085247224
+cusip,808524722
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Schwab 1000 Index is a float-adjusted market capitalization weighted index that includes the 1,000 largest stocks of publicly traded companies in the United States, with size being determined by market capitalization (total market value of all shares outstanding). It is the fund's policy that under normal circumstances it will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in stocks included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHK.png
+ipoDate,2017-10-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

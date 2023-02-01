@@ -1,0 +1,37 @@
+,GEM
+symbol,GEM
+price,30.81
+beta,0
+volAvg,244590
+mktCap,1803672180
+lastDiv,0.838
+range,25.11-37.599
+changes,-0.08
+companyName,Goldman Sachs ActiveBeta Emerging Markets Equity ETF
+currency,USD
+cik,
+isin,US3814302069
+cusip,381430206
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is designed to deliver exposure to equity securities of emerging market issuers. The fund invests at least 80% of its assets (exclusive of collateral held from securities lending) in securities included in its underlying index, in depositary receipts representing securities included in its underlying index and in underlying stocks in respect of depositary receipts included in its underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GEM.png
+ipoDate,2015-09-29
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

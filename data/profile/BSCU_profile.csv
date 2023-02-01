@@ -1,0 +1,37 @@
+,BSCU
+symbol,BSCU
+price,16.6
+beta,0
+volAvg,74832
+mktCap,202839633
+lastDiv,0.5099999999999999
+range,15.13-18.88
+changes,0.13
+companyName,Invesco BulletShares 2030 Corporate Bond ETF
+currency,USD
+cik,
+isin,US46138J4601
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in securities that comprise the underlying index. The underlying index seeks to measure the performance of a portfolio of U.S. dollar-denominated investment grade corporate bonds with maturities or, in some cases, ""effective maturities"" in the year 2030. It does not purchase all of the securities in the index; instead, the fund utilizes a ""sampling"" methodology to seek to achieve its investment objective. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BSCU.png
+ipoDate,2020-09-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,DRV
+symbol,DRV
+price,40.09
+beta,0
+volAvg,656237
+mktCap,19394580
+lastDiv,0.206
+range,29.55-84.94
+changes,-2.35
+companyName,Direxion Daily Real Estate Bear 3X Shares
+currency,USD
+cik,0001424958
+isin,US25460E1414
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse or short leveraged exposure to the index equal to at least 80% of its net assets (plus borrowing for investment purposes). The index is provided by S&P Dow Jones Indices (the “index provider”) and includes securities of companies from the following industries: real estate management and development and REITs, excluding mortgage REITs. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DRV.png
+ipoDate,2009-07-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

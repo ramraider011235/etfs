@@ -1,0 +1,37 @@
+,SCHC
+symbol,SCHC
+price,34.37
+beta,0
+volAvg,450508
+mktCap,0
+lastDiv,0.561
+range,26.67-39.53
+changes,0.27
+companyName,Schwab International Small-Cap Equity ETF
+currency,USD
+cik,
+isin,US8085248883
+cusip,808524888
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is comprised of small capitalization companies in developed countries outside the United States. The fund will invest at least 90% of its net assets in stocks, including depositary receipts representing securities of the index; such depositary receipts may be in the form of American Depositary Receipts, Global Depositary Receipts and European Depositary Receipts."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHC.png
+ipoDate,2010-01-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

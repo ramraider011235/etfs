@@ -1,0 +1,37 @@
+,CWI
+symbol,CWI
+price,26.13
+beta,0
+volAvg,990277
+mktCap,1768689347
+lastDiv,0.764
+range,20.63-29.43
+changes,0.13
+companyName,SPDR MSCI ACWI ex-US ETF
+currency,USD
+cik,
+isin,US78463X8487
+cusip,78463X848
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a free float-adjusted market capitalization index that is designed to measure the combined equity market performance of large- and mid-cap securities in developed and emerging market countries excluding the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CWI.png
+ipoDate,2007-01-10
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

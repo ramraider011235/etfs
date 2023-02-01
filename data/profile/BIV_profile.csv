@@ -1,0 +1,37 @@
+,BIV
+symbol,BIV
+price,76.84
+beta,0
+volAvg,1198600
+mktCap,11492140300
+lastDiv,1.6209999999999998
+range,71.4-85.87
+changes,0.37
+companyName,Vanguard Intermediate-Term Bond Index Fund
+currency,USD
+cik,
+isin,US9219378190
+cusip,921937819
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"This index includes all medium and larger issues of U.S. government, investment-grade corporate and investment-grade international dollar-denominated bonds that have maturities between 5 and 10 years and are publicly issued. All of the fund's investments will be selected through the sampling process, and at least 80% of its assets will be invested in bonds held in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BIV.png
+ipoDate,2007-04-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

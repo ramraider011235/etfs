@@ -1,0 +1,37 @@
+,SCHH
+symbol,SCHH
+price,21.19
+beta,0
+volAvg,2412239
+mktCap,0
+lastDiv,0.491
+range,17.34-26.14
+changes,0.42
+companyName,Schwab U.S. REIT ETF
+currency,USD
+cik,
+isin,US8085248479
+cusip,808524847
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index excludes mortgage REITs, defined as REITs that lend money directly to real estate owners and/or operators or indirectly through the purchase of mortgages or mortgage-backed securities, and hybrid REITs, defined as REITs that participate both in equity and mortgage investing. It is the fund’s policy that under normal circumstances it will invest at least 90% of its net assets in securities included in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHH.png
+ipoDate,2011-01-13
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

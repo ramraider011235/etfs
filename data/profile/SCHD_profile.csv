@@ -1,0 +1,37 @@
+,SCHD
+symbol,SCHD
+price,77.11
+beta,0
+volAvg,3406147
+mktCap,0
+lastDiv,2.5619999999999994
+range,65.96-81.01
+changes,1.06
+companyName,Schwab U.S. Dividend Equity ETF
+currency,USD
+cik,
+isin,US8085247976
+cusip,808524797
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"To pursue its goal, the fund generally invests in stocks that are included in the index. The index is designed to measure the performance of high dividend yielding stocks issued by U.S. companies that have a record of consistently paying dividends, selected for fundamental strength relative to their peers, based on financial ratios. The fund invests at least 90% of its net assets in these stocks."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHD.png
+ipoDate,2011-10-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

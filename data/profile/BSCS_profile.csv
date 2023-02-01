@@ -1,0 +1,37 @@
+,BSCS
+symbol,BSCS
+price,20.1572
+beta,0
+volAvg,205734
+mktCap,0
+lastDiv,0.5549999999999999
+range,18.8-22.18
+changes,0.1272
+companyName,Invesco BulletShares 2028 Corporate Bond ETF
+currency,USD
+cik,
+isin,US46138J6432
+cusip,46138J643
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in securities that comprise the underlying index. The underlying index seeks to measure the performance of a portfolio of U.S. dollar-denominated investment grade corporate bonds with maturities or, in some cases, ""effective maturities"" in the year 2028 (collectively, ""2028 Bonds"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BSCS.png
+ipoDate,2018-08-09
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

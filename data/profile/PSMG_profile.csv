@@ -1,0 +1,37 @@
+,PSMG
+symbol,PSMG
+price,17.12
+beta,0
+volAvg,28447
+mktCap,0
+lastDiv,0.422
+range,14.9-20.31
+changes,0.15
+companyName,Invesco Growth Multi-Asset Allocation ETF
+currency,USD
+cik,
+isin,US46090A4085
+cusip,46090A408
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund seeks to achieve its investment objective by allocating its assets using a growth investment style that seeks to maximize the benefits of diversification, which focuses on investing a greater portion of fund's assets in Equity ETFs, but also provides some exposure to Fixed Income ETFs. Specifically, the fund's target allocation is to invest approximately 65%-95% of its total assets in Equity ETFs and approximately 5%-35% of its total assets in Fixed Income ETFs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PSMG.png
+ipoDate,2017-02-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

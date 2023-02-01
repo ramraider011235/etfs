@@ -1,0 +1,37 @@
+,IYZ
+symbol,IYZ
+price,24.32
+beta,0
+volAvg,971606
+mktCap,331968000
+lastDiv,0.5730000000000001
+range,20.0-31.24
+changes,0.32
+companyName,iShares U.S. Telecommunications ETF
+currency,USD
+cik,
+isin,US4642877132
+cusip,464287713
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index measures the performance of the telecommunications sector of the U.S. equity market, as defined by FTSE Russell. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IYZ.png
+ipoDate,2000-05-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

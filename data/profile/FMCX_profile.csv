@@ -1,0 +1,37 @@
+,FMCX
+symbol,FMCX
+price,23.41
+beta,0
+volAvg,1214
+mktCap,0
+lastDiv,0.264
+range,20.27-25.37
+changes,0.2955
+companyName,FMC Excelsior Focus Equity ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively managed exchange-traded fund (“ETF”) that, during normal market conditions, seeks to invest in approximately 25-30 U.S. exchange-traded common stocks of companies that are listed on U.S. national securities exchanges and trade contemporaneously with the shares of the fund. The fund adviser may also hold concentrated positions in common stocks, although the fund’s guidelines provide that no single investment should generally be more than 10% of the fund’s portfolio at acquisition. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FMCX.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

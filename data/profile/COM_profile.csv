@@ -1,0 +1,37 @@
+,COM
+symbol,COM
+price,30.38
+beta,0
+volAvg,54936
+mktCap,42816569
+lastDiv,2.528
+range,29.1-36.0
+changes,0.21
+companyName,Direxion Auspice Broad Commodity Strategy ETF
+currency,USD
+cik,0001424958
+isin,US25460E3071
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is a rules-based index that attempts to capture upward trends in the commodity markets while minimizing risk during downtrends by tracking a portfolio of commodity futures contracts. The index uses a quantitative methodology to track a diversified portfolio of 12 different commodity futures contracts, or “components.” The fund generally will not invest directly in the 12 commodity futures contracts that comprise the index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/COM.png
+ipoDate,2017-03-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

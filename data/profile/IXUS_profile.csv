@@ -1,0 +1,37 @@
+,IXUS
+symbol,IXUS
+price,62.96
+beta,0
+volAvg,2430800
+mktCap,0
+lastDiv,1.438
+range,49.42-70.79
+changes,0.27
+companyName,iShares Core MSCI Total International Stock ETF
+currency,USD
+cik,
+isin,US46432F8344
+cusip,46432F834
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a free float-adjusted market capitalization index designed to measure the combined equity market performance of developed and emerging markets countries, excluding the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IXUS.png
+ipoDate,2012-10-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

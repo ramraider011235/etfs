@@ -1,0 +1,37 @@
+,JHSC
+symbol,JHSC
+price,33.41
+beta,0
+volAvg,25450
+mktCap,621780714
+lastDiv,0.346
+range,27.83-35.26
+changes,0.67
+companyName,John Hancock Multifactor Small Cap ETF
+currency,USD
+cik,
+isin,US47804J8421
+cusip,47804J842
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund normally invests at least 80% of its net assets (plus any borrowings for investment purposes) in securities that compose the fund's index. The index is designed to comprise a subset of securities in the U.S. Universe issued by companies whose market capitalizations are smaller than the 750th largest U.S. company but excluding the smallest 4% of U.S. companies at the time of reconstitution.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/JHSC.png
+ipoDate,2017-11-08
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

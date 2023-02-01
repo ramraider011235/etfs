@@ -1,0 +1,37 @@
+,SARK
+symbol,SARK
+price,41.93
+beta,0
+volAvg,2269090
+mktCap,0
+lastDiv,13.748
+range,41.22-81.21
+changes,-1.54
+companyName,AXS Short Innovation Daily ETF
+currency,USD
+cik,0001719812
+isin,
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund is an actively managed exchange traded fund that attempts to achieve the inverse (-1x) of the return of the ETF for a single day, not for any other period, by entering into a swap agreement on the ETF. The ARK Innovation ETF is an actively managed ETF that seeks long-term growth of capital by investing primarily in domestic and foreign equity securities of companies that are relevant to the fund’s investment theme of disruptive innovation. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SARK.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

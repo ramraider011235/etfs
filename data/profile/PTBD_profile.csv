@@ -1,0 +1,37 @@
+,PTBD
+symbol,PTBD
+price,20.835
+beta,0
+volAvg,105727
+mktCap,0
+lastDiv,1.328
+range,19.42-26.3
+changes,0.1641
+companyName,Pacer Trendpilot US Bond ETF
+currency,USD
+cik,
+isin,US69374H6421
+cusip,69374H642
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index uses an objective, rules-based methodology to implement a systematic trend-following strategy that directs exposure to one of the following positions: (i) 100% to the S&P U.S. High Yield Corporate Bond Index, (ii) 50% to the S&P U.S. High Yield Corporate Bond Index and 50% to the S&P U.S. Treasury Bond 7-10 Year Index or (iii) 100% to S&P U.S. Treasury Bond 7-10 Year Index, depending on the ""Risk Ratio"". Normally at least 80% of the fund's total assets will be invested in the component securities of the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PTBD.png
+ipoDate,2019-10-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

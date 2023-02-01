@@ -1,0 +1,37 @@
+,SHM
+symbol,SHM
+price,47.67
+beta,0
+volAvg,1182888
+mktCap,0
+lastDiv,0.347
+range,45.97-48.44
+changes,0.05
+companyName,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF
+currency,USD
+cik,
+isin,US78468R7391
+cusip,78468R739
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Sub-Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to track the publicly traded municipal bonds that cover the U.S. dollar denominated short term tax exempt bond market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SHM.png
+ipoDate,2007-10-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

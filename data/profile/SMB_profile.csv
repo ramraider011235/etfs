@@ -1,0 +1,37 @@
+,SMB
+symbol,SMB
+price,17.04
+beta,0
+volAvg,295695
+mktCap,0
+lastDiv,0.2
+range,16.49-17.6
+changes,0.02
+companyName,VanEck Short Muni ETF
+currency,USD
+cik,
+isin,US92189F5281
+cusip,92189F528
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The fund normally invests at least 80% of its total assets in fixed income securities that comprise the index. The index is comprised of publicly traded municipal bonds that cover the U.S. dollar denominated short-term tax-exempt bond market.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SMB.png
+ipoDate,2008-02-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

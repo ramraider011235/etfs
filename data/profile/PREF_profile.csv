@@ -1,0 +1,37 @@
+,PREF
+symbol,PREF
+price,18.01
+beta,0
+volAvg,265339
+mktCap,0
+lastDiv,0.7250000000000001
+range,16.52-19.82
+changes,0.045
+companyName,Principal Spectrum Preferred Securities Active ETF
+currency,USD
+cik,
+isin,US74255Y8883
+cusip,74255Y888
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal circumstances, the fund invests at least 80% of its net assets, plus any borrowings for investment purposes, in preferred securities at the time of purchase. Examples of preferred securities include preferred stock, certain depositary receipts, and various types of junior subordinated debt (such debt generally includes the contractual ability to defer payment of interest without accelerating an immediate default event). It concentrates its investments (invests more than 25% of its net assets) in securities in one or more industries within the financial services sector."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PREF.png
+ipoDate,2017-07-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

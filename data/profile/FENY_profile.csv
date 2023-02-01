@@ -1,0 +1,37 @@
+,FENY
+symbol,FENY
+price,24.54
+beta,0
+volAvg,839180
+mktCap,542460430
+lastDiv,0.795
+range,17.68-25.98
+changes,0.25
+companyName,Fidelity MSCI Energy Index ETF
+currency,USD
+cik,
+isin,US3160924029
+cusip,316092402
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of assets in securities included in the fund's underlying index. The fund's underlying index is the MSCI USA IMI Energy 25/50 Index, which represents the performance of the energy sector in the U.S. equity market. It may or may not hold all of the securities in the MSCI USA IMI Energy 25/50 Index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FENY.png
+ipoDate,2013-10-24
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

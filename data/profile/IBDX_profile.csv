@@ -1,0 +1,37 @@
+,IBDX
+symbol,IBDX
+price,25.32
+beta,0
+volAvg,34214
+mktCap,0
+lastDiv,0.488
+range,22.8-26.52
+changes,0.21
+companyName,iShares iBonds Dec 2032 Term Corporate ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest in non-U.S. issuers to the extent necessary for it to track the index. It will invest at least 80% of its assets in the component securities of the index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the index that BFA believes will help the fund track the underlying index, in each case except during the last months of the fund's operations. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDX.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

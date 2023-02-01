@@ -1,0 +1,37 @@
+,IBDS
+symbol,IBDS
+price,23.96
+beta,0
+volAvg,347472
+mktCap,0
+lastDiv,0.6030000000000001
+range,22.51-26.04
+changes,0.12
+companyName,iShares iBonds Dec 2027 Term Corporate ETF
+currency,USD
+cik,
+isin,US46435UAA97
+cusip,46435UAA9
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The index is composed of U.S. dollar-denominated, investment-grade corporate bonds maturing in 2027."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDS.png
+ipoDate,2017-09-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

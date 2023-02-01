@@ -1,0 +1,37 @@
+,IGOV
+symbol,IGOV
+price,40.59
+beta,0
+volAvg,230536
+mktCap,5001353351
+lastDiv,0.042
+range,35.47-49.35
+changes,0.26
+companyName,iShares International Treasury Bond ETF
+currency,USD
+cik,
+isin,US4642881175
+cusip,464288117
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in fixed income securities of the types included in the underlying index. The underlying index measures the performance of fixed-rate, local currency, investment-grade, sovereign bonds from certain developed markets. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IGOV.png
+ipoDate,2009-01-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

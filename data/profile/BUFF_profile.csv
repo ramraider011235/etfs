@@ -1,0 +1,37 @@
+,BUFF
+symbol,BUFF
+price,35.51
+beta,1.368085
+volAvg,33190
+mktCap,7064128265
+lastDiv,0.067
+range,32.005-36.1
+changes,0.19
+companyName,Innovator Laddered Allocation Power Buffer ETF
+currency,USD
+cik,0001609989
+isin,US45783G1022
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets (including investment borrowing) in the exchange-traded funds (""ETFs"") that comprise the index. The index is composed of the shares of twelve Innovator U.S. Equity Power Buffer ETFs. The fund, in accordance with the index, will be continuously invested in each of the underlying ETFs and will rebalance semi-annually by purchasing and selling the underlying ETFs to equally weight the underlying ETFs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,0.46879
+dcf,36.0288
+image,https://financialmodelingprep.com/image-stock/BUFF.png
+ipoDate,2015-07-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

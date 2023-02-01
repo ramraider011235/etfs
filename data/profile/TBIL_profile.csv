@@ -1,0 +1,37 @@
+,TBIL
+symbol,TBIL
+price,50.025
+beta,0
+volAvg,109598
+mktCap,0
+lastDiv,0
+range,49.765-50.04
+changes,0.01
+companyName,US Treasury 3 Month Bill ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"Under normal market conditions, the Adviser seeks to achieve the investment objective by investing at least 80% of net assets (plus any borrowings for investment purposes) in the component securities of the index. The index is comprised of a single issue purchased at the beginning of the month and held for a full month."
+ceo,
+sector,
+country,
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TBIL.png
+ipoDate,2022-08-09
+defaultImage,True
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

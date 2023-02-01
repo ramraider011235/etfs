@@ -1,0 +1,37 @@
+,XMLV
+symbol,XMLV
+price,55.83
+beta,0
+volAvg,64506
+mktCap,0
+lastDiv,1.0979999999999999
+range,47.34-57.46
+changes,1.09
+companyName,Invesco S&P MidCap Low Volatility ETF
+currency,USD
+cik,
+isin,US46138E1982
+cusip,46138E198
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices LLC compiles, maintains and calculates the index, which is designed to measure the performance of a subset of approximately 80 securities in the S&P MidCap 400 ® Index that have the lowest realized volatility over the past 12 months."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/XMLV.png
+ipoDate,2013-02-15
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

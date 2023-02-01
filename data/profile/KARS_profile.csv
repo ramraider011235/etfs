@@ -1,0 +1,37 @@
+,KARS
+symbol,KARS
+price,33.62
+beta,0
+volAvg,39719
+mktCap,0
+lastDiv,0.319
+range,27.3-43.03
+changes,0.55
+companyName,KraneShares Electric Vehicles and Future Mobility Index ETF
+currency,USD
+cik,
+isin,US5007678270
+cusip,500767827
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets (plus borrowings for investment purposes) in instruments in its underlying index or in instruments that have economic characteristics similar to those in the underlying index. The index is designed to track the equity market performance of companies engaged in the production of electric vehicles or their components or in other initiatives that may change the future of mobility, as determined by index provider."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/KARS.png
+ipoDate,2018-01-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

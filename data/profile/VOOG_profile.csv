@@ -1,0 +1,37 @@
+,VOOG
+symbol,VOOG
+price,222.85
+beta,0
+volAvg,161926
+mktCap,3755022500
+lastDiv,1.968
+range,199.36-283.64
+changes,3.29
+companyName,Vanguard S&P 500 Growth Index Fund
+currency,USD
+cik,
+isin,US9219325050
+cusip,921932505
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The advisor employs an indexing investment approach designed to track the performance of the S&P 500® Growth Index, which represents the growth companies, as determined by the index sponsor, of the S&P 500 Index. The index measures the performance of large-capitalization growth companies in the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VOOG.png
+ipoDate,2010-09-07
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

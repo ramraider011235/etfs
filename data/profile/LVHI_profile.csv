@@ -1,0 +1,37 @@
+,LVHI
+symbol,LVHI
+price,26.86
+beta,0
+volAvg,124301
+mktCap,0
+lastDiv,1.9769999999999999
+range,23.58-28.02
+changes,0.1
+companyName,Franklin International Low Volatility High Dividend Index ETF
+currency,USD
+cik,
+isin,US52468L5057
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its net assets, plus borrowings for investment purposes, if any, in securities that compose its underlying index. The underlying index seeks to provide more stable income through investments in stocks of profitable companies in developed markets outside of the United States with relatively high dividend yields or anticipated dividend yields and lower price and earnings volatility, while mitigating exposure to exchange-rate fluctuations between the USD and other international currencies."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/LVHI.png
+ipoDate,2016-07-27
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

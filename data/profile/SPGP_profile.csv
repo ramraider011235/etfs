@@ -1,0 +1,37 @@
+,SPGP
+symbol,SPGP
+price,89.78
+beta,0
+volAvg,271357
+mktCap,0
+lastDiv,1.006
+range,73.71-93.41
+changes,1.7
+companyName,Invesco S&P 500 GARP ETF
+currency,USD
+cik,
+isin,US46137V4317
+cusip,46137V431
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is designed to track the performance of approximately 75 growth stocks in the S&P 500® Index with relatively high quality and value composite scores."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPGP.png
+ipoDate,2011-06-16
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VTWV
+symbol,VTWV
+price,133.5
+beta,0
+volAvg,27847
+mktCap,0
+lastDiv,2.517
+range,112.44-145.7
+changes,3.34
+companyName,Vanguard Russell 2000 Value Index Fund
+currency,USD
+cik,
+isin,US92206C6497
+cusip,92206C649
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the Russell 2000® Value Index. The index is designed to measure the performance of small-capitalization value stocks in the United States. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VTWV.png
+ipoDate,2010-09-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

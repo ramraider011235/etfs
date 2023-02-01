@@ -1,0 +1,37 @@
+,SCHE
+symbol,SCHE
+price,25.67
+beta,0
+volAvg,2681913
+mktCap,0
+lastDiv,0.6799999999999999
+range,21.36-30.71
+changes,-0.04
+companyName,Schwab Emerging Markets Equity ETF
+currency,USD
+cik,
+isin,US8085247067
+cusip,808524706
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests in stocks that are included in the FTSE Emerging Index. The index is comprised of large and mid capitalization companies in emerging market countries, as defined by the index provider. The fund will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in these stocks, including depositary receipts representing securities of the index; such depositary receipts may be in the form of ADRs, GDRs and EDRs."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SCHE.png
+ipoDate,2010-01-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

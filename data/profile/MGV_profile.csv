@@ -1,0 +1,37 @@
+,MGV
+symbol,MGV
+price,104.64
+beta,0
+volAvg,247331
+mktCap,0
+lastDiv,2.523
+range,89.38-109.92
+changes,1.27
+companyName,Vanguard Mega Cap Value Index Fund
+currency,USD
+cik,0000052848
+isin,US9219108407
+cusip,921910840
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Mega Cap Value Index. The index is a float-adjusted, market-capitalization-weighted index designed to measure equity market performance of mega-capitalization value stocks in the United States. The Advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MGV.png
+ipoDate,2007-12-17
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

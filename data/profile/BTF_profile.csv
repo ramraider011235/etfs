@@ -1,0 +1,37 @@
+,BTF
+symbol,BTF
+price,9.185
+beta,0
+volAvg,227250
+mktCap,0
+lastDiv,0
+range,5.97-18.78
+changes,0.165
+companyName,Valkyrie Bitcoin Strategy ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund is an actively-managed ETF that seeks to achieve its investment objective by investing all or substantially all of its assets in exchange-traded futures contracts on bitcoin and “Collateral Investments”. Under normal circumstances, it will seek to purchase a number of bitcoin futures contracts so that the total notional value (i.e., the total value of the bitcoin underlying the futures contracts) of the bitcoin underlying the futures contracts held by the fund is as close to 100% of the net assets of the fund as possible. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,1125 Sanctuary Parkway
+city,Alpharetta
+state,GA
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BTF.png
+ipoDate,2021-10-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

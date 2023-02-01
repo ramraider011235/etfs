@@ -1,0 +1,37 @@
+,AMLP
+symbol,AMLP
+price,40.39
+beta,0
+volAvg,1731931
+mktCap,9177401785
+lastDiv,2.9299999999999997
+range,32.25-42.47
+changes,0.29
+companyName,Alerian MLP ETF
+currency,USD
+cik,0001414040
+isin,US00162Q4525
+cusip,00162Q866
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund will normally invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is comprised of energy infrastructure MLPs that earn a majority of their cash flow from the transportation, storage and processing of energy commodities. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/AMLP.png
+ipoDate,2010-08-25
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

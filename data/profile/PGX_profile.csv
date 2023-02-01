@@ -1,0 +1,37 @@
+,PGX
+symbol,PGX
+price,12.65
+beta,0
+volAvg,6608860
+mktCap,0
+lastDiv,0.7080000000000002
+range,11.01-14.39
+changes,0.11
+companyName,Invesco Preferred ETF
+currency,USD
+cik,
+isin,US46138E5116
+cusip,46138E511
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in the components of the index. Strictly in accordance with its guidelines and mandated procedures, ICE Data Indices, LLC selects securities for the index, which is a market capitalization-weighted index designed to measure the total return performance of the fixed rate U.S. dollar-denominated preferred securities market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PGX.png
+ipoDate,2008-01-31
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

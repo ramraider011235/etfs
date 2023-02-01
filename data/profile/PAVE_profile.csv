@@ -1,0 +1,37 @@
+,PAVE
+symbol,PAVE
+price,28.94
+beta,0
+volAvg,569985
+mktCap,0
+lastDiv,0.22199999999999998
+range,22.145-28.967
+changes,0.65
+companyName,Global X U.S. Infrastructure Development ETF
+currency,USD
+cik,
+isin,US37954Y6730
+cusip,37954Y673
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index is designed to measure the performance of U.S. listed companies that provide exposure to domestic infrastructure development, including companies involved in construction and engineering; production of infrastructure raw materials, composites and products; industrial transportation; and producers/distributors of heavy construction equipment."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PAVE.png
+ipoDate,2017-03-06
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

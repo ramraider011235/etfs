@@ -1,0 +1,37 @@
+,RYLD
+symbol,RYLD
+price,19.33
+beta,0
+volAvg,727319
+mktCap,0
+lastDiv,2.3252000000000006
+range,18.245-24.1
+changes,0.12
+companyName,Global X Russell 2000 Covered Call ETF
+currency,USD
+cik,
+isin,US37954Y4594
+cusip,37954Y459
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in component securities of the index or in investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index measures the performance of a theoretical portfolio that holds a portfolio of the stocks included in the Russell 2000 Index, and ""writes"" a succession of one-month at-the-money covered call options on the Russell 2000 Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/RYLD.png
+ipoDate,2019-04-22
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

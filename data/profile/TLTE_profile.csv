@@ -1,0 +1,37 @@
+,TLTE
+symbol,TLTE
+price,50.99
+beta,0
+volAvg,26003
+mktCap,0
+lastDiv,2.0680000000000005
+range,41.22-60.62
+changes,0.17
+companyName,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund
+currency,USD
+cik,
+isin,US33939L3087
+cusip,33939L308
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is designed to reflect the performance of a selection of companies that, in aggregate, possess greater exposure to size and value factors relative to the Morningstar Emerging Markets Index, a float-adjusted market-capitalization weighted index of companies incorporated in emerging-market countries. The fund will invest at least 80% of its total assets in the securities of the index and in ADRs and GDRs based on the securities in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TLTE.png
+ipoDate,2012-09-28
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

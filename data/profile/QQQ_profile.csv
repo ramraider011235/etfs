@@ -1,0 +1,37 @@
+,QQQ
+symbol,QQQ
+price,294.62
+beta,0
+volAvg,51922995
+mktCap,115815124357
+lastDiv,2.1350000000000002
+range,254.26-371.83
+changes,4.35
+companyName,Invesco QQQ Trust
+currency,USD
+cik,0001067839
+isin,US46090E1038
+cusip,46090E103
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"To maintain the correspondence between the composition and weights of the securities in the trust (the ""securities"") and the stocks in the NASDAQ-100 Index®, the adviser adjusts the securities from time to time to conform to periodic changes in the identity and/or relative weights of index securities. The composition and weighting of the securities portion of a portfolio deposit are also adjusted to conform to changes in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QQQ.png
+ipoDate,1999-10-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

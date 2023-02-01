@@ -1,0 +1,37 @@
+,IBMP
+symbol,IBMP
+price,25.59
+beta,0
+volAvg,92385
+mktCap,0
+lastDiv,0.27999999999999997
+range,24.275-26.34
+changes,0.01
+companyName,iShares iBonds Dec 2027 Term Muni Bond ETF
+currency,USD
+cik,
+isin,US46435U2832
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The index measures the performance of investment-grade (as determined by S&P Dow Jones Indices LLC), tax-exempt, U.S. municipal bonds, reducing callable bonds before 2027, and only including non-callable bonds maturing in 2027. The fund will invest at least 80% of its assets in the component securities of the underlying index, and will invest at least 90% of its assets in fixed income securities of the types included in the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBMP.png
+ipoDate,2019-04-09
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

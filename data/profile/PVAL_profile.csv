@@ -1,0 +1,37 @@
+,PVAL
+symbol,PVAL
+price,28.43
+beta,0
+volAvg,28365
+mktCap,0
+lastDiv,0
+range,23.56-30.25
+changes,0.44
+companyName,Putnam Focused Large Cap Value ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests mainly in common stocks of U.S. companies, with a focus on value stocks that offer the potential for capital growth, current income, or both. Under normal circumstances, the fund invests at least 80% of the fund’s net assets in large-cap companies, which, for purposes of this policy, are of a size similar to those in the Russell 1000 Value Index. The fund may also invest in midsize companies. It is non-diversified."
+ceo,
+sector,
+country,
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PVAL.png
+ipoDate,2021-05-26
+defaultImage,True
+isEtf,True
+isActivelyTrading,False
+isAdr,False
+isFund,False

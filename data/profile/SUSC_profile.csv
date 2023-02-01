@@ -1,0 +1,37 @@
+,SUSC
+symbol,SUSC
+price,23.2767
+beta,0
+volAvg,603757
+mktCap,0
+lastDiv,0.6010000000000001
+range,21.03-26.54
+changes,0.1267
+companyName,iShares ESG USD Corporate Bond ETF
+currency,USD
+cik,
+isin,US46435G1931
+cusip,46435G193
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index, but which BFA believes will help it track the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SUSC.png
+ipoDate,2017-07-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

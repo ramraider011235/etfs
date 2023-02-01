@@ -1,0 +1,37 @@
+,SPXL
+symbol,SPXL
+price,73.45
+beta,0
+volAvg,13979063
+mktCap,0
+lastDiv,0.202
+range,48.97-128.3
+changes,3.03
+companyName,Direxion Daily S&P500 Bull 3X Shares
+currency,USD
+cik,0001424958
+isin,US25459W8626
+cusip,25459W862
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund, under normal circumstances, invests at least 80% of its net assets (plus borrowing for investment purposes) in financial instruments, such as swap agreements, securities of the index, and exchange-traded funds (""ETFs"") that track the index and other financial instruments that provide daily leveraged exposure to the index or ETFs that track the index. The index is a float-adjusted, market capitalization-weighted index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPXL.png
+ipoDate,2008-11-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

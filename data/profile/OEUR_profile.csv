@@ -1,0 +1,37 @@
+,OEUR
+symbol,OEUR
+price,25.74
+beta,0
+volAvg,5950
+mktCap,0
+lastDiv,0.504
+range,19.42-27.75
+changes,0.2089
+companyName,ALPS O'Shares Europe Quality Dividend ETF Shares
+currency,USD
+cik,
+isin,US67110P5061
+cusip,756109104
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The underlying index is designed to measure the performance of publicly-listed large-capitalization and mid-capitalization dividend-paying issuers in Europe that meet certain market capitalization, liquidity, high quality, low volatility and dividend yield thresholds, as determined by O'Shares Investment Advisers, LLC (the ""index provider""). Under normal market conditions, the fund will invest at least 80% of its total assets in the components of the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/OEUR.png
+ipoDate,2015-08-19
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VSS
+symbol,VSS
+price,111.82
+beta,0
+volAvg,318257
+mktCap,0
+lastDiv,2.363
+range,89.03-129.67
+changes,1.16
+companyName,Vanguard FTSE All-World ex-US Small Capital Index Fund
+currency,USD
+cik,
+isin,US9220427184
+cusip,922042718
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the FTSE Global Small Cap ex US Index. The advisor attempts to sample the target index by investing all, or substantially all, of its assets in common stocks in the index and by holding a representative sample of securities that resembles the full index in terms of key risk factors and other characteristics."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VSS.png
+ipoDate,2009-04-02
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

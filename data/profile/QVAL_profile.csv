@@ -1,0 +1,37 @@
+,QVAL
+symbol,QVAL
+price,35.28
+beta,0
+volAvg,34550
+mktCap,0
+lastDiv,0.6420000000000001
+range,27.86-38.53
+changes,0.6902
+companyName,Alpha Architect U.S. Quantitative Value ETF
+currency,USD
+cik,0001592900
+isin,US02072L1026
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The Adviser employs a multi-step, quantitative, rules-based methodology to identify a portfolio of approximately 50 to 100 undervalued U.S. equity securities with the potential for capital appreciation. A security is considered to be undervalued when it trades at a price below the price at which the Adviser believes it would trade if the market reflected all factors relating to the company’s worth. The fund may also invest up to 20% of its assets in cash and cash equivalents, other investment companies, as well as securities and other instruments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QVAL.png
+ipoDate,2014-10-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

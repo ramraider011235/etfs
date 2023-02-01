@@ -1,0 +1,37 @@
+,CATH
+symbol,CATH
+price,49.66
+beta,0
+volAvg,50793
+mktCap,250931086
+lastDiv,0.622
+range,42.55-57.04
+changes,0.74
+companyName,Global X S&P 500 Catholic Values ETF
+currency,USD
+cik,
+isin,US37954Y8892
+cusip,37954Y889
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index is based on the S&P 500® Index, and generally comprises approximately 500 or less U.S. listed common stocks. From this starting universe, constituents are screened to exclude companies involved in activities which are perceived to be inconsistent with Catholic values as outlined in the Socially Responsible Investment Guidelines of the United States Conference of Catholic Bishops."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CATH.png
+ipoDate,2016-04-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

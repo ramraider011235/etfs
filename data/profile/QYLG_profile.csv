@@ -1,0 +1,37 @@
+,QYLG
+symbol,QYLG
+price,24.05
+beta,0
+volAvg,20381
+mktCap,0
+lastDiv,1.4979999999999998
+range,21.055-30.095
+changes,0.24
+companyName,Global X Nasdaq 100 Covered Call & Growth ETF
+currency,USD
+cik,
+isin,US37954Y2697
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of the underlying index. The underlying index measures the performance of a theoretical portfolio that holds a portfolio of the stocks included in the NASDAQ 100® Index (the ""reference index""), and ""writes"" (or sells) a succession of one-month at-the-money covered call options on the reference index. It generally will use a replication strategy. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QYLG.png
+ipoDate,2020-09-21
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

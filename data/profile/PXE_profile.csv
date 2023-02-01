@@ -1,0 +1,37 @@
+,PXE
+symbol,PXE
+price,30.49
+beta,0
+volAvg,142696
+mktCap,60980000
+lastDiv,0.898
+range,22.2-36.69
+changes,0.31
+companyName,Invesco Dynamic Energy Exploration & Production ETF
+currency,USD
+cik,
+isin,US46137V7617
+cusip,46137V761
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 90% of its total assets in the securities that comprise the underlying intellidex. The intellidex was composed of common stocks of U.S. companies involved in the exploration and production of natural resources used to produce energy. These companies are engaged principally in exploration, extraction and production of crude oil and natural gas from land-based or offshore wells. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PXE.png
+ipoDate,2005-10-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

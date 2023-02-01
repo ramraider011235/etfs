@@ -1,0 +1,37 @@
+,IGHG
+symbol,IGHG
+price,72.92
+beta,0
+volAvg,45185
+mktCap,377470672
+lastDiv,2.2640000000000002
+range,66.81-73.67
+changes,0.28
+companyName,ProShares Investment Grade—Interest Rate Hedged
+currency,USD
+cik,
+isin,US74347B6074
+cusip,74347B607
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The index is comprised of (a) long positions in USD-denominated investment grade corporate bonds issued by both U.S. and foreign domiciled companies; and (b) short positions in U.S. Treasury notes or bonds (""Treasury Securities"") of, in aggregate, approximate equivalent duration to the investment grade bonds. The fund will invest at least 80% of its total assets in component securities (i.e., securities of the index) and invest at least 80% of its total assets in investment grade bonds."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IGHG.png
+ipoDate,2013-11-05
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

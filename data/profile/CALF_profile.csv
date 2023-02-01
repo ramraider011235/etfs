@@ -1,0 +1,37 @@
+,CALF
+symbol,CALF
+price,39.73
+beta,0
+volAvg,418206
+mktCap,50038028
+lastDiv,0.305
+range,31.93-42.65
+changes,1.01
+companyName,Pacer US Small Cap Cash Cows 100 ETF
+currency,USD
+cik,
+isin,US69374H8575
+cusip,69374H857
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in the component securities of the index. The index uses an objective, rules-based methodology to provide exposure to small-capitalization U.S. companies with high free cash flow yields."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CALF.png
+ipoDate,2017-06-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

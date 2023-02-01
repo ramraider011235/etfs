@@ -1,0 +1,37 @@
+,LRGF
+symbol,LRGF
+price,41.51
+beta,0
+volAvg,197106
+mktCap,0
+lastDiv,0.6940000000000001
+range,35.46-45.578
+changes,0.68
+companyName,iShares U.S. Equity Factor ETF
+currency,USD
+cik,
+isin,US46434V2824
+cusip,46434V282
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is composed of large- and mid-capitalization equity securities from the STOXX USA 900 index that are selected and weighted using an optimization process designed to maximize exposure to five target factors: momentum, quality, value, low volatility and size."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/LRGF.png
+ipoDate,2015-04-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

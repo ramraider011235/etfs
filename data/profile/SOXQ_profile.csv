@@ -1,0 +1,37 @@
+,SOXQ
+symbol,SOXQ
+price,23.04
+beta,0
+volAvg,77040
+mktCap,0
+lastDiv,0.271
+range,16.45-28.89
+changes,0.48
+companyName,Invesco PHLX Semiconductor ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, Nasdaq compiles the underlying index, which is a modified market-capitalization weighted index designed to measure the performance of the 30 largest companies listed in the United States that are engaged in the semiconductor business, as determined by the index Provider. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SOXQ.png
+ipoDate,2021-06-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

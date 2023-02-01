@@ -1,0 +1,37 @@
+,COMB
+symbol,COMB
+price,22.38
+beta,0
+volAvg,110783
+mktCap,60551708
+lastDiv,6.938
+range,21.36-35.66
+changes,0.23
+companyName,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF
+currency,USD
+cik,
+isin,US38747R1086
+cusip,38747R108
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively managed ETF that seeks to provide long-term capital appreciation, primarily through exposure to commodity futures markets. While the fund generally will seek exposure to the commodity futures markets included in the COMB Benchmark, it is not an index tracking ETF and will seek to enhance its performance, in part through a cash management strategy consisting of investments in investment grade fixed income securities. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/COMB.png
+ipoDate,2017-05-22
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

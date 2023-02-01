@@ -1,0 +1,37 @@
+,VXX
+symbol,VXX
+price,11.32
+beta,0
+volAvg,6450342
+mktCap,0
+lastDiv,0
+range,11.06-41.65
+changes,-0.26
+companyName,iPath Series B S&P 500 VIX Short-Term Futures ETN
+currency,USD
+cik,0000312070
+isin,US06746P6218
+cusip,06746L422
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,The ETN offers exposure to futures contracts of specified maturities on the VIX index and not direct exposure to the VIX index or its spot level. The index is designed to provide investors with exposure to one or more maturities of futures contracts on the CBOE Volatility Index®.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,212-528-7790
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VXX.png
+ipoDate,2009-03-02
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

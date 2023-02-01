@@ -1,0 +1,37 @@
+,QYLD
+symbol,QYLD
+price,16.88
+beta,0
+volAvg,3575859
+mktCap,0
+lastDiv,2.1550000000000002
+range,15.0-21.09
+changes,0.07
+companyName,Global X NASDAQ 100 Covered Call ETF
+currency,USD
+cik,
+isin,US37954Y4834
+cusip,37954Y483
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will invest at least 80% of its total assets in the securities of the underlying index. The CBOE NASDAQ-100® BuyWrite Index is a benchmark index that measures the performance of a theoretical portfolio that holds a portfolio of the stocks included in the NASDAQ-100® Index, and ""writes"" (or sells) a succession of one-month at-the-money NASDAQ-100® Index covered call options. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QYLD.png
+ipoDate,2013-12-12
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

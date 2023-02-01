@@ -1,0 +1,37 @@
+,VO
+symbol,VO
+price,220.02
+beta,0
+volAvg,676614
+mktCap,33877136820
+lastDiv,3.266
+range,182.88-243.97
+changes,3.74
+companyName,Vanguard Mid Cap Index Fund
+currency,USD
+cik,0000036405
+isin,US9229086296
+cusip,922908629
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Mid Cap Index, a broadly diversified index of stocks of mid-size U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VO.png
+ipoDate,2004-01-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

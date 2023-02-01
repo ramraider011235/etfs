@@ -1,0 +1,37 @@
+,IEUR
+symbol,IEUR
+price,51.98
+beta,0
+volAvg,904313
+mktCap,3441152151
+lastDiv,1.451
+range,38.54-57.46
+changes,0.32
+companyName,iShares Core MSCI Europe ETF
+currency,USD
+cik,
+isin,US46434V7385
+cusip,46434V738
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a free float-adjusted market capitalization-weighted index which consists of securities from the following 15 developed market countries or regions: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IEUR.png
+ipoDate,2014-06-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,ICVT
+symbol,ICVT
+price,73.71
+beta,0
+volAvg,439881
+mktCap,0
+lastDiv,1.0509999999999997
+range,67.76-86.19
+changes,0.52
+companyName,iShares Convertible Bond ETF
+currency,USD
+cik,
+isin,US46435G1022
+cusip,46435G102
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its assets in the component securities of the underlying index, and it will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that BFA believes will help the fund track the underlying index. The underlying index is a subset of the Bloomberg U.S. Convertibles: Cash Pay Bonds Index, which measures the performance of the U.S. dollar-denominated convertibles market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ICVT.png
+ipoDate,2015-06-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

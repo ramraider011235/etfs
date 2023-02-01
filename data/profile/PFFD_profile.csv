@@ -1,0 +1,37 @@
+,PFFD
+symbol,PFFD
+price,21.62
+beta,0
+volAvg,1036311
+mktCap,0
+lastDiv,1.179
+range,19.0-24.731
+changes,0.1
+companyName,Global X U.S. Preferred ETF
+currency,USD
+cik,
+isin,US37954Y6573
+cusip,37954Y657
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets in the securities of its underlying index. It also invests at least 80% of its total assets in preferred securities that are domiciled in, principally traded in or whose revenues are primarily from the U.S. The underlying index is designed to track the broad-based performance of the U.S. preferred securities market."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/PFFD.png
+ipoDate,2017-09-11
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

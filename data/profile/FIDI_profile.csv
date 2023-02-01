@@ -1,0 +1,37 @@
+,FIDI
+symbol,FIDI
+price,20.07
+beta,0
+volAvg,18460
+mktCap,30017113
+lastDiv,0.5840000000000001
+range,15.5-22.44
+changes,0.1
+companyName,Fidelity International High Dividend ETF
+currency,USD
+cik,
+isin,US3160927253
+cusip,316092725
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,The fund normally invests at least 80% of assets in securities included in the Fidelity ® International High Dividend Index and in depositary receipts representing securities included in the index. The index is designed to reflect the performance of stocks of large- and mid-capitalization developed international high dividend-paying companies that are expected to continue to pay and grow their dividends.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FIDI.png
+ipoDate,2018-01-16
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

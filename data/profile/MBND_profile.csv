@@ -1,0 +1,37 @@
+,MBND
+symbol,MBND
+price,27.36
+beta,0
+volAvg,6481
+mktCap,0
+lastDiv,0.3790000000000001
+range,25.77-28.94
+changes,0.015
+companyName,SPDR Nuveen Municipal Bond ETF
+currency,USD
+cik,
+isin,US78470P7050
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Normally, the fund invests at least 80% of its net assets in municipal bonds that pay income that is exempt from regular federal income tax. Its investment portfolio will consist primarily of municipal bonds rated A3/A-/A- or higher by an independent rating agency; however the fund may invest in municipal bonds of any credit quality, including up to 20% of its net assets in low- to medium-quality bonds rated Baa1/BBB+/BBB+ or lower. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/MBND.png
+ipoDate,2021-02-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

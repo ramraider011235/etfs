@@ -1,0 +1,37 @@
+,BCD
+symbol,BCD
+price,34.74
+beta,0
+volAvg,86262
+mktCap,3770958
+lastDiv,1.801
+range,33.06-42.61
+changes,0.52
+companyName,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
+currency,USD
+cik,0001597934
+isin,US0032612030
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index is a three-month forward version of the Bloomberg Commodity Index Total ReturnSM (“BCOMTR”), which reflects the return on a fully collateralized investment in the Bloomberg Commodity IndexSM (“BCOM”). The fund invests in exchange-traded commodity futures contracts through a wholly-owned subsidiary of the fund organized under the laws of the Cayman Islands (the “Subsidiary”). It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BCD.png
+ipoDate,2017-03-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

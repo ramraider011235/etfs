@@ -1,0 +1,37 @@
+,SPMO
+symbol,SPMO
+price,56.52
+beta,0
+volAvg,69231
+mktCap,0
+lastDiv,0.945
+range,49.92-62.74
+changes,0.7647
+companyName,Invesco S&P 500 Momentum ETF
+currency,USD
+cik,
+isin,US46138E3392
+cusip,46138E339
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is designed to measure the performance of approximately 100 stocks in the S&P 500® Index that have the highest ""momentum score."" In general, momentum is the tendency of an investment to exhibit persistence in its relative performance; a ""momentum style"" of investing emphasizes investing in securities that have had better recent performance compared to other securities. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/SPMO.png
+ipoDate,2015-10-09
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,BILS
+symbol,BILS
+price,99.57
+beta,0
+volAvg,163255
+mktCap,0
+lastDiv,1.2910000000000001
+range,99.1-99.93
+changes,-0.01
+companyName,SPDR Bloomberg 3-12 Month T-Bill ETF
+currency,USD
+cik,
+isin,US78468R5239
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"In seeking to track the performance of the index, the fund employs a sampling strategy, which means that the fund is not required to purchase all of the securities represented in the index. The index is designed to measure the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to 3 months and less than 12 months."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BILS.png
+ipoDate,2020-09-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VOTE
+symbol,VOTE
+price,47.13
+beta,0
+volAvg,35704
+mktCap,0
+lastDiv,0.68
+range,40.46-54.12
+changes,0.6755
+companyName,Engine No. 1 Transform 500 ETF
+currency,USD
+cik,0001831313
+isin,
+cusip,
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest, under normal circumstances, at least 80% of the value of its net assets, plus the amount of any borrowings for investment purposes, in component securities of the underlying index or in depositary receipts representing component securities in the underlying index. The underlying index targets the largest 500 U.S. stocks by market capitalization and weights them by float-adjusted market capitalization."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VOTE.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,KCE
+symbol,KCE
+price,89.34
+beta,0
+volAvg,10711
+mktCap,62538000
+lastDiv,1.905
+range,69.7-99.46
+changes,1.4798
+companyName,SPDR S&P Capital Markets ETF
+currency,USD
+cik,
+isin,US78464A7717
+cusip,78464A771
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the capital markets segment of the S&P Total Market Index (""S&P TMI"") and tracks the performance of publicly traded companies that do business as broker-dealers, asset managers, trust and custody banks or exchanges."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/KCE.png
+ipoDate,2005-11-08
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

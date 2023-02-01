@@ -1,0 +1,37 @@
+,QUAL
+symbol,QUAL
+price,122.11
+beta,0
+volAvg,1022639
+mktCap,14726466000
+lastDiv,1.815
+range,101.6-138.29
+changes,2
+companyName,iShares MSCI USA Quality Factor ETF
+currency,USD
+cik,
+isin,US46432F3394
+cusip,46432F339
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund generally will invest at least 90% of its assets in the component securities of the underlying index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The index is based on a traditional market capitalization-weighted parent index, the MSCI USA Index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/QUAL.png
+ipoDate,2013-07-18
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

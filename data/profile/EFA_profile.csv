@@ -1,0 +1,37 @@
+,EFA
+symbol,EFA
+price,71.55
+beta,0
+volAvg,22374626
+mktCap,67142519928
+lastDiv,1.766
+range,54.61-77.9
+changes,0.41
+companyName,iShares MSCI EAFE ETF
+currency,USD
+cik,
+isin,US4642874659
+cusip,464287465
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a free float-adjusted, market capitalization-weighted index designed to measure large- and mid-capitalization equity market performance of developed markets outside of the U.S. and Canada."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EFA.png
+ipoDate,2001-08-14
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

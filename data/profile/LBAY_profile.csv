@@ -1,0 +1,37 @@
+,LBAY
+symbol,LBAY
+price,29.47
+beta,0
+volAvg,45698
+mktCap,0
+lastDiv,0.8149999999999997
+range,25.281-30.18
+changes,0.3188
+companyName,Leatherback Long/Short Alternative Yield ETF
+currency,USD
+cik,
+isin,US8863648502
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is an actively-managed ETF that seeks to achieve its investment objective by purchasing long positions in securities believed to provide sustainable shareholder yield (defined as dividends plus buybacks plus debt paydowns) and taking short positions in securities expected to decline in price. It will generally have net exposure of 75% - 110% long. The fund's long positions are generally expected to be comprised of equity securities or depositary receipts, although long positions may also include investment-grade corporate bonds and convertible bonds. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/LBAY.png
+ipoDate,2020-11-17
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

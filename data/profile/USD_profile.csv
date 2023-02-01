@@ -1,0 +1,37 @@
+,USD
+symbol,USD
+price,21.87
+beta,0
+volAvg,177616
+mktCap,0
+lastDiv,0.049
+range,11.65-44.8
+changes,0.8
+companyName,ProShares Ultra Semiconductors
+currency,USD
+cik,
+isin,US74347R6696
+cusip,74347R669
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is designed to measure the stock performance of U.S. companies in the semiconductors sub-sector. Component companies are engaged in the production and distribution of semiconductors and other integrated chips, as well as other related products such as semiconductor capital equipment and mother-boards. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/USD.png
+ipoDate,2007-01-30
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

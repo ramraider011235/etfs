@@ -1,0 +1,37 @@
+,FM
+symbol,FM
+price,26.34
+beta,0
+volAvg,509775
+mktCap,454364974
+lastDiv,0.6869999999999999
+range,23.21-34.81
+changes,0.09
+companyName,iShares MSCI Frontier and Select EM ETF
+currency,USD
+cik,
+isin,US4642861458
+cusip,464286145
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index aims to reflect the performance of frontier markets and the lower size spectrum of emerging markets, while putting a stronger emphasis on tradability and investability of the constituents compared to the parent index. The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FM.png
+ipoDate,2012-09-12
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

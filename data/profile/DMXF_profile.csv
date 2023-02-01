@@ -1,0 +1,37 @@
+,DMXF
+symbol,DMXF
+price,59.38
+beta,0
+volAvg,33554
+mktCap,0
+lastDiv,1.287
+range,44.82-66.11
+changes,0.13
+companyName,iShares ESG Advanced MSCI EAFE Index ETF
+currency,USD
+cik,
+isin,US46436E7590
+cusip,
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The index is a free float-adjusted market capitalization-weighted index designed to reflect the equity performance of large- and mid-capitalization developed market companies, excluding the U.S. and Canada, with favorable ESG ratings while applying extensive screens, including removing fossil fuel exposure. The fund generally will invest at least 90% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DMXF.png
+ipoDate,2020-06-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

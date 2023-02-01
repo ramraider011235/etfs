@@ -1,0 +1,37 @@
+,TOK
+symbol,TOK
+price,86.97
+beta,0
+volAvg,8670
+mktCap,0
+lastDiv,2.865
+range,74.0-98.82
+changes,0.9839
+companyName,iShares MSCI Kokusai ETF
+currency,USD
+cik,
+isin,US4642882652
+cusip,464288265
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index is designed to measure equity market performance in those countries that MSCI Inc. (the ""index provider"" or ""MSCI"") has classified as having developed economies, excluding Japan (""DEEJ"")."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/TOK.png
+ipoDate,2007-12-10
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

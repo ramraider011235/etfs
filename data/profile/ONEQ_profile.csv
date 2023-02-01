@@ -1,0 +1,37 @@
+,ONEQ
+symbol,ONEQ
+price,45.38
+beta,0
+volAvg,379304
+mktCap,299508000
+lastDiv,0.399
+range,39.52-57.16
+changes,0.72
+companyName,Fidelity Nasdaq Composite Index ETF
+currency,USD
+cik,0000205323
+isin,US3159128087
+cusip,315912808
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund normally invests at least 80% of assets in common stocks included in the index. The advisor uses statistical sampling techniques that take into account such factors as capitalization, industry exposures, dividend yield, price/earnings (P/E) ratio, price/book (P/B) ratio, and earnings growth to create a portfolio of securities listed in the Nasdaq Composite Index® that have a similar investment profile to the entire index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/ONEQ.png
+ipoDate,2003-09-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

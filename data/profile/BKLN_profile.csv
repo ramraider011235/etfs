@@ -1,0 +1,37 @@
+,BKLN
+symbol,BKLN
+price,21.11
+beta,0
+volAvg,8543360
+mktCap,5155506049
+lastDiv,1.0779999999999998
+range,20.06-22.06
+changes,0.1
+companyName,Invesco Senior Loan ETF
+currency,USD
+cik,
+isin,US46138G5080
+cusip,46138G508
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its total assets in the components of the index. Strictly in accordance with its guidelines and mandated procedures Morningstar, Inc. (“Morningstar” or the “index provider”) compiles, maintains and calculates the underlying index, which tracks the market value weighted performance of the largest institutional leveraged loans based on market weightings, spreads and interest payments."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BKLN.png
+ipoDate,2011-03-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,VV
+symbol,VV
+price,185.47
+beta,0
+volAvg,356319
+mktCap,19970110568
+lastDiv,2.892
+range,159.02-213.09
+changes,2.79
+companyName,Vanguard Large Cap Index Fund
+currency,USD
+cik,0000036405
+isin,US9229086379
+cusip,922908637
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Large Cap Index, a broadly diversified index of large U.S. companies representing approximately the top 85% of the U.S. market capitalization. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VV.png
+ipoDate,2004-01-27
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

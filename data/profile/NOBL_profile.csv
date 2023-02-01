@@ -1,0 +1,37 @@
+,NOBL
+symbol,NOBL
+price,92.9
+beta,0
+volAvg,479870
+mktCap,0
+lastDiv,1.7429999999999999
+range,79.09-98.66
+changes,1.63
+companyName,ProShares S&P 500 Dividend Aristocrats ETF
+currency,USD
+cik,
+isin,US74348A4673
+cusip,74348A467
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"The fund will invest at least 80% of its total assets in component securities of the index. The index contains a minimum of 40 stocks, which are equally weighted, and no single sector is allowed to comprise more than 30% of the index weight. It seeks to remain fully invested at all times in securities and/or financial instruments that, in combination, provide exposure to the returns of the index without regard to market conditions, trends or direction."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/NOBL.png
+ipoDate,2013-10-09
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

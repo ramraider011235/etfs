@@ -1,0 +1,37 @@
+,BUZZ
+symbol,BUZZ
+price,14.4
+beta,0
+volAvg,14436
+mktCap,7772478926
+lastDiv,0.049
+range,11.7-20.62
+changes,0.27
+companyName,VanEck Social Sentiment ETF
+currency,USD
+cik,
+isin,US92189H8390
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index is comprised of common stocks of U.S. companies selected by a rules-based quantitative methodology developed by the index Provider, which is designed to identify the U.S. common stocks with the most ""positive insights"" collected from online sources including social media, news articles, blog posts and other alternative datasets. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,666 Third Avenue
+city,New York
+state,NY
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BUZZ.png
+ipoDate,2021-03-04
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

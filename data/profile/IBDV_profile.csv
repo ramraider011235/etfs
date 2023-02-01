@@ -1,0 +1,37 @@
+,IBDV
+symbol,IBDV
+price,21.66
+beta,0
+volAvg,99262
+mktCap,0
+lastDiv,0.572
+range,19.709-24.47
+changes,0.14
+companyName,iShares iBonds Dec 2030 Term Corporate ETF
+currency,USD
+cik,
+isin,US46436E7269
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally will invest at least 80% of its assets in the component securities of the underlying index and will invest at least 90% of its assets in fixed income securities. The underlying index consists of U.S. dollar-denominated, investment-grade securities issued by U.S. and non-U.S. corporate issuers that have $300 million or more of outstanding face value at the time of inclusion. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/IBDV.png
+ipoDate,2020-06-25
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

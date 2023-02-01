@@ -1,0 +1,37 @@
+,BLV
+symbol,BLV
+price,77.7
+beta,0
+volAvg,622827
+mktCap,2894654992
+lastDiv,2.7669999999999995
+range,66.44-99.15
+changes,0.6
+companyName,Vanguard Long-Term Bond Fund
+currency,USD
+cik,
+isin,US9219377937
+cusip,921937793
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"This index includes all medium and larger issues of U.S. government, investment-grade corporate, and investment-grade international dollar-denominated bonds that have maturities of greater than 10 years and are publicly issued. All of the fund's investments will be selected through the sampling process, and at least 80% of the fund's assets will be invested in bonds held in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/BLV.png
+ipoDate,2007-04-03
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

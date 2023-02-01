@@ -1,0 +1,37 @@
+,WTMF
+symbol,WTMF
+price,32.5
+beta,0
+volAvg,30675
+mktCap,0
+lastDiv,1.6680000000000001
+range,31.03-38.11
+changes,0.29
+companyName,WisdomTree Managed Futures Strategy Fund
+currency,USD
+cik,
+isin,US97717W1255
+cusip,97717W125
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund normally invests at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in ""managed futures"". It is an actively managed exchange traded fund (""ETF"") that seeks to achieve positive total returns in rising or falling markets that are not directly correlated to broad market equity or fixed income returns. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/WTMF.png
+ipoDate,2011-01-05
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

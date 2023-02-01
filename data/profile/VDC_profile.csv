@@ -1,0 +1,37 @@
+,VDC
+symbol,VDC
+price,191.26
+beta,0
+volAvg,147063
+mktCap,0
+lastDiv,4.539000000000001
+range,170.83-210.13
+changes,2.15
+companyName,Vanguard Consumer Staples Fund
+currency,USD
+cik,0000052848
+isin,US92211MAC73
+cusip,92204A207
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the MSCI US Investable Market Index/Consumer Staples 25/50, an index made up of stocks of large, mid-size, and small U.S. companies within the consumer staples sector, as classified under the Global Industry Classification Standard. The Advisor attempts to replicate the target index by seeking to invest all, or substantially all, of its assets in the stocks that make up the index, in order to hold each stock in approximately the same proportion as its weighting in the index. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VDC.png
+ipoDate,2004-01-26
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

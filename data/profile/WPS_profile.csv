@@ -1,0 +1,37 @@
+,WPS
+symbol,WPS
+price,29.38
+beta,0
+volAvg,6372
+mktCap,0
+lastDiv,0.7200000000000001
+range,23.56-36.26
+changes,-0.1246
+companyName,iShares International Developed Property ETF
+currency,USD
+cik,
+isin,US4642884229
+cusip,464288422
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index, but which BFA believes will help the fund track the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/WPS.png
+ipoDate,2007-07-30
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

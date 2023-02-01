@@ -1,0 +1,37 @@
+,CORP
+symbol,CORP
+price,97.08
+beta,0
+volAvg,233432
+mktCap,163908416
+lastDiv,2.722
+range,87.99-109.8
+changes,0.71
+companyName,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
+currency,USD
+cik,
+isin,US72201R8170
+cusip,72201R817
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the ICE BofA US Corporate Index (the ""underlying index""). The underlying index is an unmanaged index comprised of U.S. dollar denominated investment grade corporate debt securities publicly issued in the U.S. domestic market with at least one year remaining term to final maturity."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CORP.png
+ipoDate,2010-09-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

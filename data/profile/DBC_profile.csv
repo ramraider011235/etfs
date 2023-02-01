@@ -1,0 +1,37 @@
+,DBC
+symbol,DBC
+price,24.87
+beta,0
+volAvg,2557818
+mktCap,2770518025
+lastDiv,0.145
+range,22.31-30.64
+changes,0.42
+companyName,Invesco DB Commodity Index Tracking Fund
+currency,USD
+cik,0001328237
+isin,
+cusip,46138B103
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund pursues its investment objective by investing in a portfolio of exchange-traded futures on Light Sweet Crude Oil (WTI), Heating Oil, RBOB Gasoline, Natural Gas, Brent Crude, Gold, Silver, Aluminum, Zinc, Copper Grade A, Corn, Wheat, Soybeans, and Sugar. The index is composed of notional amounts of each of these commodities."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,0.3
+dcf,25.07
+image,https://financialmodelingprep.com/image-stock/DBC.png
+ipoDate,2006-02-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,INDY
+symbol,INDY
+price,42.28
+beta,0
+volAvg,64204
+mktCap,0
+lastDiv,1.585
+range,40.17-48.51
+changes,0.2
+companyName,iShares India 50 ETF
+currency,USD
+cik,
+isin,US4642895290
+cusip,464289529
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,The underlying index measures the equity performance of the top 50 companies by free float market capitalization whose equity securities trade in the Indian securities markets. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The fund is non-diversified.
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/INDY.png
+ipoDate,2009-11-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

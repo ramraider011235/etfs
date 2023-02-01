@@ -1,0 +1,37 @@
+,VOE
+symbol,VOE
+price,144.93
+beta,0
+volAvg,494516
+mktCap,0
+lastDiv,3.0749999999999997
+range,119.81-154.69
+changes,2.29
+companyName,Vanguard Mid-Cap Value Index Fund
+currency,USD
+cik,0000036405
+isin,US9229085124
+cusip,922908512
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund employs an indexing investment approach designed to track the performance of the CRSP US Mid Cap Value Index, a broadly diversified index of value stocks of mid-size U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/VOE.png
+ipoDate,2006-08-17
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

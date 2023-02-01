@@ -1,0 +1,37 @@
+,BNO
+symbol,BNO
+price,28.16
+beta,0
+volAvg,443285
+mktCap,120710149
+lastDiv,0
+range,23.86-36.84
+changes,0.39
+companyName,"United States Brent Oil Fund, LP"
+currency,USD
+cik,0001472494
+isin,US91167Q1004
+cusip,91167Q100
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The Benchmark Futures Contract is the futures contract on Brent crude oil as traded on the Ice Futures Europe Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration, in which case it will be measured by the futures contract that is the next month contract to expire."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,0.347429
+dcf,28.6674
+image,https://financialmodelingprep.com/image-stock/BNO.png
+ipoDate,2010-06-02
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

@@ -1,0 +1,37 @@
+,FRDM
+symbol,FRDM
+price,30.47
+beta,0
+volAvg,79936
+mktCap,0
+lastDiv,0.751
+range,24.29-34.77
+changes,0.15
+companyName,Freedom 100 Emerging Markets ETF
+currency,USD
+cik,0001592900
+isin,US02072L6074
+cusip,02072L607
+exchange,BATS
+exchangeShortName,ETF
+industry,
+website,
+description,"Under normal circumstances, at least 80% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in the component securities of the index or in depositary receipts representing such component securities. The index is designed to track the performance of a portfolio of approximately 100 equity securities in emerging market countries. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FRDM.png
+ipoDate,2019-05-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

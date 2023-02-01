@@ -1,0 +1,37 @@
+,EPV
+symbol,EPV
+price,10.64
+beta,0
+volAvg,670018
+mktCap,59470580984
+lastDiv,0.042
+range,10.43-20.65
+changes,-0.12
+companyName,ProShares UltraShort FTSE Europe
+currency,USD
+cik,
+isin,US74348A4343
+cusip,74348A434
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is a free float-adjusted market cap weighted index representing the performance of large, mid- and small cap companies in Developed European markets, including the UK. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EPV.png
+ipoDate,2009-06-18
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False
