@@ -72,7 +72,7 @@ class Portfolio_Optimizer_2(object):
             ax.set_xlabel(r"Mean daily $\sigma$ [%]")
             ax.set_ylabel("Mean daily returns [%]")
             fig.tight_layout()
-            plt.show()        
+            st.pyplot(fig)
             
             
         #Declare mu and sigma

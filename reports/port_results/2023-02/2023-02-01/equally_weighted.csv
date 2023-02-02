@@ -1,5 +1,9 @@
 ,companyName,ticker,allocation,shares,start_price,investment
-3,MicroSectors U.S. Big Oil Index 3X Leveraged ETNs,NRGU,25.0,11.0,472.81,5200.91
-0,Invesco Dynamic Oil & Gas Services ETF,PXJ,25.0,899.0,5.56,4998.44
-2,"United States Gasoline Fund, LP",UGA,25.0,85.0,59.11,5024.35
-1,SPDR S&P Metals and Mining ETF,XME,25.0,86.0,58.43,5024.98
+4,Invesco DB Commodity Index Tracking Fund,DBC,12.5,102.0,24.6,2509.2
+6,First Trust Materials AlphaDEX Fund,FXZ,12.5,35.0,72.04,2521.4
+5,Global X MLP ETF,MLPA,12.5,58.0,43.43,2518.94
+2,MicroSectors U.S. Big Oil Index 3X Leveraged ETNs,NRGU,12.5,5.0,472.81,2364.05
+0,Invesco Dynamic Oil & Gas Services ETF,PXJ,12.5,450.0,5.56,2502.0
+3,Tortoise North American Pipeline Fund,TPYP,12.5,98.0,25.49,2498.02
+7,"United States 12 Month Natural Gas Fund, LP",UNL,12.5,192.0,13.04,2503.68
+1,SPDR S&P Metals and Mining ETF,XME,12.5,43.0,58.43,2512.49

@@ -77,9 +77,9 @@ class Advisor(object):
         self.saveTickers = Path(f"data/tickers/{self.month1}/{self.start1}/")                
 
 
-        sma_ema_choices = ['SMA', 'EMA', 'WMA', 'DEMA', 'TEMA', 'TRIMA', 'SAR', 'BB', 'MACD', 'RSI']
-        list_runs = ['max_sharpe', 'best', 'equal_wt', 'mcc', 'min_volatility']
-        classifier_list = ['PCA', 'PCA_RF', 'RF_PCA', 'RF', 'None']
+        # sma_ema_choices = ['SMA', 'EMA', 'WMA', 'DEMA', 'TEMA', 'TRIMA', 'SAR', 'BB', 'MACD', 'RSI']
+        list_runs = ['max_sharpe', 'equal_wt', 'mcc', 'min_volatility']
+        # classifier_list = ['PCA', 'PCA_RF', 'RF_PCA', 'RF', 'None']
         crap_lst = []
         sheen_lst = []     
         
@@ -91,55 +91,67 @@ class Advisor(object):
 
 
 
-        cols = st.sidebar.columns(1)
-        with cols[0]:
-            run_list = st.multiselect('Portfolio Options:', options=list_runs, default=list_runs, key='opt1')
+        # cols = st.sidebar.columns(1)
+        # with cols[0]:
+        #     run_list = st.multiselect('Portfolio Options:', options=list_runs, default=list_runs, key='opt1')
+
+        run_list = ['max_sharpe', 'equal_wt', 'mcc', 'min_volatility']
                 
         
-        cols = st.sidebar.columns(2)
-        with cols[0]:
-            graphit_0 = st.selectbox("Graph:", ("Yes", "No"), index=1)
-            self.graph1 = f0.true_false(graphit_0)
+        # cols = st.sidebar.columns(2)
+        # with cols[0]:
+        #     graphit_0 = st.selectbox("Graph:", ("Yes", "No"), index=1)
+        #     self.graph1 = f0.true_false(graphit_0)
 
-            with cols[1]:
-                file_saver = st.selectbox("Save:", ("Yes", "No"), index=0)
-                self.save1 = f0.true_false(file_saver)            
+        #     with cols[1]:
+        #         file_saver = st.selectbox("Save:", ("Yes", "No"), index=0)
+        #         self.save1 = f0.true_false(file_saver)   
+        
+                 
+        graphit_0 = "Yes"
+        self.graph1 = f0.true_false(graphit_0)
+
+        file_saver = 'Yes'
+        self.save1 = f0.true_false(file_saver)   
+
+        optimize_method = 'markowitz'
 
 
-        optimize_method = 'efficient_frontier'
+        # cols = st.sidebar.columns(2)
+        # with cols[0]:
+        #     classifier_select = st.selectbox(label='Classifier Method:', options=classifier_list, index=0) 
 
-
-        cols = st.sidebar.columns(2)
-        with cols[0]:
-            classifier_select = st.selectbox(label='Classifier Method:', options=classifier_list, index=0) 
-
-            with cols[1]:                            
-                if classifier_select == 'PCA':
-                    pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))   
+        #     with cols[1]:                            
+        #         if classifier_select == 'PCA':
+        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))   
                             
-                elif classifier_select == 'RF_PCA':
-                    pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
+        #         elif classifier_select == 'RF_PCA':
+        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
                         
-                elif classifier_select == 'PCA_RF':
-                    pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
+        #         elif classifier_select == 'PCA_RF':
+        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
 
-                elif classifier_select == 'RF':
-                    print('k')                     
+        #         elif classifier_select == 'RF':
+        #             print('k')                     
                     
-                elif classifier_select == 'None':
-                    print('k') 
+        #         elif classifier_select == 'None':
+        #             print('k') 
 
-                else:
-                    print('k')
+        #         else:
+        #             print('k')
+
+        classifier_select = 'None'
 
 
-        cols = st.sidebar.columns(2)
-        with cols[0]:
-            use_indicator = st.selectbox(label='Technical Strategy:', options=('Yes','No'), index=1)
+        # cols = st.sidebar.columns(2)
+        # with cols[0]:
+        #     use_indicator = st.selectbox(label='Technical Strategy:', options=('Yes','No'), index=1)
 
-            if use_indicator == 'Yes':
-                with cols[1]:
-                    crossover_1 = st.selectbox(label="Strategy:", options=sma_ema_choices, index=0)
+        #     if use_indicator == 'Yes':
+        #         with cols[1]:
+        #             crossover_1 = st.selectbox(label="Strategy:", options=sma_ema_choices, index=0)
+
+        use_indicator = 'No'
 
 
 # ______________________________________________________________________________________________________________________________________
@@ -185,8 +197,8 @@ class Advisor(object):
             st.write(f"__◾ Total Tickers In Model = 【{len(port_tics)}】__")    
 
             st.dataframe(data.copy().round(2))
-            st.text(list(data['ticker']))
-            st.markdown(len(data['ticker']))
+            # st.text(list(data['ticker']))
+            # st.markdown(len(data['ticker']))
 
 # ______________________________________________________________________________________________________________________________________
 #   | · · · · · · · · · · · · · · · · · · · · · · · · · [[ DATA · COLLECTION ]] · · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
@@ -199,30 +211,7 @@ class Advisor(object):
 #   | · · · · · · · · · · · · · · · · · · · · · · · · · · · [[ PCA & MPT ]] · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
             
             
-            if classifier_select != 'None':
-                
-                if classifier_select == 'PCA':                
-                    chicken_dinna = pca(self.start1).build_pca(df_train_data, pca_factor, self.graph1)
-                    df_pca = pd.DataFrame(df_train_data.filter(chicken_dinna).copy())
-
-                elif classifier_select == 'RF':
-                    chicken_dinna = rf1(self.graph1, self.start1).run_mod(df_train_data, self.years_ago)
-                    df_pca = pd.DataFrame(df_train_data.filter(chicken_dinna).copy())
-
-                elif classifier_select == 'RF_PCA':   
-                    rf_res = rf1(self.graph1, self.start1).run_mod(df_train_data, self.years_ago)
-                    rf_res_df = df_train_data.filter(rf_res).copy()
-                    chicken_dinna = pca(self.start1).build_pca(rf_res_df, pca_factor, self.graph1)
-                    df_pca = pd.DataFrame(df_train_data.filter(chicken_dinna).copy())
-                                    
-                elif classifier_select == 'PCA_RF':
-                    pca_res = pca(self.start1).build_pca(df_train_data, pca_factor, self.graph1)
-                    pca_res_df = df_train_data.filter(pca_res).copy()
-                    chicken_dinna = rf1(self.graph1, self.start1).run_mod(pca_res_df, self.years_ago)
-                    df_pca = pd.DataFrame(df_train_data.filter(chicken_dinna).copy())
-                    
-            else:
-                df_pca = df_train_data.copy()
+            df_pca = df_train_data.copy()
 
             st.markdown(len(df_pca.columns))
 
@@ -234,191 +223,7 @@ class Advisor(object):
             if optimize_method == 'efficient_frontier':
                 sharpe1, vol1, best1 = p22(self.start1, rfr, num_sims_mpt, df_pca, max_wt, self.graph1).run_mod()
                                
-            
-# _______________________________________________________________________________________________________________________________________
-# | · · · · · · · · · · · · · · · · · · · · · · · · · · · [[ STRATEGY ]] · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
-
         
-            def sharper(df_0):       
-                df1 = pd.DataFrame(df_0)
-                port_tics_0 = sorted(list(df1["ticker"]))
-                port_tics_1 = []
-                cc, ccc = 0.0, len(port_tics_0)                                     
-
-                for p in port_tics_0:
-                    if p in crap_lst:
-                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                    elif p in sheen_lst:
-                        pass
-                    elif p not in crap_lst and p not in sheen_lst:
-                        port_tics_1.append(p)
-
-                if len(port_tics_1) >= 1:
-                    st.write('---', '\n', '---')
-                    st.header("__❱ STRATEGY:__")
-                    st.write('----------------')
-                                                     
-
-                    for p in port_tics_1:
-                        try:
-                            try:
-                                temp = pd.DataFrame(pd.read_pickle(self.advisor1 / f"{p}_hist_{self.ender_date}.pkl"))
-                            except Exception as e:
-                                temp = pd.DataFrame(Ticker('RYTM').history(period='1y')).reset_index().set_index('date').round(2)
-                                del temp['symbol']     
-                                temp.to_pickle(self.advisor1 / f"{p}_hist_{self.ender_date}.pkl")
-
-                            temp.index = pd.to_datetime(temp.index)
-                            data = temp.loc[:self.start1]                       
-                            cc += 1                                           
-
-
-                            if crossover_1 == 'SMA':
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception as e:
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                    st.write(f'FAILURE = {p}')
-                                    print(e)
-
-
-                            if crossover_1 == 'EMA':
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                    st.write(f'FAILURE = {p}')
-
-
-                            if crossover_1 == 'WMA':
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                            
-                                    
-
-                            if crossover_1 == 'DEMA':
-                                try:                                        
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                            
-
-
-                            if crossover_1 == 'TEMA':
-                                try:                                        
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                                 
-                                    
-
-                            if crossover_1 == 'TRIMA':
-                                try:                                        
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                                 
-                                
-
-                            if crossover_1 == 'SAR':
-                                try:                                        
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                                 
-
-
-                            if crossover_1 == "BB":
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)  
-
-
-                            if crossover_1 == "MACD":
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1, data)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                              
-
-
-                            if crossover_1 == "RSI":
-                                try:
-                                    x = ii(p, self.start1, cc, ccc, self.graph1).kingpin(crossover_1)
-                                    if x == p:
-                                        sheen_lst.append(p)
-                                    else:
-                                        crap_lst.append(p)
-                                        df1 = df1.drop(df1[df1["ticker"] == p].index)
-                                except Exception:
-                                    st.write(f'FAILURE = {p}')    
-                                    crap_lst.append(p)
-                                    df1 = df1.drop(df1[df1["ticker"] == p].index)                                                
-                                        
-                        except:
-                            crap_lst.append(p)
-                            df1 = df1.drop(df1[df1["ticker"] == p].index)
-                            st.write(f'FAILURE = {p}')
-
-                return df1
 
 
 # _____________________________________________________________________________________________________________________________________
@@ -427,11 +232,7 @@ class Advisor(object):
 
             def maximum_sharpe_portfolio():
                 max_sharpe_df_b = pd.DataFrame(sharpe1).reset_index()
-                if use_indicator == 'Yes':
-                    max_sharpe_df_3 = pd.DataFrame(sharper(max_sharpe_df_b))
-                else:
-                    max_sharpe_df_3 = pd.DataFrame(max_sharpe_df_b.copy())
-
+                max_sharpe_df_3 = pd.DataFrame(max_sharpe_df_b.copy())
 
                 st.write('-------', '\n', '------')
                 st.header("▶ MAXIMUM SHARPE RATIO")
@@ -452,19 +253,11 @@ class Advisor(object):
 
 
             def min_volatility_portfolio():
-                if use_indicator == 'Yes':
-                    min_vol_df_a = pd.DataFrame(vol1).reset_index()
-                    try:
-                        del min_vol_df_a['rank']
-                    except Exception as e:
-                        pass
-                    min_vol_df = sharper(min_vol_df_a)
-                else: 
-                    min_vol_df = pd.DataFrame(vol1.copy()).reset_index()
-                    try:
-                        del min_vol_df['rank']
-                    except Exception as e:
-                        pass
+                min_vol_df = pd.DataFrame(vol1.copy()).reset_index()
+                try:
+                    del min_vol_df['rank']
+                except Exception as e:
+                    pass
 
 
                 st.write('------', '\n', '-----')
@@ -484,54 +277,20 @@ class Advisor(object):
 
 
 # ___________________________________________________________________________________________________________________________________
-#   | · · · · · · · · · · · · · · · · · · · · · · · · [[ BEST · WEIGHTED ]] · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
-
-
-            def best_weighted_portfolio():
-                try:
-                    best_wt_df_a = pd.DataFrame(best1).reset_index()
-                    try:
-                        del best_wt_df_a['rank']
-                    except Exception as e:
-                        pass
-                    if best_wt_df_a.empty == False:
-                        if use_indicator == 'Yes':                    
-                            best_wt_df = pd.DataFrame(sharper(best_wt_df_a))
-                        else:
-                            best_wt_df = pd.DataFrame(best_wt_df_a.copy())
-                            
-                        
-                        st.write('------', '\n', '------')
-                        st.header("▶ BEST WEIGHTED")
-                        data = pd.DataFrame(df_test_data.filter(list(best_wt_df["ticker"])))
-                        if best_wt_df['allocation'].sum() >= 98:
-                            p1.Model_Concept(self.start1, investment, 'best_weighted', self.save1, self.graph1).setup(best_wt_df, data)    
-                        else:
-                            a = best_wt_df['allocation'].sum()
-                            new_l = []
-                            for i in best_wt_df['allocation']:
-                                new_l.append(round((i * 100) / a, 0))
-                            best_wt_df['allocation'] = new_l                
-                            p1.Model_Concept(self.start1, investment, 'best_weighted', self.save1, self.graph1).setup(best_wt_df, data)    
-                        return
-                except Exception as e:
-                    print(e)
-
-
-# ___________________________________________________________________________________________________________________________________
 #   | · · · · · · · · · · · · · · · · · · · · · · · · [[ EQUALLY · WEIGHTED ]] · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
 
 
             def equally_weighted_portfolio():
                 equal_wt_df_a = pd.DataFrame(sharpe1).reset_index()
+                min_vol_df_a = pd.DataFrame(vol1).reset_index()
+                equal_wt_df_a = equal_wt_df_a.append(min_vol_df_a)
+
                 try:
                     del equal_wt_df_a['rank']
                 except Exception as e:
                     pass
-                if use_indicator == 'Yes':                    
-                    equal_wt_df = sharper(equal_wt_df_a)
-                else:
-                    equal_wt_df = pd.DataFrame(equal_wt_df_a).reset_index()
+
+                equal_wt_df = pd.DataFrame(equal_wt_df_a).reset_index()
 
                 st.write('------', '\n', '------')
                 st.header("▶ EQUALLY WEIGHTED")      
@@ -548,10 +307,10 @@ class Advisor(object):
 
             def monte_carlo_cholesky_portfolio():
                 max_sharpe_df_a = pd.DataFrame(sharpe1).reset_index()
-                if use_indicator == 'Yes':
-                    monte_carlo_cholesky = sharper(max_sharpe_df_a)
-                else:
-                    monte_carlo_cholesky = pd.DataFrame(max_sharpe_df_a.copy()).reset_index()                    
+                min_vol_df_a = pd.DataFrame(vol1).reset_index()
+                max_sharpe_df_a = max_sharpe_df_a.append(min_vol_df_a)
+
+                monte_carlo_cholesky = pd.DataFrame(max_sharpe_df_a.copy()).reset_index()                    
                     
                 st.write('------', '\n', '------')
                 st.header("▶ MONTE CARLO CHOLESKY")
@@ -570,10 +329,7 @@ class Advisor(object):
                 maximum_sharpe_portfolio()
 
             if 'min_volatility' in run_list:
-                min_volatility_portfolio()      
-                
-            if 'best' in run_list:
-                best_weighted_portfolio()                              
+                min_volatility_portfolio()                              
 
             if 'equal_wt' in run_list:
                 equally_weighted_portfolio()

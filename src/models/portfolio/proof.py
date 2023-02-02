@@ -231,56 +231,56 @@ class Model_Concept(object):
 
         
         
-        if self.graphit == True:
+        # if self.graphit == True:
 
-            start_l = [df_wt['investment'].sum()] * len(df_live)
-            win_l = [df_wt['investment'].sum() * 1.1] * len(df_live)
-            loss_l = [df_wt['investment'].sum() * 0.9] * len(df_live)
-            df_live["start_line"] = start_l
-            df_live["win_l"] = win_l
-            df_live["loss_l"] = loss_l     
+        #     start_l = [df_wt['investment'].sum()] * len(df_live)
+        #     win_l = [df_wt['investment'].sum() * 1.1] * len(df_live)
+        #     loss_l = [df_wt['investment'].sum() * 0.9] * len(df_live)
+        #     df_live["start_line"] = start_l
+        #     df_live["win_l"] = win_l
+        #     df_live["loss_l"] = loss_l     
             
-            fig = go.Figure()
-            fig.add_scattergl(x=df_live.index, y=df_live['portfolio'], line={"color": "black"}, name="Portfolio Line")
-            fig.update_traces(line=dict(color="Black", width=2.5))
-            fig.update_traces(mode="markers+lines")
-            fig.add_trace(go.Scatter(x=df_live.index, y=df_live['start_line'], name="starting_balance", line_shape="hvh", line=dict(color="#7f7f7f", width=4)))
-            fig.add_trace(go.Scatter(x=df_live.index, y=df_live['win_l'], name="Win Threshold", line_shape="hvh", line=dict(color="#2ca02c", width=4)))
-            fig.add_trace(go.Scatter(x=df_live.index, y=df_live['loss_l'], name="Loss Threshold", line_shape="hvh", line=dict(color="#d62728", width=4)))
-            fig.update_layout(
-                title="Portfolio Performance",
-                title_font_color="royalblue",
-                title_font_family="Times New Roman",
-                xaxis_title="Days Since Bought Portfolio",
-                xaxis_title_font_color="darkred",
-                yaxis_title="Portfolio Value ($)",
-                yaxis_title_font_color="darkred",
-                legend_title="Legend Title",
-                legend_title_font_color="darkred",
-                font=dict(family="Times New Roman", size=18, color="black"),
-            )
-            st.plotly_chart(fig, use_container_width=True)
+        #     fig = go.Figure()
+        #     fig.add_scattergl(x=df_live.index, y=df_live['portfolio'], line={"color": "black"}, name="Portfolio Line")
+        #     fig.update_traces(line=dict(color="Black", width=2.5))
+        #     fig.update_traces(mode="markers+lines")
+        #     fig.add_trace(go.Scatter(x=df_live.index, y=df_live['start_line'], name="starting_balance", line_shape="hvh", line=dict(color="#7f7f7f", width=4)))
+        #     fig.add_trace(go.Scatter(x=df_live.index, y=df_live['win_l'], name="Win Threshold", line_shape="hvh", line=dict(color="#2ca02c", width=4)))
+        #     fig.add_trace(go.Scatter(x=df_live.index, y=df_live['loss_l'], name="Loss Threshold", line_shape="hvh", line=dict(color="#d62728", width=4)))
+        #     fig.update_layout(
+        #         title="Portfolio Performance",
+        #         title_font_color="royalblue",
+        #         title_font_family="Times New Roman",
+        #         xaxis_title="Days Since Bought Portfolio",
+        #         xaxis_title_font_color="darkred",
+        #         yaxis_title="Portfolio Value ($)",
+        #         yaxis_title_font_color="darkred",
+        #         legend_title="Legend Title",
+        #         legend_title_font_color="darkred",
+        #         font=dict(family="Times New Roman", size=18, color="black"),
+        #     )
+        #     st.plotly_chart(fig, use_container_width=True)
 
-            fig = px.line(
-                df2[df2['ticker'] == 'portfolio'],
-                x='date',
-                y='cum_return_pct', 
-                color='ticker',
-                title='Performance - Daily Cumulative Returns',
-                labels={'cum_return_pct':'daily cumulative returns (%)', }
-            )      
-            st.plotly_chart(fig, use_container_width=True)  
+        #     fig = px.line(
+        #         df2[df2['ticker'] == 'portfolio'],
+        #         x='date',
+        #         y='cum_return_pct', 
+        #         color='ticker',
+        #         title='Performance - Daily Cumulative Returns',
+        #         labels={'cum_return_pct':'daily cumulative returns (%)', }
+        #     )      
+        #     st.plotly_chart(fig, use_container_width=True)  
             
             
-            fig = px.line(
-                df2[df2['ticker'] != 'portfolio'],
-                x='date',
-                y='cum_return_pct', 
-                color='ticker',
-                title='Performance - Daily Cumulative Returns',
-                labels={'cum_return_pct':'daily cumulative returns (%)', }
-            )                
-            st.plotly_chart(fig, use_container_width=True)  
+        #     fig = px.line(
+        #         df2[df2['ticker'] != 'portfolio'],
+        #         x='date',
+        #         y='cum_return_pct', 
+        #         color='ticker',
+        #         title='Performance - Daily Cumulative Returns',
+        #         labels={'cum_return_pct':'daily cumulative returns (%)', }
+        #     )                
+        #     st.plotly_chart(fig, use_container_width=True)  
             
             
         if self.save_output == True:
