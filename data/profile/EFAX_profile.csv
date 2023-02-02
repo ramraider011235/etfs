@@ -1,0 +1,37 @@
+,EFAX
+symbol,EFAX
+price,37.39
+beta,0
+volAvg,15991
+mktCap,4505316612
+lastDiv,1.913
+range,28.72-41.025
+changes,0.3433
+companyName,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF
+currency,USD
+cik,
+isin,US78470E1064
+cusip,78470E106
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is designed to measure the performance of companies in the MSCI EAFE Index that are ""fossil fuel reserves free,"" as determined by the screening methodology used by the index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/EFAX.png
+ipoDate,2016-10-24
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

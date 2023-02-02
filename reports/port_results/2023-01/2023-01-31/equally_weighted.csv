@@ -1,0 +1,5 @@
+,companyName,ticker,allocation,shares,start_price,current_price,max_price,min_price,investment,present_value,max_value,min_value,return
+0,Invesco Dynamic Oil & Gas Services ETF,PXJ,25.0,898.0,5.57,5.4,5.61,5.33,5001.86,4849.2,5037.78,4786.34,-3.052064631956909
+1,VanEck Steel ETF,SLX,25.0,74.0,67.16,67.85,69.07,66.86,4969.84,5020.9,5111.18,4947.64,1.0273972602739623
+3,"United States Gasoline Fund, LP",UGA,25.0,82.0,60.91,59.67,61.97,58.59,4994.62,4892.94,5081.54,4804.38,-2.0357905105894
+2,Energy Select Sector SPDR Fund,XLE,25.0,56.0,89.51,86.28,90.07,86.1,5012.56,4831.68,5043.92,4821.6,-3.6085353591777474

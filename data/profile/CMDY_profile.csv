@@ -1,0 +1,37 @@
+,CMDY
+symbol,CMDY
+price,53.29
+beta,0
+volAvg,112073
+mktCap,0
+lastDiv,2.172
+range,51.907-68.21
+changes,-0.85
+companyName,iShares Bloomberg Roll Select Broad Commodity ETF
+currency,USD
+cik,
+isin,US46431W5985
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of 23 futures contracts across 21 physical agricultural, energy, precious metals and industrial metals commodities. In seeking to achieve its investment objective, the fund will primarily invest in exchange-traded futures contracts on the underlying index, and the adviser is expected to roll out of existing positions in index futures and establish new positions in index futures on an ongoing basis. It is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/CMDY.png
+ipoDate,2018-04-03
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

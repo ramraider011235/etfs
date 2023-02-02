@@ -1,0 +1,37 @@
+,AIEQ
+symbol,AIEQ
+price,32.5997
+beta,0
+volAvg,11091
+mktCap,154066280
+lastDiv,0.032
+range,27.73-38.26
+changes,0.4383
+companyName,AI Powered Equity ETF
+currency,USD
+cik,
+isin,US26924G8134
+cusip,26924G813
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund is actively managed and invests primarily in equity securities listed on a U.S. exchange based on the results of a proprietary, quantitative model (the ""EquBot Model"") developed by EquBot LLC (""EquBot"") that runs on the IBM Watson™ platform. EquBot, the fund's sub-adviser, is a technology based company focused on applying artificial intelligence (""AI"") based solutions to investment analyses."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/AIEQ.png
+ipoDate,2017-10-17
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

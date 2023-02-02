@@ -1,0 +1,37 @@
+,DJIA
+symbol,DJIA
+price,22.1899
+beta,0
+volAvg,47111
+mktCap,0
+lastDiv,1.909
+range,20.17-25.92
+changes,0.0699
+companyName,Global X Dow 30 Covered Call ETF
+currency,USD
+cik,
+isin,
+cusip,
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The index measures the performance of a covered call strategy that holds a theoretical portfolio of the underlying stocks of the Dow Jones Industrial Average® (the ""reference index"") and ""writes"" (or sells) a succession of one-month at-the-money (“ATM”) covered call options on the Reference Index. The fund invests in the securities reflected in the index, and cannot invest directly in the index itself. The fund is non-diversified."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DJIA.png
+ipoDate,
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

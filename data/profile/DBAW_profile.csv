@@ -1,0 +1,37 @@
+,DBAW
+symbol,DBAW
+price,29.13
+beta,0
+volAvg,26105
+mktCap,103217494
+lastDiv,3.376
+range,26.87-33.63
+changes,0.11
+companyName,Xtrackers MSCI All World ex U.S. Hedged Equity ETF
+currency,USD
+cik,0001503123
+isin,US2330518208
+cusip,233051820
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund, using a ""passive"" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of equity securities in developed and emerging stock markets while mitigating exposure to fluctuations between the value of the USD and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/DBAW.png
+ipoDate,2014-01-23
+defaultImage,True
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

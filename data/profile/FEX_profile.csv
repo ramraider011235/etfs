@@ -1,0 +1,37 @@
+,FEX
+symbol,FEX
+price,85.58
+beta,0
+volAvg,44490
+mktCap,55966068
+lastDiv,1.285
+range,71.62-90.18
+changes,0.48
+companyName,First Trust Large Cap Core AlphaDEX Fund
+currency,USD
+cik,
+isin,US33734K1097
+cusip,33734K109
+exchange,NASDAQ Global Market
+exchangeShortName,NASDAQ
+industry,
+website,
+description,"The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks that comprise the index. The index is designed to select stocks from the NASDAQ US 500 Large Cap Index TM (the ""base index"") that may generate positive alpha, or risk-adjusted returns, relative to traditional indices through the use of the AlphaDEX® selection methodology."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/FEX.png
+ipoDate,2007-05-08
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

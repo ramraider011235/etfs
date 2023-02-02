@@ -1,0 +1,37 @@
+,GWX
+symbol,GWX
+price,32.21
+beta,0
+volAvg,125881
+mktCap,0
+lastDiv,0.796
+range,25.08-36.28
+changes,0.28
+companyName,SPDR S&P International Small Cap ETF
+currency,USD
+cik,
+isin,US78463X8719
+cusip,78463X871
+exchange,New York Stock Exchange Arca
+exchangeShortName,AMEX
+industry,
+website,
+description,"The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a float-adjusted market capitalization weighted index designed to define and measure the investable universe of publicly traded small-cap companies, as defined by the index, domiciled in developed countries outside the United States."
+ceo,
+sector,
+country,US
+fullTimeEmployees,
+phone,NA
+address,
+city,
+state,
+zip,
+dcfDiff,
+dcf,0
+image,https://financialmodelingprep.com/image-stock/GWX.png
+ipoDate,2007-04-20
+defaultImage,False
+isEtf,True
+isActivelyTrading,True
+isAdr,False
+isFund,False

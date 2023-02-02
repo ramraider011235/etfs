@@ -1,0 +1,5 @@
+,companyName,ticker,allocation,shares,start_price,current_price,max_price,min_price,investment,present_value,max_value,min_value,return
+1,Invesco DB Commodity Index Tracking Fund,DBC,46.0,373.0,24.68,24.32,24.87,24.18,9205.64,9071.36,9276.51,9019.14,-1.4586709886547686
+0,Global X MLP ETF,MLPA,46.0,213.0,43.28,43.66,43.68,42.92,9218.64,9299.58,9303.84,9141.96,0.8780036968576765
+2,First Trust Materials AlphaDEX Fund,FXZ,5.0,14.0,70.27,72.01,72.33,69.03,983.78,1008.14,1012.62,966.42,2.4761633698591163
+3,VanEck Steel ETF,SLX,3.0,9.0,67.16,67.85,69.07,66.86,604.44,610.65,621.63,601.74,1.0273972602739596

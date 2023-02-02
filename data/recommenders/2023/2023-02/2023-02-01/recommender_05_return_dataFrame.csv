@@ -1,0 +1,46 @@
+name,ticker,my_score,sentiment_score,rs_rating,returns_multiple,current_price,sma_50,sma_150,sma_200,sma_200_20,low_52_week,high_52_week
+Invesco DWA Energy Momentum ETF,PXI,91.91,92.0,91.82,1.96,43.24,44.45,43.57,43.81,43.73,30.59,53.05
+Invesco Dynamic Energy Exploration & Production ETF,PXE,87.74,78.0,97.48,2.34,28.97,30.3,29.99,30.05,29.87,19.97,36.69
+Fidelity MSCI Energy Index ETF,FENY,85.98,77.0,94.97,2.02,23.49,24.0,22.54,22.41,22.12,16.16,25.98
+iShares U.S. Energy ETF,IYE,85.72,79.0,92.45,1.97,45.59,46.88,44.3,43.9,43.35,31.69,50.75
+iShares U.S. Oil & Gas Exploration & Production ETF,IEO,84.46,73.0,95.91,2.17,90.25,94.5,91.34,90.86,89.97,63.44,106.36
+First Trust Nasdaq Oil & Gas ETF,FTXN,82.6,74.0,91.19,1.95,27.69,28.3,27.26,27.28,27.12,20.04,31.87
+"United States 12 Month Natural Gas Fund, LP",UNL,80.29,87.0,73.58,1.38,12.7,18.03,21.36,22.01,22.49,12.21,29.37
+First Trust Natural Gas ETF,FCG,78.46,61.0,95.91,2.17,24.01,25.05,25.03,25.22,25.24,17.12,31.07
+Direxion Daily Energy Bull 2X Shares,ERX,78.37,58.0,98.74,3.71,63.61,67.1,60.17,60.38,59.26,34.2,80.27
+InfraCap MLP ETF,AMZA,77.72,74.0,81.45,1.59,33.83,32.3,31.18,30.94,30.68,24.4,34.44
+iShares U.S. Oil Equipment & Services ETF,IEZ,75.92,66.0,85.85,1.69,21.69,21.12,18.31,18.41,18.14,13.47,23.4
+Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,GUSH,75.56,53.0,98.11,2.72,141.91,153.02,156.32,162.11,164.31,84.5,257.76
+"United States Gasoline Fund, LP",UGA,73.78,57.0,90.57,1.93,58.87,56.99,58.3,60.96,60.62,43.67,80.29
+Pacer American Energy Independence ETF,USAI,73.48,74.0,72.96,1.36,27.7,27.38,27.36,27.6,27.72,23.45,31.33
+SPDR S&P Oil & Gas Exploration & Production ETF,XOP,72.97,56.0,89.94,1.89,135.14,139.27,138.18,138.92,138.75,94.85,170.62
+VanEck Oil Services ETF,OIH,72.03,56.0,88.05,1.73,312.94,304.68,265.81,267.18,264.0,195.77,336.3
+MicroSectors U.S. Big Oil Index 3X Leveraged ETNs,NRGU,72.0,44.0,100.0,5.88,442.9,508.01,465.73,478.63,470.57,198.58,797.0
+Sprott Uranium Miners ETF,URNM,70.81,63.0,78.62,1.51,37.28,33.05,33.42,33.49,34.18,27.0,47.42
+Vanguard Energy Index Fund,VDE,70.54,48.0,93.08,2.0,119.46,122.21,115.19,114.55,113.14,82.67,132.63
+Invesco Dynamic Oil & Gas Services ETF,PXJ,69.94,60.0,79.87,1.56,5.34,5.11,4.47,4.45,4.39,3.25,5.61
+Invesco S&P SmallCap Energy ETF,PSCE,69.34,50.0,88.68,1.78,10.45,10.25,9.85,9.95,9.94,6.87,12.55
+SPDR S&P Metals and Mining ETF,XME,68.85,55.0,82.7,1.6,58.17,53.06,49.19,50.07,50.68,39.83,66.63
+Global X MLP ETF,MLPA,67.5,57.0,77.99,1.43,43.66,42.08,41.38,41.15,40.93,34.8,44.22
+First Trust Materials AlphaDEX Fund,FXZ,66.88,63.0,70.75,1.34,71.62,64.6,60.52,62.2,62.57,50.6,75.76
+iShares Global Energy ETF,IXC,65.92,46.0,85.85,1.69,38.6,39.46,37.44,37.49,37.18,29.49,42.98
+SPDR S&P Oil & Gas Equipment & Services ETF,XES,65.75,51.0,80.5,1.57,84.23,79.35,69.23,69.72,68.92,49.99,88.32
+Invesco DB Commodity Index Tracking Fund,DBC,65.37,54.0,76.73,1.42,24.17,24.52,25.13,25.94,26.15,21.63,30.64
+Invesco DB Energy Fund,DBE,63.35,44.0,82.7,1.6,21.03,22.33,23.94,24.72,24.91,18.27,30.51
+iShares North American Natural Resources ETF,IGE,61.22,41.0,81.45,1.59,41.21,41.37,39.32,39.63,39.51,32.16,45.7
+First Trust Energy AlphaDEX Fund,FXN,60.66,32.0,89.31,1.8,16.69,17.48,17.12,16.91,16.79,12.03,19.47
+VanEck Energy Income ETF,EINC,59.5,47.0,72.01,1.35,63.33,62.9,61.99,62.36,62.48,53.82,69.56
+iShares MSCI Global Energy Producers ETF,FILL,58.14,32.0,84.28,1.64,23.74,24.5,23.51,23.53,23.37,18.77,26.88
+Alerian MLP ETF,AMLP,57.36,38.0,76.73,1.42,40.78,39.12,38.82,38.7,38.55,32.25,42.47
+Energy Select Sector SPDR Fund,XLE,55.52,17.0,94.03,2.01,85.99,87.99,82.33,81.96,80.85,59.84,94.71
+Alerian Energy Infrastructure ETF,ENFR,55.5,39.0,72.01,1.35,22.24,21.77,21.59,21.76,21.83,18.96,24.52
+"United States Oil Fund, LP",USO,52.96,21.0,84.91,1.65,66.5,67.81,71.17,73.95,74.68,58.81,92.2
+SPDR S&P North American Natural Resources ETF,NANR,52.12,25.0,79.25,1.53,55.98,55.94,52.64,53.54,53.71,44.03,61.96
+Invesco S&P 500 Equal Weight Energy ETF,RYE,52.02,10.0,94.03,2.01,71.65,73.6,69.62,69.84,69.23,50.72,82.02
+Tortoise North American Pipeline Fund,TPYP,50.9,32.0,69.81,1.33,25.61,25.36,25.25,25.5,25.61,22.09,28.55
+"United States 12 Month Oil Fund, LP",USL,47.82,12.0,83.65,1.63,33.82,34.42,35.67,36.94,37.26,30.05,45.45
+ProShares Ultra Oil & Gas,DIG,43.18,-13.0,99.37,3.85,40.59,43.05,38.93,38.75,38.03,21.66,50.45
+Invesco DB Oil Fund,DBO,42.74,10.0,75.47,1.41,14.63,14.96,16.19,16.87,17.13,14.0,21.12
+Global X MLP & Energy Infrastructure ETF,MLPX,41.42,8.0,74.84,1.4,42.32,41.66,41.05,41.27,41.36,35.81,45.94
+"United States Brent Oil Fund, LP",BNO,14.06,-59.0,87.11,1.72,26.99,27.39,29.23,30.06,30.34,22.78,36.84
+ProShares Ultra Bloomberg Crude Oil,UCO,13.43,-70.0,96.86,2.24,27.19,28.56,31.79,35.09,36.18,24.26,55.69

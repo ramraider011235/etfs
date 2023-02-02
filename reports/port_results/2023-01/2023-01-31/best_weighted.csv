@@ -1,0 +1,4 @@
+,companyName,ticker,allocation,shares,start_price,current_price,max_price,min_price,investment,present_value,max_value,min_value,return
+0,ProShares Ultra Oil & Gas,DIG,95.11,432.0,44.0,41.05,44.58,40.87,19008.0,17733.6,19258.56,17655.84,-6.704545454545461
+1,VanEck Steel ETF,SLX,1.84,5.0,67.16,67.85,69.07,66.86,335.8,339.25,345.35,334.3,1.0273972602739692
+2,Invesco Dynamic Oil & Gas Services ETF,PXJ,1.76,63.0,5.57,5.4,5.61,5.33,350.91,340.2,353.43,335.79,-3.052064631956922
