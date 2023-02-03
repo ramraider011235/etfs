@@ -20,7 +20,6 @@ from src.models.portfolio.proof_port import The_Portfolio_Optimizer as p2
 from src.models.portfolio.web_pca import The_PCA_Analysis as pca
 from src.models.portfolio.web_monteCarloCholesky import MonteCarloCholesky as mcc
 from src.models.portfolio.random_forest import The_Random_Forest as rf1
-from src.models.clean import Clean
 
 
 # _________________________________________________________________________________________________________________________________________
@@ -66,7 +65,7 @@ class Advisor(object):
         num_sims_mpt = 10000
         num_sims_mcc = int(round(num_sims_mpt / 3,0))
         max_wt = 34.0
-        rfr, treasury_date = Clean(self.start1).clean_main()
+        rfr, treasury_date = 0.0339, '2023-02-01'
 
         run_list = ['max_sharpe', 'equal_wt', 'mcc', 'min_volatility']
 
