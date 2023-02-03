@@ -17,7 +17,7 @@ class Get_Stock_History:
         self.month_0 = str(self.day_0)[:7]
         self.year_0 = str(self.day_0)[:4]
         self.ender_date = str(dt.datetime.now())[:10]
-        self.saveRaw = Path(f"/home/gdp/hot_box/i4m/data/raw/{self.month_0}/{self.day_0}/")
+        self.saveRaw = Path(f"/home/gdp/hot_box/i4m/data/raw/{self.year_0}/{self.month_0}/{self.day_0}/")
         self.saveRec = Path(f"/home/gdp/hot_box/i4m/data/recommenders/{self.year_0}/{self.month_0}/{self.day_0}/")
         self.advisor1 = Path(f"/home/gdp/hot_box/i4m/data/advisor/build/{self.month_0}/{self.day_0}/")
         self.saveHist = Path(f"/home/gdp/hot_box/i4m/data/history/{self.year_0}/{self.month_0}/{self.day_0}/")       
@@ -41,7 +41,6 @@ class Get_Stock_History:
                 history_data = pd.DataFrame(Ticker(ticker).history(period='1y')).reset_index().set_index('date').round(2)
                 del history_data['symbol']                
                 history_data.to_pickle(self.advisor1 / f"{ticker}_hist_{self.ender_date}.pkl")
-                history_data.to_pickle(self.saveRaw / f"{ticker}.pkl")
 
         if exists(self.saveHist / "all_stock_history_adjclose"):
             try:
