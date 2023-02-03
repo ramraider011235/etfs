@@ -14,14 +14,11 @@ np.random.seed(42)
 
 import src.tools.functions as f0
 from src.data.get_history import Get_Stock_History
-from src.models.hyperparameter.hyperparameters import Featurization
 from src.models.portfolio import proof as p1
 from src.models.portfolio.ml_predict import ML_Classifier_Predictor
 from src.models.portfolio.proof_port import The_Portfolio_Optimizer as p2
-from src.models.portfolio.portfolio_optimizer import Portfolio_Optimizer_2 as p22
 from src.models.portfolio.web_pca import The_PCA_Analysis as pca
 from src.models.portfolio.web_monteCarloCholesky import MonteCarloCholesky as mcc
-from src.models.strategy.indicators import Indicator_Ike as ii
 from src.models.portfolio.random_forest import The_Random_Forest as rf1
 from src.models.clean import Clean
 
@@ -45,18 +42,7 @@ class Advisor(object):
     def model1(self):       
         st.title('__𝄖𝄖𝄗𝄗𝄘𝄘𝄙𝄙𝄚𝄚 Model 𝄚𝄚𝄙𝄙𝄘𝄘𝄗𝄗𝄖𝄖__')
         st.write('----------', '\n', '----------')            
-        
-        
-        # cols = st.sidebar.columns(1)
-        # with cols[0]:
-        #     cherry_pick = str(
-        #         st.date_input(
-        #             label="Select Model Date",
-        #             value=dt.date(2023, 1, 3),
-        #             min_value=dt.date(2022, 3, 24),
-        #             max_value=dt.date(2023, 3, 31),
-        #         )
-        #     )[:10]      
+    
         
         cherry_pick = '2023-02-01'  
         
@@ -75,13 +61,6 @@ class Advisor(object):
         self.saveRaw = Path(f"data/raw/{self.month1}/{self.start1}/")
         self.saveScreeners = Path(f"data/screeners/{self.month1}/{self.start1}/")
         self.saveTickers = Path(f"data/tickers/{self.month1}/{self.start1}/")                
-
-
-        # sma_ema_choices = ['SMA', 'EMA', 'WMA', 'DEMA', 'TEMA', 'TRIMA', 'SAR', 'BB', 'MACD', 'RSI']
-        list_runs = ['max_sharpe', 'equal_wt', 'mcc', 'min_volatility']
-        # classifier_list = ['PCA', 'PCA_RF', 'RF_PCA', 'RF', 'None']
-        crap_lst = []
-        sheen_lst = []     
         
         investment = 20000.0
         num_sims_mpt = 10000
@@ -89,25 +68,8 @@ class Advisor(object):
         max_wt = 34.0
         rfr, treasury_date = Clean(self.start1).clean_main()
 
-
-
-        # cols = st.sidebar.columns(1)
-        # with cols[0]:
-        #     run_list = st.multiselect('Portfolio Options:', options=list_runs, default=list_runs, key='opt1')
-
         run_list = ['max_sharpe', 'equal_wt', 'mcc', 'min_volatility']
-                
-        
-        # cols = st.sidebar.columns(2)
-        # with cols[0]:
-        #     graphit_0 = st.selectbox("Graph:", ("Yes", "No"), index=1)
-        #     self.graph1 = f0.true_false(graphit_0)
 
-        #     with cols[1]:
-        #         file_saver = st.selectbox("Save:", ("Yes", "No"), index=0)
-        #         self.save1 = f0.true_false(file_saver)   
-        
-                 
         graphit_0 = "Yes"
         self.graph1 = f0.true_false(graphit_0)
 
@@ -115,43 +77,6 @@ class Advisor(object):
         self.save1 = f0.true_false(file_saver)   
 
         optimize_method = 'markowitz'
-
-
-        # cols = st.sidebar.columns(2)
-        # with cols[0]:
-        #     classifier_select = st.selectbox(label='Classifier Method:', options=classifier_list, index=0) 
-
-        #     with cols[1]:                            
-        #         if classifier_select == 'PCA':
-        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))   
-                            
-        #         elif classifier_select == 'RF_PCA':
-        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
-                        
-        #         elif classifier_select == 'PCA_RF':
-        #             pca_factor = float(st.number_input('PCA-Factor:', 0.01, 1.00, value=0.1))
-
-        #         elif classifier_select == 'RF':
-        #             print('k')                     
-                    
-        #         elif classifier_select == 'None':
-        #             print('k') 
-
-        #         else:
-        #             print('k')
-
-        classifier_select = 'None'
-
-
-        # cols = st.sidebar.columns(2)
-        # with cols[0]:
-        #     use_indicator = st.selectbox(label='Technical Strategy:', options=('Yes','No'), index=1)
-
-        #     if use_indicator == 'Yes':
-        #         with cols[1]:
-        #             crossover_1 = st.selectbox(label="Strategy:", options=sma_ema_choices, index=0)
-
-        use_indicator = 'No'
 
 
 # ______________________________________________________________________________________________________________________________________
@@ -197,8 +122,6 @@ class Advisor(object):
             st.write(f"__◾ Total Tickers In Model = 【{len(port_tics)}】__")    
 
             st.dataframe(data.copy().round(2))
-            # st.text(list(data['ticker']))
-            # st.markdown(len(data['ticker']))
 
 # ______________________________________________________________________________________________________________________________________
 #   | · · · · · · · · · · · · · · · · · · · · · · · · · [[ DATA · COLLECTION ]] · · · · · · · · · · · · · · · · · · · · · · · · · · · ·|
@@ -216,13 +139,8 @@ class Advisor(object):
             st.markdown(len(df_pca.columns))
 
 
-            
             if optimize_method == 'markowitz':
                 (sharpe1, vol1) = p2(self.start1, self.save1, self.graph1).optimize(investment, num_sims_mpt, max_wt, df_pca, rfr)
-
-            if optimize_method == 'efficient_frontier':
-                sharpe1, vol1, best1 = p22(self.start1, rfr, num_sims_mpt, df_pca, max_wt, self.graph1).run_mod()
-                               
         
 
 
