@@ -40,7 +40,6 @@ class Get_Stock_History:
             except:
                 history_data = pd.DataFrame(Ticker(ticker).history(period='1y')).reset_index().set_index('date').round(2)
                 del history_data['symbol']                
-                history_data.to_pickle(self.advisor1 / f"{ticker}_hist_{self.ender_date}.pkl")
 
         if exists(self.saveHist / "all_stock_history_adjclose"):
             try:
