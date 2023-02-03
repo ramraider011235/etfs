@@ -20,11 +20,7 @@ class Get_Stock_History:
         self.saveRaw = Path(f"/home/gdp/hot_box/i4m/data/raw/{self.month_0}/{self.day_0}/")
         self.saveRec = Path(f"/home/gdp/hot_box/i4m/data/recommenders/{self.year_0}/{self.month_0}/{self.day_0}/")
         self.advisor1 = Path(f"/home/gdp/hot_box/i4m/data/advisor/build/{self.month_0}/{self.day_0}/")
-        if not self.advisor1.exists():
-            self.advisor1.mkdir(parents=True)
-        self.saveHist = Path(f"/home/gdp/hot_box/i4m/data/history/{self.year_0}/{self.month_0}/{self.day_0}/")
-        if not self.saveHist.exists():
-            self.saveHist.mkdir(parents=True)            
+        self.saveHist = Path(f"/home/gdp/hot_box/i4m/data/history/{self.year_0}/{self.month_0}/{self.day_0}/")       
 
 
     def function0(self):

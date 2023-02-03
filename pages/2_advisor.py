@@ -94,14 +94,8 @@ class Advisor(object):
             self.saveScreeners = Path(f"data/screeners/{self.month1}/{self.start1}/")
             self.saveTickers = Path(f"data/tickers/{self.month1}/{self.start1}/")
             self.saveReport = Path(f"reports/portfolio/{self.month1}/{self.start1}/")
-
             self.advisor1 = Path(f"data/advisor/build/{self.month1}/{self.start1}/")
-            if not self.advisor1.exists():
-                self.advisor1.mkdir(parents=True)
-
             self.port_res = Path(f"reports/port_results/{self.month1}/{self.start1}/")
-            if not self.port_res.exists():
-                self.port_res.mkdir(parents=True)
 
 
 # _______________________________________________________________________________________________________________________________________
