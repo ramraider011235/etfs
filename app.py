@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Invest · 4m",
-    page_icon="chart_with_upwards_trend",
+    page_title="ETF",
+    page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
@@ -28,7 +28,7 @@ st.markdown(
     MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     footer:after {
-        content:" · Invest · 4M · "; 
+        content:" · ETF · "; 
         visibility: visible;
         display: block;
         position: 'right';
