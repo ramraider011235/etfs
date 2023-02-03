@@ -17,10 +17,10 @@ class Get_Stock_History:
         self.month_0 = str(self.day_0)[:7]
         self.year_0 = str(self.day_0)[:4]
         self.ender_date = str(dt.datetime.now())[:10]
-        self.saveRaw = Path(f"/home/gdp/hot_box/etfs/data/raw/{self.year_0}/{self.month_0}/{self.day_0}/")
-        self.saveRec = Path(f"/home/gdp/hot_box/etfs/data/recommenders/{self.year_0}/{self.month_0}/{self.day_0}/")
-        self.advisor1 = Path(f"/home/gdp/hot_box/etfs/data/advisor/build/{self.month_0}/{self.day_0}/")
-        self.saveHist = Path(f"/home/gdp/hot_box/etfs/data/hist/{self.year_0}/{self.month_0}/{self.day_0}/")       
+        self.saveRaw = Path(f"/data/raw/{self.year_0}/{self.month_0}/{self.day_0}/")
+        self.saveRec = Path(f"/data/recommenders/{self.year_0}/{self.month_0}/{self.day_0}/")
+        self.advisor1 = Path(f"/data/advisor/build/{self.month_0}/{self.day_0}/")
+        self.saveHist = Path(f"/data/hist/{self.year_0}/{self.month_0}/{self.day_0}/")       
 
 
     def function0(self):
