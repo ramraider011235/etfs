@@ -66,7 +66,7 @@ class Get_Stock_History:
                     timeout=None,
                     )['Adj Close']
                 data = pd.DataFrame(data_0).dropna()
-                data.to_pickle(self.saveHist / "all_stock_history_adjclose")
+                # data.to_pickle(self.saveHist / "all_stock_history_adjclose")
                 data.index = pd.to_datetime(data.index)
                 df_train_data = pd.DataFrame(data.loc[:self.day_0])
                 df_test_data = pd.DataFrame(data.loc[self.day_0:])            
@@ -88,7 +88,7 @@ class Get_Stock_History:
                 timeout=None,
                 )['Adj Close']
             data = pd.DataFrame(data_0).dropna()
-            data.to_pickle(self.saveHist / "all_stock_history_adjclose")
+            # data.to_pickle(self.saveHist / "all_stock_history_adjclose")
             data.index = pd.to_datetime(data.index)
             df_train_data = pd.DataFrame(data.loc[:self.day_0])
             df_test_data = pd.DataFrame(data.loc[self.day_0:])            
